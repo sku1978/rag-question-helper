@@ -99,8 +99,8 @@ def generate_batches_with_continuity(pages_dict, main_batch_size=10, max_context
 
 
 if __name__ == "__main__":
-    pdf_path = f"sample_papers/{SUBJECT}/{DOCUMENT_NAME}"
-    output_dir = f"output/{SUBJECT}/{DOCUMENT_NAME.replace('.pdf', '')}"
+    pdf_path = f"../sample_papers/{SUBJECT}/{DOCUMENT_NAME}"
+    output_dir = f"../output/{SUBJECT}/{DOCUMENT_NAME.replace('.pdf', '')}"
     os.makedirs(output_dir, exist_ok=True)
 
     if not os.path.exists(pdf_path):

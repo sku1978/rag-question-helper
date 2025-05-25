@@ -12,7 +12,7 @@ client = OpenAI()
 SUBJECT = "Physics"
 DOCUMENT_NAME = "Edexcel_Science_GCSE_Physics_2023.pdf"
 YEAR = 2023
-OUTPUT_DIR = f"output/{SUBJECT}/{DOCUMENT_NAME.replace('.pdf', '')}"
+OUTPUT_DIR = f"../output/{SUBJECT}/{DOCUMENT_NAME.replace('.pdf', '')}"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 def build_prompt(subject, document_name, year, batch_text, last_question_id=None, main_pages=None):
