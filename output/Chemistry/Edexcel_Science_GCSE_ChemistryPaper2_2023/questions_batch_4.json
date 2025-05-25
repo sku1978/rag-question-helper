@@ -1,0 +1,105 @@
+[
+  {
+    "question_id": "7(b)(i)",
+    "question_text": "Complete Figure 13 to show the structure of one molecule of propane and the formula of butane. alkanes: propane (C3H8), butane (C4H10), pentane (C5H12), hexane (C6H14).",
+    "page": 21,
+    "context_keywords": [
+      "alkanes",
+      "molecular structure",
+      "chemical formula",
+      "propane",
+      "butane"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "7(b)(ii)",
+    "question_text": "Using the information in Figure 13, give the empirical formula of hexane. alkanes: propane (C3H8), butane (C4H10), pentane (C5H12), hexane (C6H14).",
+    "page": 21,
+    "context_keywords": [
+      "alkanes",
+      "empirical formula",
+      "hexane",
+      "chemical formula"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "7(b)(iii)",
+    "question_text": "A student is asked to compare the amount of energy released during the combustion of two alkanes, hexane and octane. Using the apparatus shown in Figure 14, devise a plan for the student to compare the masses of hexane and octane required to raise the temperature of water by 30\u00b0C, describing how any variables in the experiment can be controlled to make a fair comparison.",
+    "page": 22,
+    "context_keywords": [
+      "combustion",
+      "alkanes",
+      "hexane",
+      "octane",
+      "energy release",
+      "experimental design"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(a)",
+    "question_text": "On the grid, plot the results shown in Figure 16. Draw a curve of best fit. Data: time in minutes (0 to 6) and volume of gas in cm3 (0, 52, 78, 91, 97, 100, 100).",
+    "page": 24,
+    "context_keywords": [
+      "data plotting",
+      "curve of best fit",
+      "gas volume",
+      "time",
+      "reaction rate"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(b)(i)",
+    "question_text": "Calculate the rate of reaction for the time interval 2 to 3 minutes. rate of reaction = volume of gas produced in 1 minute / 1 minute.",
+    "page": 25,
+    "context_keywords": [
+      "rate of reaction",
+      "calculation",
+      "time interval",
+      "gas volume"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(b)(ii)",
+    "question_text": "State and explain what happens to the rate of reaction as the acid reacts with the marble chips in this experiment.",
+    "page": 25,
+    "context_keywords": [
+      "rate of reaction",
+      "acid reaction",
+      "marble chips",
+      "chemical kinetics"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(c)",
+    "question_text": "The student repeated the experiment using the same volume of acid and the same mass of marble chips but used smaller marble chips. All other conditions remained the same. The student found that the reaction with the smaller marble chips was faster to start with but produced the same volume of gas. Using this information, draw a line on the grid to show the results for the reaction with the smaller marble chips. Label this line 'C'.",
+    "page": 25,
+    "context_keywords": [
+      "experimental results",
+      "reaction rate",
+      "surface area effect",
+      "marble chips",
+      "acid reaction"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  }
+]

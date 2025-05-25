@@ -1,0 +1,1037 @@
+
+
+
+--- PAGE 1 ---
+P72572A
+
+
+Candidate surname
+Other names
+Centre Number
+Candidate Number
+Pearson Edexcel Level 1/Level 2 GCSE (9–1)
+Thursday 25th May 2023
+Morning (Time: 1 hour 45 minutes)
+1PH0/1F
+Paper
+reference
+Total Marks
+Physics
+PAPER 1
+Foundation Tier
+You must have:
+Calculator, ruler, Equation Booklet (enclosed)
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name,
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided
+– there may be more space than you need .
+Information
+• The total mark for this paper is 100.
+• The marks for each question are shown in brackets
+– use this as a guide as to how much time to spend on each question .
+• In questions marked with an asterisk ( * ), marks will be awarded for your ability to
+structure your answer logically, showing how the points that you make are related or
+follow on from each other where appropriate.
+• A list of equations is included at the end of this exam paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+
+
+
+--- PAGE 2 ---
+Answer ALL questions. Write your answers in the spaces provided.
+answer, put a line through the box
+and then mark your new answer with a cross .
+1 This question is about waves in the electromagnetic (e-m) spectrum.
+
+(a)	 (i)	 Figure 1 shows some types of radiation that form part of the e-m spectrum
+and some uses of e-m radiation.
+
+
+Draw one straight line from each type of e-m radiation to its use.
+
+
+One line has been drawn for you.
+infrared
+visible light
+microwaves
+ultraviolet
+satellite transmission
+disinfecting water
+colour photography
+scanning for
+broken bones
+thermal imaging
+type of radiation
+use of radiation
+Figure 1
+
+
+(ii)	 Which of these waves has the highest frequency?
+
+A infrared
+
+B microwaves
+
+C ultraviolet
+
+D visible light
+
+
+
+--- PAGE 3 ---
+
+(b)	 X-rays are also part of the e-m spectrum.
+
+Figure 2 shows an airport security scanner using X-rays to scan passengers’ bags.
+(Source: © Net Vector / Shutterstock)
+Figure 2
+
+
+(i)	 Explain why X-rays are used to scan passengers’ bags.
+
+
+(ii)	 Explain why passengers are not scanned with X-rays.
+
+
+
+--- PAGE 4 ---
+2 (a)	 Figure 3 shows a ray of light striking a mirror.
+
+The angle of incidence is 30˚ and the ray of light is reflected.
+incident ray
+mirror
+30°
+reflected ray
+normal
+Figure 3
+
+The angle of reflection is the angle between
+
+A the mirror and the incident ray
+
+B the mirror and the normal
+
+C the reflected ray and the incident ray
+
+D the reflected ray and the normal
+
+(b)	 Figure 4 shows two lenses, P and Q, arranged to form a simple telescope.
+P
+Q
+Figure 4
+
+
+(i)	 State one use for a telescope.
+
+
+
+--- PAGE 5 ---
+
+
+(ii)	 Which of these describes the lenses?
+
+A P is converging, Q is diverging
+
+B P is diverging, Q is converging
+
+C P and Q are both converging
+
+D P and Q are both diverging
+
+
+(iii)	 The focal length of lens Q is 0.14 m.
+
+
+Calculate the power of the lens.
+
+
+Use the equation
+power =
+1
+focal length in m
+power of lens = ..............................................................
+
+(c)	 A student is in a laboratory that has windows.
+
+The student is given a converging lens, and a sheet of paper.
+
+Describe how the student can produce an image of the window frame on the
+sheet of paper.
+
+
+
+--- PAGE 6 ---
+3 (a)	 The graph in Figure 5 shows how the velocity of a car changes with time.
+
+The car starts from rest and travels along a level, straight road for 50 s.
+50
+40
+30
+20
+10
+0
+time in s
+25
+20
+15
+10
+5
+0
+velocity
+in m / s
+P
+Q
+R
+S
+T
+Figure 5
+
+
+(i)	 Which part of the graph shows when the car has constant velocity?
+
+A PQ
+
+B QR
+
+C RS
+
+D ST
+
+
+(ii)	 Which part of the graph shows when the car has the greatest acceleration?
+
+A PQ
+
+B QR
+
+C RS
+
+D ST
+
+
+
+--- PAGE 7 ---
+
+
+(iii)	 Calculate the acceleration of the car in the first 10 s shown on the graph.
+
+
+Use the equation
+acceleration = change in velocity
+time
+acceleration = ..............................................................
+
+
+(iv)	 Calculate the distance the car travels in part QR shown on the velocity / time
+graph in Figure 5.
+distance = ..............................................................
+
+(b)	 A different car has a mass of 1200 kg.
+
+Calculate the force needed to give this car an acceleration of 2.4 m / s 2 .
+
+Use the equation
+F = m × a
+force =
+
+
+
+--- PAGE 8 ---
+4 An atom has a central nucleus containing neutrons and protons.
+
+Electrons orbit the nucleus.
+
+(a)	 (i)	 Which row of the table gives the relative mass and charge of a proton?
+
+A
+
+B
+
+C
+
+D
+relative mass
+charge
+0
++1
+0
+–1
+1
++1
+1
+–1
+
+
+(ii)	 An atom has a radius of 1.0 × 10 –10 m.
+
+
+A nucleus has a radius of 1.0 × 10 –15 m.
+
+
+Calculate the ratio of the radius of the atom to the radius of the nucleus.
+ratio of radius of atom to radius of nucleus =
+
+
+(iii)	 Explain why an atom has no charge overall.
+
+
+
+--- PAGE 9 ---
+
+(b)	 One isotope of carbon is carbon-14.
+14
+6 C
+
+
+(i)	 State the number of protons in one atom of carbon-14.
+number of protons =
+
+
+(ii)	 State the number of neutrons in one atom of carbon-14.
+number of neutrons =
+
+
+(iii)	 Figure 6 shows a graph for the decay of the radioactive isotope carbon-14.
+20 000
+15 000
+10 000
+5000
+0
+35
+30
+25
+20
+15
+10
+5
+0
+time in years
+count rate
+in counts
+per minute
+Figure 6
+
+
+Use the graph to estimate the half-life of carbon-14.
+half-life = ..............................................................
+
+
+
+--- PAGE 10 ---
+BLANK PAGE
+
+
+
+--- PAGE 11 ---
+5 (a)	 Figure 7 shows a wave on the surface of water.
+direction of travel of wave
+A
+B
+C
+D
+Figure 7
+
+
+(i)	 Which of the arrowed lines shows the amplitude of the wave?
+
+A
+
+B
+
+C
+
+D
+
+
+(ii)	 Explain why the wave shown in Figure 7 is a transverse wave.
+
+
+
+--- PAGE 12 ---
+
+(b)	 Figure 8 shows a ripple tank.
+
+A screen is placed below the ripple tank.
+
+The wave pattern produced by the ripples can be seen on the screen.
+lamp
+vibrating bar
+wave pattern on screen
+ripple tank with water
+Figure 8
+
+A student has a stop clock and a ruler.
+
+
+(i)	 Describe how the student could measure the frequency of the ripples.
+
+
+(ii)	 Describe how the student could measure the wavelength of the ripples.
+
+
+
+--- PAGE 13 ---
+
+(c)	 In a swimming pool, a wave is produced with a wavelength of 4.0 m and a velocity
+of 0.8 m / s.
+
+Calculate the frequency of the wave.
+
+State the unit of frequency.
+
+Use the equation
+v = f × λ
+frequency of wave .............................................................. unit
+
+
+
+--- PAGE 14 ---
+6 (a)	 Figure 9 shows a metal cube filled with hot water.
+thermal energy
+detector
+matt white
+shiny white
+wooden block
+metal cube
+containing hot water
+shiny black
+matt black
+millivoltmeter
+Figure 9
+
+Four sides of the cube have different surfaces, as shown in Figure 9.
+
+The four surfaces are at the same temperature.
+
+The thermal energy radiated by each side of the box is measured using a thermal
+energy detector connected to a millivoltmeter.
+
+The detector is moved to get a reading of the thermal energy emitted from each
+side of the box.
+
+Figure 10 shows the table of results.
+type of surface
+millivoltmeter reading
+in mV
+matt white
+32
+shiny white
+20
+shiny black
+matt black
+55
+Figure 10
+
+
+(i)	 Suggest a possible millivoltmeter reading for the shiny black surface.
+............................................................................................................................
+
+
+
+--- PAGE 15 ---
+
+
+(ii)	 State what must be kept the same to take the measurement for each surface.
+
+
+(iii)	 Suggest why the cube is placed on a block of wood.
+
+(b)	 A hot surface emits radiation of different wavelengths.
+
+The graph in Figure 11 shows how the intensity of the radiation emitted changes
+with the wavelength.
+25
+20
+15
+10
+5
+0
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0
+wavelength in μ m
+intensity
+in μ W / m 2
+Figure 11
+
+Describe how intensity changes with wavelength in Figure 11.
+
+
+
+--- PAGE 16 ---
+
+(c)	 Figure 12 shows two cans, a radiant heater and some other apparatus.
+
+The cans absorb thermal radiation from the heater.
+
+One can has a matt black surface and the other can has a shiny silver surface.
+
+Both cans contain water at the same temperature.
+metal can with
+matt black
+surface
+metal can with
+shiny silver
+surface
+thermometer
+cold water
+cold water
+radiant heater
+stop clock
+thermometer
+Figure 12
+
+Describe how a student could use the apparatus in Figure 12 to determine which
+can is the better absorber of thermal radiation.
+
+
+
+--- PAGE 17 ---
+7 This question is about radioactivity and its uses.
+
+(a)	 Which of these radiations does not have a charge?
+
+A alpha
+
+B beta minus
+
+C beta plus
+
+D gamma
+
+(b)	 Which of these radiations is used in smoke detectors?
+
+A alpha
+
+B beta minus
+
+C beta plus
+
+D gamma
+
+(c)	 The diagram in Figure 13 shows a radioactive source used to check the thickness
+of paper.
+paper pulp
+machine to
+adjust pressure
+of rollers on
+paper pulp
+counter
+detector
+radioactive
+source
+sheet
+of paper
+rollers
+Figure 13
+
+
+(i)	 Name the type of radiation used to check the thickness of the paper.
+
+
+(ii)	 Give the name of one device which could detect this type of radiation.
+
+
+
+--- PAGE 18 ---
+
+When the paper is the correct thickness, the count rate is 4000 counts per minute.
+
+
+(iii)	 The count rate increases when the paper gets thinner.
+
+
+Give one reason for this increase.
+
+
+(iv)	 The rollers need to be adjusted if the count rate increases by 5%.
+
+
+Calculate the maximum count rate that would be allowed before the rollers
+need to be adjusted.
+maximum count rate = ..............................................................
+
+
+
+--- PAGE 19 ---
+
+*(d)	 Radioactivity from radioactive sources can be used in the diagnosis and treatment
+of cancer.
+
+Describe one way radioactivity can be used in the diagnosis of cancer and
+one way radioactivity can be used in the treatment of cancer.
+
+
+
+--- PAGE 20 ---
+8 (a)	 Which of these is a scalar quantity?
+
+A acceleration
+
+B distance
+
+C force
+
+D weight
+
+(b)	 A student has some cupcake cases.
+
+One cupcake case is shown in Figure 14.
+(Source: © Anton Starikov/Shutterstock)
+Figure 14
+
+The student drops a stack of cupcake cases with the base facing downwards,
+as shown in Figure 15.
+(Source: © Elena Schweitzer/Shutterstock)
+Figure 15
+
+The speed of the falling stack of cupcake cases depends on the number of
+cupcake cases in the stack.
+
+
+
+--- PAGE 21 ---
+
+
+(i)	 The student also has a stop clock and a metre rule.
+
+
+Describe an investigation to show how the speed of the falling stack of
+cupcake cases depends on the number of cupcake cases in the stack.
+
+
+(ii)	 A stack of cupcake cases has a mass of 0.005 kg.
+
+
+Calculate the weight, in newtons, of the stack of cupcake cases.
+
+
+Gravitational field strength = 10 N / kg
+
+
+Use the equation
+W = mg
+weight =
+
+
+
+--- PAGE 22 ---
+
+Figure 16 shows a cupcake case that is falling at a constant velocity.
+cupcake case
+weight
+Figure 16
+
+
+(iii)	 Draw an arrow on Figure 16 to show the force due to air resistance on the
+cupcake case.
+
+
+(iv)	 State the value of the acceleration of the cupcake case when it is falling at a
+constant velocity
+
+(c)	 A car travels along a straight road.
+
+The car accelerates at 3 m / s 2 for a time of 7 s.
+
+Calculate the change in velocity of the car.
+
+Use the equation
+change in velocity = acceleration × time taken
+change in velocity = ..............................................................
+
+
+
+--- PAGE 23 ---
+9 (a)	 Figure 17 shows a football kicked against a wall.
+solid wall
+football
+Figure 17
+
+The football has a mass of 0.42 kg.
+
+
+(i)	 The football gains 11 J of gravitational potential energy as it moves from the
+ground to the wall.
+
+
+Calculate the height at which the ball hits the wall.
+
+
+Gravitational field strength = 10 N / kg
+
+
+Use the equation
+∆ GPE = m × g × ∆ h
+height = ..............................................................
+
+
+(ii)	 Calculate the kinetic energy of the football when it is moving at a velocity
+of 12 m / s.
+
+
+Use the equation
+KE = 1
+2 × m × v 2
+kinetic energy =
+
+
+
+--- PAGE 24 ---
+
+
+(iii)	 Describe the energy transfers that happen when the ball hits the wall.
+
+*(b)	 In the UK, electricity is generated using non‑renewable and renewable
+energy resources.
+
+The graph in Figure 18 shows how the amount of electricity generated by these
+resources changed from 2012 to 2020.
+Key
+non‑renewable
+resources
+2020
+2019
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+time in years from 2012 to 2020
+30
+25
+20
+15
+10
+5
+0
+electricity
+generated in
+terawatt hours
+Figure 18
+
+
+
+--- PAGE 25 ---
+
+Explain how and why the amount of electricity generated by renewable and non-
+renewable energy resources has changed from 2012 to 2020.
+
+Your answer should include
+•
+the trends shown in Figure 18
+•
+the change in the amount of electricity generated by at least one
+renewable resource
+•
+the change in the amount of electricity generated by at least one
+non‑renewable resource.
+
+
+
+--- PAGE 26 ---
+BLANK PAGE
+
+
+
+--- PAGE 27 ---
+10 (a)	 Figure 19 shows two objects, E and D .
+D
+E
+Figure 19
+
+E emits a sound.
+
+D detects the sound.
+
+E is moving in the direction shown by the arrow, but D is not moving.
+
+E emits a sound of wavelength 1.86 m.
+
+D measures the wavelength of this sound as 1.98 m.
+
+
+(i)	 Calculate the difference between the wavelength that E emits and the
+wavelength that D detects.
+difference in wavelength = ..............................................................
+
+
+(ii)	 The velocity of sound is 330 m / s.
+
+
+Calculate the velocity of E .
+
+
+Use the equation
+velocity of E = velocity of sound
+difference in wavelength
+wavelength  emi
+×
+E
+ts
+velocity of E = ..............................................................
+
+
+
+--- PAGE 28 ---
+
+(b)	 The wavelength of light emitted from distant galaxies is different when the light is
+detected on Earth.
+
+Explain how this difference in wavelength shows that the Universe is expanding.
+
+(c)	 CMB radiation provides evidence that the Universe had a definite beginning.
+
+Use the table in Figure 20 to give a typical value for the wavelength of
+CMB radiation.
+type of radiation
+typical wavelength
+gamma rays
+1.0 × 10 –12 m
+X-rays
+3.0 × 10 –11 m
+ultraviolet
+200 nm
+visible
+600 nm
+infrared
+4.0 μ m
+microwaves
+1.0 mm
+radio waves
+50 m
+Figure 20
+wavelength =
+
+(d)	 During the evolution of a star, the nebula collapses and becomes a main
+sequence star.
+
+
+(i)	 State what causes the nebula to collapse.
+
+
+
+--- PAGE 29 ---
+
+
+(ii)	 Explain why the nebula stops collapsing as it becomes a main sequence star.
+TOTAL FOR PAPER = 100 MARKS
+
+
+
+--- PAGE 30 ---
+Equations
+(final velocity) 2 – (initial velocity) 2 = 2 × acceleration × distance
+v 2 – u 2 = 2 × a × x
+energy transferred = current × potential difference × time
+E = I × V × t
+potential difference across primary coil × current in primary coil = potential difference across
+secondary coil × current in secondary coil
+V p × I p = V s × I s
+change in thermal energy = mass × specific heat capacity × change in temperature
+Δ Q = m × c × Δ θ
+thermal energy for a change of state = mass × specific latent heat
+Q = m × L
+P 1 V 1 = P 2 V 2
+to calculate pressure or volume for gases of fixed mass at constant temperature
+energy transferred in stretching = 0.5 × spring constant × (extension) 2
+E = ½ × k × x 2
+
+
+
+--- PAGE 31 ---
+BLANK PAGE
+
+
+
+--- PAGE 32 ---
+BLANK PAGE
+
+
+
+--- PAGE 33 ---
+Paper
+reference
+
+
+Equation Booklet
+Do not return this Booklet with the question paper.
+P72572A
+©2023 Pearson Education Ltd.
+1PH0/1F
+Pearson Edexcel Level 1/Level 2 GCSE (9–1)
+May–June 2023 Assessment Window
+Physics
+PAPER 1
+Foundation Tier
+
+
+
+--- PAGE 34 ---
+If you’re taking GCSE (9–1) Combined Science or GCSE (9–1) Physics , you will need
+these equations:
+HT = higher tier
+distance travelled = average speed × time
+acceleration = change in velocity ÷ time taken
+a
+v
+u
+t
+
+
+
+
+force = mass × acceleration
+F = m × a
+weight = mass × gravitational field strength
+W = m × g
+HT
+momentum = mass × velocity
+p = m × v
+change in gravitational potential energy = mass × gravitational
+field strength × change in vertical height
+∆ GPE = m × g × ∆ h
+kinetic energy = 1/2 × mass × (speed) 2
+KE
+m v
+
+
+
+1
+2
+2
+efficiency =
+wave speed = frequency × wavelength
+v = f × λ
+wave speed = distance ÷ time
+v
+x
+t
+=
+work done = force × distance moved in the direction of the force
+E = F × d
+power = work done ÷ time taken
+P
+E
+t
+=
+energy transferred = charge moved × potential difference
+E = Q × V
+charge = current × time
+Q = I × t
+potential difference = current × resistance
+V = I × R
+power = energy transferred ÷ time taken
+P
+E
+t
+=
+electrical power = current × potential difference
+P = I × V
+electrical power = (current) 2 × resistance
+P = I 2 × R
+density = mass ÷ volume
+= m
+V
+ρ
+useful energy transferred by the device
+total energy supp
+
+
+lied to the device
+
+
+
+
+
+--- PAGE 35 ---
+force exerted on a spring = spring constant × extension
+F = k × x
+(final velocity) 2 – (initial velocity) 2 = 2 × acceleration × distance
+v 2 − u 2 = 2 × a × x
+HT
+force = change in momentum ÷ time
+
+F
+mv
+mu
+t
+
+
+
+
+energy transferred = current × potential difference × time
+E = I × V × t
+HT
+force on a conductor at right angles to a magnetic field
+carrying a current = magnetic flux density × current × length
+F = B × I × l
+For transformers with 100% efficiency, potential difference across
+primary coil × current in primary coil = potential difference
+across secondary coil × current in secondary coil
+V P × I P = V S × I S
+change in thermal energy = mass × specific heat capacity ×
+change in temperature
+∆ Q = m × c × ∆ θ
+thermal energy for a change of state = mass × specific latent
+heat
+Q = m × L
+energy transferred in stretching = 0.5 × spring constant ×
+(extension) 2
+E
+k
+x
+
+
+1
+2
+2
+If you’re taking GCSE (9–1) Physics , you also need these extra equations:
+moment of a force = force × distance normal to the direction
+of the force
+pressure = force normal to surface ÷ area of surface
+P
+F
+A
+=
+HT
+potential difference across primary coil
+potential difference across secondary coil
+number of turns in primary coil
+n
+=
+umber of turns in secondary coil
+V
+V
+N
+N
+p
+S
+p
+S
+=
+to calculate pressure or volume for gases of fixed mass at constant
+temperature
+P 1 × V 1 = P 2 × V 2
+HT
+pressure due to a column of liquid = height of column × density of
+liquid × gravitational field strength
+P = h × ρ × g
+END OF EQUATION LIST
+
+
+
+--- PAGE 36 ---
+BLANK PAGE

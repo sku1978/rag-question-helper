@@ -1,0 +1,120 @@
+[
+  {
+    "question_id": "1(a)",
+    "question_text": "Figure 1 shows the structure of a molecule of each of four compounds, A, B, C, and D. The formula of a molecule of compound A is H2O. Give the formula of a molecule of compound D.",
+    "page": 2,
+    "context_keywords": [
+      "compound",
+      "molecule",
+      "formula",
+      "structure",
+      "H2O"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)",
+    "question_text": "Figure 1 shows the structure of a molecule of each of four compounds, A, B, C, and D. The names of two of the compounds in Figure 1 are shown below. Draw one straight line from each name to the structure of a molecule of that compound.",
+    "page": 2,
+    "context_keywords": [
+      "compound",
+      "molecule",
+      "structure",
+      "carbon dioxide",
+      "methane"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "1(c)",
+    "question_text": "Figure 2 shows information about the number of electrons in the outer shell of each of the different atoms in a molecule of compound C. Use the information in Figure 2 to complete the dot and cross diagram for a molecule of compound C.",
+    "page": 3,
+    "context_keywords": [
+      "electrons",
+      "outer shell",
+      "compound C",
+      "dot and cross diagram"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "1(d)",
+    "question_text": "The atomic number of phosphorus, P, is 15. One atom of phosphorus has a relative atomic mass of 31. Give the number of protons, neutrons, and electrons in this atom of phosphorus.",
+    "page": 3,
+    "context_keywords": [
+      "phosphorus",
+      "atomic number",
+      "relative atomic mass",
+      "protons",
+      "neutrons",
+      "electrons"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "2(a)",
+    "question_text": "A student investigated the temperature change that took place when different salts were dissolved in water. The student used the following method: steps 1 to 5. Figure 3 shows the apparatus used. For steps 2 and 3, the student obtained the mass measurements shown in Figure 4 for the first salt. Use the mass measurements in Figure 4 to calculate the mass of salt, in grams, added to the water.",
+    "page": 4,
+    "context_keywords": [
+      "temperature change",
+      "salts",
+      "dissolved",
+      "water",
+      "mass measurements"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "2(b)(i)",
+    "question_text": "The student repeated the method for three different salts, A, B, and C. The same mass of each salt was used. Figure 5 shows the temperature readings obtained for the three different salts. Calculate the temperature change for salt C. Include a sign to show if the temperature change is an increase or a decrease.",
+    "page": 5,
+    "context_keywords": [
+      "temperature change",
+      "salts",
+      "method",
+      "temperature readings"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "2(b)(ii)",
+    "question_text": "The student repeated the method for three different salts, A, B, and C. The same mass of each salt was used. Figure 5 shows the temperature readings obtained for the three different salts. Explain which salt produces the biggest exothermic change.",
+    "page": 5,
+    "context_keywords": [
+      "exothermic change",
+      "salts",
+      "temperature readings",
+      "method"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "2(c)",
+    "question_text": "A student investigated the temperature change that took place when different salts were dissolved in water. The student used the following method: steps 1 to 5. Figure 3 shows the apparatus used. Explain why a polystyrene cup is a better container to use for this investigation than a glass beaker.",
+    "page": 5,
+    "context_keywords": [
+      "polystyrene cup",
+      "glass beaker",
+      "temperature change",
+      "salts",
+      "dissolved"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "question_id": "4(b)(i)",
+    "question_text": "Use words from the box to complete the following sentence. Over the past 3 billion years the average surface temperature of the Earth ............................................................................................................................",
+    "page": 11,
+    "context_keywords": [
+      "Earth",
+      "surface temperature",
+      "3 billion years",
+      "change"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(b)(ii)",
+    "question_text": "The Earth\u2019s atmosphere 3 billion years ago contained much more water vapour than today\u2019s atmosphere. Explain what happened to the water vapour.",
+    "page": 11,
+    "context_keywords": [
+      "Earth's atmosphere",
+      "water vapour",
+      "3 billion years",
+      "change"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(c)(i)",
+    "question_text": "Carbon dioxide was used in the growth of primitive plants and produced oxygen. Give the name of the process in plants that takes in carbon dioxide and produces oxygen.",
+    "page": 11,
+    "context_keywords": [
+      "carbon dioxide",
+      "oxygen",
+      "primitive plants",
+      "photosynthesis"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(c)(ii)",
+    "question_text": "Which of the following tests would show that a gas is oxygen? A put a lighted splint into the gas and it burns with a pop B put a glowing splint into the gas and it relights C put a lighted splint into the gas and it relights D put a glowing splint into the gas and it burns with a pop",
+    "page": 11,
+    "context_keywords": [
+      "oxygen",
+      "gas test",
+      "lighted splint",
+      "glowing splint"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(d)(i)",
+    "question_text": "The amount of carbon dioxide in the atmosphere is measured in parts per million (ppm). Figure 8 shows the amount of carbon dioxide in the atmosphere in June 2001 and in June 2021. Calculate the increase in the amount of carbon dioxide, in ppm, from June 2001 to June 2021. Give your answer to the nearest whole number. increase in amount of carbon dioxide =",
+    "page": 12,
+    "context_keywords": [
+      "carbon dioxide",
+      "atmosphere",
+      "increase",
+      "ppm",
+      "2021",
+      "2001"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(d)(ii)",
+    "question_text": "State one possible effect that could be caused by the increasing amount of carbon dioxide in the atmosphere.",
+    "page": 12,
+    "context_keywords": [
+      "carbon dioxide",
+      "atmosphere",
+      "effects",
+      "climate change"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(a)",
+    "question_text": "Ethanol can be made by fermentation of a solution of glucose, a carbohydrate. A student used the apparatus shown in Figure 9 for the fermentation reaction. Complete the missing label on Figure 9.",
+    "page": 14,
+    "context_keywords": [
+      "ethanol",
+      "fermentation",
+      "glucose",
+      "apparatus",
+      "label"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(b)",
+    "question_text": "The student dissolved 45 g of glucose in water to make 150 cm3 of glucose solution. Calculate the concentration of this solution in g dm\u20133. concentration of glucose solution =",
+    "page": 14,
+    "context_keywords": [
+      "glucose",
+      "solution",
+      "concentration",
+      "calculation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(c)",
+    "question_text": "State what should be added to the glucose solution to cause the fermentation reaction.",
+    "page": 14,
+    "context_keywords": [
+      "glucose solution",
+      "fermentation",
+      "additive"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(d)",
+    "question_text": "After a few days, a dilute solution of ethanol is formed. Which piece of apparatus should be used to produce a concentrated solution of ethanol from the dilute solution of ethanol by fractional distillation?",
+    "page": 15,
+    "context_keywords": [
+      "ethanol",
+      "fractional distillation",
+      "apparatus",
+      "concentration"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(e)",
+    "question_text": "The complete fermentation of 180 g of glucose produces 92 g of ethanol. Calculate the maximum mass of ethanol, in g, produced from the complete fermentation of 45 g of glucose. maximum mass of ethanol =",
+    "page": 15,
+    "context_keywords": [
+      "fermentation",
+      "glucose",
+      "ethanol",
+      "yield",
+      "calculation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "question_id": "5(f)",
+    "question_text": "The structure of a molecule of ethanol is shown in Figure 10. Ethanol is an example of an alcohol. What is the functional group of an alcohol?",
+    "page": 16,
+    "context_keywords": [
+      "ethanol",
+      "molecule structure",
+      "functional group",
+      "alcohol",
+      "chemistry"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(g)",
+    "question_text": "Ethanol can be oxidised to form ethanoic acid. State what is seen when a piece of universal indicator paper is placed in some dilute ethanoic acid.",
+    "page": 16,
+    "context_keywords": [
+      "ethanol",
+      "oxidation",
+      "ethanoic acid",
+      "universal indicator",
+      "acidity"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(a)",
+    "question_text": "Chlorine is an element in group 7 of the periodic table. What name is given to group 7 of the periodic table?",
+    "page": 17,
+    "context_keywords": [
+      "chlorine",
+      "periodic table",
+      "group 7",
+      "element"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)(i)",
+    "question_text": "Chlorine reacts with sodium to form sodium chloride. Write the word equation for this reaction.",
+    "page": 17,
+    "context_keywords": [
+      "chlorine",
+      "sodium",
+      "sodium chloride",
+      "reaction",
+      "word equation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)(ii)",
+    "question_text": "Chlorine, Cl2, is made of simple molecules. Describe what is meant by the term molecule.",
+    "page": 17,
+    "context_keywords": [
+      "chlorine",
+      "molecule",
+      "simple molecules",
+      "chemical structure"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)(iii)",
+    "question_text": "Sodium, like all metals, conducts electricity. Explain how sodium conducts electricity.",
+    "page": 17,
+    "context_keywords": [
+      "sodium",
+      "metals",
+      "electricity",
+      "conductivity"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)(iv)",
+    "question_text": "Sodium chloride contains sodium ions, Na+, and chloride ions, Cl\u2013. Use this information to state the formula of sodium chloride.",
+    "page": 17,
+    "context_keywords": [
+      "sodium chloride",
+      "ions",
+      "chemical formula",
+      "sodium",
+      "chloride"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)(v)",
+    "question_text": "Sodium chloride is made of a giant structure of ions. Which diagram shows the arrangement of particles in sodium chloride?",
+    "page": 18,
+    "context_keywords": [
+      "sodium chloride",
+      "ionic structure",
+      "particles",
+      "diagram"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)(vi)",
+    "question_text": "Sodium chloride solution conducts electricity. State what can be put into the circuit in Figure 11 to show that a current is flowing.",
+    "page": 18,
+    "context_keywords": [
+      "sodium chloride",
+      "electricity",
+      "conductivity",
+      "circuit",
+      "current"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(c)(i)",
+    "question_text": "Figure 12 shows a flow diagram of how hydrochloric acid can be made. Balance the equation for the reaction between hydrogen and chlorine to form hydrogen chloride.",
+    "page": 19,
+    "context_keywords": [
+      "hydrochloric acid",
+      "hydrogen",
+      "chlorine",
+      "reaction",
+      "balancing equations"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(c)(ii)",
+    "question_text": "State how hydrogen chloride can be converted into hydrochloric acid.",
+    "page": 19,
+    "context_keywords": [
+      "hydrogen chloride",
+      "hydrochloric acid",
+      "conversion",
+      "chemical process"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "7(a)(i)",
+    "question_text": "In the complete combustion of alkanes, the alkane reacts with oxygen to produce carbon dioxide and water only. Pentane, C5H12, is an alkane. The equation for the complete combustion of pentane, C5H12, can be shown as C5H12 + 8O2 \u2192 wCO2 + 6H2O. What is the value of w needed to balance the equation for the reaction?",
+    "page": 20,
+    "context_keywords": [
+      "alkanes",
+      "combustion",
+      "pentane",
+      "chemical equation",
+      "balancing"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "7(a)(ii)",
+    "question_text": "What happens to pentane in this reaction?",
+    "page": 20,
+    "context_keywords": [
+      "pentane",
+      "reaction",
+      "combustion",
+      "chemical change"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  }
+]

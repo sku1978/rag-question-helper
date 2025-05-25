@@ -1,0 +1,145 @@
+[
+  {
+    "question_id": "8(d)",
+    "question_text": "Which of the following changes would make the reaction faster?\nA use a larger boiling tube\nB use a larger volume of the dilute acid\nC use a more concentrated acid\nD use a smaller boiling tube",
+    "page": 26,
+    "context_keywords": [
+      "reaction rate",
+      "boiling tube",
+      "acid concentration",
+      "volume of acid"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(e)",
+    "question_text": "State what could be used to measure time in the investigation.",
+    "page": 26,
+    "context_keywords": [
+      "time measurement",
+      "investigation",
+      "experimental tools"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(a)",
+    "question_text": "Explain, in terms of their electronic configurations, why these metals are placed in group 1 of the periodic table.",
+    "page": 27,
+    "context_keywords": [
+      "group 1 metals",
+      "electronic configuration",
+      "periodic table"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(b)",
+    "question_text": "Which row shows two correct properties of group 1 metals?\nA\nB\nC\nD",
+    "page": 27,
+    "context_keywords": [
+      "group 1 metals",
+      "properties",
+      "chemical properties"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(c)",
+    "question_text": "The word equation for the reaction of potassium with bromine is\npotassium + bromine \u2192 potassium bromide\nAdd the missing state symbol and balance the equation for this reaction.\n............... K( ............... ) + Br 2 (g) \u2192 ............... KBr(s)",
+    "page": 28,
+    "context_keywords": [
+      "chemical reaction",
+      "potassium",
+      "bromine",
+      "equation balancing"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(d)",
+    "question_text": "A sample of potassium contains three isotopes, potassium-39, potassium-40 and potassium-41.\nExplain the meaning of the term isotopes.",
+    "page": 28,
+    "context_keywords": [
+      "isotopes",
+      "potassium",
+      "atomic structure"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(e)",
+    "question_text": "The reactivity of the group 1 metals increases from lithium to caesium.\nOften, teachers demonstrate the reactions of lithium, sodium and potassium with water.\nThese reactions can be used to predict the behaviour and reactions of rubidium and caesium with water.\nDescribe the reactions of each of the group 1 metals with water including the predicted behaviour and reactions of rubidium and caesium.\nYou may use word equations in your answer.",
+    "page": 28,
+    "context_keywords": [
+      "group 1 metals",
+      "reactivity",
+      "water reaction",
+      "lithium",
+      "sodium",
+      "potassium",
+      "rubidium",
+      "caesium"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "10(a)",
+    "question_text": "Atoms, molecules, nanoparticles and protons are types of particle.\nList these four types of particle in order of size from smallest to largest.\nsmallest\nlargest",
+    "page": 30,
+    "context_keywords": [
+      "particles",
+      "atoms",
+      "molecules",
+      "nanoparticles",
+      "protons",
+      "size order"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "10(b)(i)",
+    "question_text": "Nanoparticles have a large surface area to volume ratio.\nFigure 19 shows a cube-shaped nanoparticle with sides of 90\u2009nm.\nWhat is 90\u2009nm in metres?\nA 9.0 \u00d7 10 \u20135\nB 9.0 \u00d7 10 \u20136\nC 9.0 \u00d7 10 \u20138\nD 9.0 \u00d7 10 \u201311",
+    "page": 30,
+    "context_keywords": [
+      "nanoparticles",
+      "measurement",
+      "conversion",
+      "nanometres",
+      "metres"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "10(b)(ii)",
+    "question_text": "Calculate the simplest surface area to volume ratio for the nanoparticle in Figure 19.\nShow your working.\nsurface area to volume ratio = 1 :",
+    "page": 30,
+    "context_keywords": [
+      "surface area",
+      "volume ratio",
+      "nanoparticle",
+      "calculation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  }
+]

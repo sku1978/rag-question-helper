@@ -1,0 +1,135 @@
+[
+  {
+    "question_id": "1(a)(i)",
+    "question_text": "This question is about waves in the electromagnetic (e-m) spectrum. Draw one straight line from each type of e-m radiation to its use. One line has been drawn for you. Figure 1 shows some types of radiation that form part of the e-m spectrum and some uses of e-m radiation.",
+    "page": 2,
+    "context_keywords": [
+      "electromagnetic spectrum",
+      "radiation",
+      "uses",
+      "Figure 1",
+      "drawing"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "1(a)(ii)",
+    "question_text": "This question is about waves in the electromagnetic (e-m) spectrum. Which of these waves has the highest frequency? A infrared B microwaves C ultraviolet D visible light",
+    "page": 2,
+    "context_keywords": [
+      "electromagnetic spectrum",
+      "frequency",
+      "waves",
+      "multiple choice"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)(i)",
+    "question_text": "X-rays are also part of the e-m spectrum. Figure 2 shows an airport security scanner using X-rays to scan passengers\u2019 bags. Explain why X-rays are used to scan passengers\u2019 bags.",
+    "page": 3,
+    "context_keywords": [
+      "X-rays",
+      "airport security",
+      "scanning",
+      "Figure 2",
+      "explanation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)(ii)",
+    "question_text": "X-rays are also part of the e-m spectrum. Figure 2 shows an airport security scanner using X-rays to scan passengers\u2019 bags. Explain why passengers are not scanned with X-rays.",
+    "page": 3,
+    "context_keywords": [
+      "X-rays",
+      "airport security",
+      "safety",
+      "Figure 2",
+      "explanation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "2(a)",
+    "question_text": "Figure 3 shows a ray of light striking a mirror. The angle of incidence is 30\u02da and the ray of light is reflected. The angle of reflection is the angle between A the mirror and the incident ray B the mirror and the normal C the reflected ray and the incident ray D the reflected ray and the normal",
+    "page": 4,
+    "context_keywords": [
+      "light",
+      "reflection",
+      "mirror",
+      "angle",
+      "multiple choice"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "2(b)(i)",
+    "question_text": "Figure 4 shows two lenses, P and Q, arranged to form a simple telescope. State one use for a telescope.",
+    "page": 4,
+    "context_keywords": [
+      "telescope",
+      "lenses",
+      "uses",
+      "Figure 4"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "2(b)(ii)",
+    "question_text": "Figure 4 shows two lenses, P and Q, arranged to form a simple telescope. Which of these describes the lenses? A P is converging, Q is diverging B P is diverging, Q is converging C P and Q are both converging D P and Q are both diverging",
+    "page": 4,
+    "context_keywords": [
+      "telescope",
+      "lenses",
+      "types",
+      "multiple choice",
+      "Figure 4"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "2(b)(iii)",
+    "question_text": "Figure 4 shows two lenses, P and Q, arranged to form a simple telescope. The focal length of lens Q is 0.14 m. Calculate the power of the lens. Use the equation power = 1 / focal length in m",
+    "page": 4,
+    "context_keywords": [
+      "telescope",
+      "lens power",
+      "calculation",
+      "focal length",
+      "Figure 4"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "2(c)",
+    "question_text": "A student is in a laboratory that has windows. The student is given a converging lens, and a sheet of paper. Describe how the student can produce an image of the window frame on the sheet of paper.",
+    "page": 5,
+    "context_keywords": [
+      "converging lens",
+      "image formation",
+      "laboratory",
+      "experiment",
+      "description"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "question_id": "3(a)(i)",
+    "question_text": "Organisms can be classified by the five kingdom or three domain method. What is the name of the domain that plants belong to? A Eukarya B Archaea C Monera D Protista",
+    "page": 6,
+    "context_keywords": [
+      "classification",
+      "domains",
+      "plants",
+      "Eukarya",
+      "taxonomy"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "3(a)(ii)",
+    "question_text": "Organisms can be classified by the five kingdom or three domain method. Plant cells contain chloroplasts. What happens in a chloroplast? A oxygen produced sunlight absorbed by chlorophyll B carbon dioxide produced sunlight absorbed by mitochondria C oxygen produced sunlight absorbed by mitochondria D carbon dioxide produced sunlight absorbed by chlorophyll",
+    "page": 6,
+    "context_keywords": [
+      "chloroplasts",
+      "photosynthesis",
+      "plant cells",
+      "sunlight",
+      "oxygen"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "3(a)(iii)",
+    "question_text": "Organisms can be classified by the five kingdom or three domain method. Give a reason why the three domain method of classification has been suggested.",
+    "page": 6,
+    "context_keywords": [
+      "classification",
+      "three domain method",
+      "taxonomy",
+      "biology"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "3(b)(i)",
+    "question_text": "Figure 2 shows a cyanobacterium magnified 50,000 times. The line AB shows the diameter of the bacterial cell. Calculate the actual diameter of the cyanobacterium. Give your answer in micrometres (\u00b5m).",
+    "page": 7,
+    "context_keywords": [
+      "cyanobacterium",
+      "microscopy",
+      "cell measurement",
+      "micrometres"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "3(b)(ii)",
+    "question_text": "Figure 2 shows a cyanobacterium magnified 50,000 times. Bacterial cells contain plasmids. Describe three other features of a bacterial cell.",
+    "page": 7,
+    "context_keywords": [
+      "bacterial cells",
+      "plasmids",
+      "cell features",
+      "biology"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "3(c)",
+    "question_text": "Figure 3 shows a plasmid containing the human insulin gene. Explain how the human insulin gene can be inserted into a plasmid.",
+    "page": 8,
+    "context_keywords": [
+      "plasmid",
+      "human insulin gene",
+      "genetic engineering",
+      "biotechnology"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "4(a)(i)",
+    "question_text": "Lactase is an enzyme that breaks down lactose into glucose and galactose. A student made some alginate beads containing lactase. The student added 10 beads to 20 cm3 of a solution of lactose, as shown in Figure 4. The student timed how long it took for glucose to be produced. The experiment was repeated using 15, 20 and 25 beads. The results are shown in Figure 5. What is the rate of reaction for 25 beads? A 0.008 s\u22121 B 0.04 s\u22121 C 0.21 s\u22121 D 4.8 s\u22121",
+    "page": 10,
+    "context_keywords": [
+      "enzyme kinetics",
+      "lactase",
+      "rate of reaction",
+      "glucose production",
+      "biochemistry"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  }
+]

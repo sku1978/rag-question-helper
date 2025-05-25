@@ -1,0 +1,47 @@
+[
+  {
+    "question_id": "10(c)(i)",
+    "question_text": "The equation shows a reaction forming sulfuric acid. SO3 + H2O \u2192 H2SO4. Calculate the maximum mass of sulfuric acid that could be produced from 400 tonnes of sulfur trioxide, SO3. (relative formula masses: SO3 = 80, H2SO4 = 98) maximum mass of sulfuric acid =",
+    "page": 31,
+    "context_keywords": [
+      "sulfuric acid",
+      "sulfur trioxide",
+      "reaction",
+      "mass calculation",
+      "chemical equation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "10(c)(ii)",
+    "question_text": "The equation shows a reaction forming sulfuric acid. SO3 + H2O \u2192 H2SO4. Using a different amount of sulfur trioxide, it was calculated that 700 tonnes of sulfuric acid could be made. The actual mass produced was 672 tonnes. Calculate the percentage yield of sulfuric acid. percentage yield =",
+    "page": 31,
+    "context_keywords": [
+      "sulfuric acid",
+      "sulfur trioxide",
+      "percentage yield",
+      "reaction",
+      "chemical equation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "10(c)(iii)",
+    "question_text": "The equation shows a reaction forming sulfuric acid. SO3 + H2O \u2192 H2SO4. State two reasons why the percentage yield is less than 100%.",
+    "page": 31,
+    "context_keywords": [
+      "sulfuric acid",
+      "sulfur trioxide",
+      "percentage yield",
+      "reaction",
+      "chemical equation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  }
+]

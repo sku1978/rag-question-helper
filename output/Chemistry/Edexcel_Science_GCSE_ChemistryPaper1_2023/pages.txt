@@ -1,0 +1,1206 @@
+
+
+
+--- PAGE 1 ---
+P72630A
+
+
+Candidate surname
+Other names
+Centre Number
+Candidate Number
+Pearson Edexcel Level 1/Level 2 GCSE (9–1)
+Monday 22 May 2023
+Morning (Time: 1 hour 45 minutes)
+1CH0/1F
+Paper
+reference
+Total Marks
+Chemistry
+PAPER 1
+Foundation Tier
+You must have:
+Calculator, ruler
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name,
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided
+– there may be more space than you need .
+• Calculators may be used.
+• Any diagrams may NOT be accurately drawn, unless otherwise indicated.
+• You must show all your working out with your answer clearly identified at the
+end of your solution .
+Information
+• The total mark for this paper is 100.
+• The marks for each question are shown in brackets
+– use this as a guide as to how much time to spend on each question .
+• In questions marked with an asterisk ( * ), marks will be awarded for your ability to
+structure your answer logically, showing how the points that you make are related or
+follow on from each other where appropriate.
+• There is a periodic table on the back cover of the paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+
+
+
+--- PAGE 2 ---
+BLANK PAGE
+
+
+
+--- PAGE 3 ---
+Answer ALL questions. Write your answers in the spaces provided.
+answer, put a line through the box
+and then mark your new answer with a cross .
+1 In an experiment, paper chromatography was used to separate the coloured dyes in
+four different inks, W , X , Y and Z .
+
+(a)	 Figure 1 shows the chromatogram at the end of the experiment.
+W
+X
+Y
+Z
+start line
+solvent front
+Figure 1
+
+
+(i)	 The chromatogram shows that only one of the inks contains a single dye.
+
+
+
+Which ink contains a single dye?
+
+A	       W
+
+B	       X
+
+C	       Y
+
+D	       Z
+
+
+(ii)	 Which ink contains the greatest number of dyes?
+
+A	       W
+
+B	       X
+
+C	       Y
+
+D	       Z
+
+
+
+--- PAGE 4 ---
+
+
+(iii)	 The R f value of a dye can be calculated using the equation
+R f =
+distance moved by the dye
+distance moved by solvent front
+
+
+At the end of the chromatography one dye had moved 3.60 cm and the
+solvent front had moved 9.20 cm.
+
+
+Calculate the R f value for this dye.
+
+
+Give your answer to 2 decimal places.
+R f =
+
+
+
+--- PAGE 5 ---
+
+(b)	 The substance used as the solvent in the chromatography was heated for
+8 minutes.
+
+
+Figure 2 shows how the temperature of the substance changed with time.
+0
+A
+B
+C
+liquid
+gas
+D
+80
+70
+60
+50
+40
+30
+20
+1
+2
+3
+4
+5
+6
+7
+8
+time in mins
+temperature
+in ° C
+Figure 2
+
+
+From A to B the substance was a liquid.
+
+
+From C to D the substance was a gas.
+
+
+(i)	 Give the name of the change when a liquid becomes a gas.
+
+
+(ii)	 Use Figure 2 to give the temperature of the substance at 4 minutes.
+..............................................................
+
+
+(iii)	 Use Figure 2 to give the time when the substance has completely changed
+into a gas.
+..............................................................
+
+(iv)	The temperature of the substance at A was 25 ° C.
+
+
+Calculate the temperature rise of the substance from A to D .
+..............................................................
+
+
+
+--- PAGE 6 ---
+2 (a)	 Most of the gold used in jewellery is not pure gold but alloys of gold.
+
+The purity of gold is measured in carats.
+
+Figure 3 shows how the percentage of gold is related to the purity of gold
+measured in carats.
+5
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+15
+20
+25
+purity of gold in carats
+% gold
+Figure 3
+
+State the relationship between the percentage of gold and the number of carats.
+
+
+
+--- PAGE 7 ---
+
+(b)	 Figure 4 shows the arrangement of atoms in pure gold and in an alloy of gold.
+pure gold
+alloy of gold
+Figure 4
+
+
+Using Figure 4, explain why alloys of gold are stronger than pure gold.
+
+(c)	 Explain one property of alloys of gold, other than their strength, that makes them
+suitable for use in jewellery.
+
+
+
+--- PAGE 8 ---
+3 This question is about electrolysis.
+
+(a)	 Which statement describes what happens during electrolysis?
+
+A atoms are decomposed
+
+B ionic compounds are decomposed
+
+C mixtures are separated
+
+D molecules are separated
+
+(b)	 Figure 5 shows the electrolysis of copper chloride solution.
+
+
+(i)	 Use the words from the box to complete the labelling of the diagram
+in Figure 5.
+anode               cathode               electrolyte
+6 V d.c.
+supply
+–
++
+..............................................................
+..............................................................
+..............................................................
+gas Y
+solid X
+Figure 5
+
+
+
+--- PAGE 9 ---
+
+
+(ii)	 The products of the electrolysis shown in Figure 5 are solid X and gas Y .
+
+
+
+Draw one straight line from each product to its name.
+solid X
+gas Y
+product
+carbon
+chlorine
+copper
+hydrogen
+name
+
+
+(iii)	 The experiment is repeated using powdered solid copper chloride instead of
+copper chloride solution.
+
+
+Nothing happens and no products are formed.
+
+
+Explain why nothing happens and no products are formed.
+
+
+
+--- PAGE 10 ---
+4 Steel is an alloy containing iron.
+
+When exposed to damp air, some steels will corrode to form rust.
+
+(a)	 (i)	 Which gas in the air is needed for corrosion to occur?
+.
+
+A argon
+
+B carbon dioxide
+
+C nitrogen
+
+D oxygen
+
+
+(ii)	 What type of reaction happens when the iron in steel corrodes?
+
+A the iron has been displaced
+
+B the iron has been neutralised
+
+C the iron has been oxidised
+
+D the iron has been reduced
+
+(b)	 Rust can be removed from steel by treating it with dilute hydrochloric acid.
+
+
+One product formed in this reaction is iron chloride, FeC l 3 .
+
+
+Calculate the relative formula mass of this iron chloride.
+
+
+(relative atomic masses: Fe = 56.0, C l = 35.5)
+relative formula mass =
+
+
+
+--- PAGE 11 ---
+
+(c)	 Figure 6 shows the composition of one type of steel that has a low resistance to
+corrosion and another type of steel that has a high resistance to corrosion.
+element
+percentage of element in steel
+steel with low resistance
+to corrosion
+steel with high resistance
+to corrosion
+iron
+98.2
+80.6
+carbon
+0.4
+1.1
+chromium
+0.0
+17.0
+manganese
+0.9
+0.8
+nickel
+0.5
+0.5
+Figure 6
+
+
+(i)	 Using Figure 6, state which non‑metal is in both types of steel.
+
+
+(ii)	 Using Figure 6, state which metal is added to steel to increase its resistance
+to corrosion.
+
+
+(iii)	 Explain one other way that corrosion of steel can be prevented.
+
+
+
+--- PAGE 12 ---
+
+(d)	 A student is given two nails of the same size but made of different types of steel.
+
+
+They are also given two boiling tubes and some distilled water.
+
+
+Devise an experiment to show which nail corrodes more quickly.
+
+
+
+--- PAGE 13 ---
+5 (a)	 When lead nitrate solution and potassium chloride solution are mixed,
+potassium nitrate and a precipitate of lead chloride are formed.
+
+
+(i)	 Complete the word equation for this reaction.
+lead nitrate   + ..................................................................................... → .....................................................................................
+
+
+(ii)	 Lead nitrate is toxic.
+
+
+Which hazard symbol should be on a container of lead nitrate?
+
+A
+
+B
+
+C
+
+D
+
+
+
+--- PAGE 14 ---
+
+(b)	 A student put 5 cm 3 of potassium carbonate solution into a test tube and added
+2 cm 3 of calcium nitrate solution.
+
+
+A precipitate formed and was allowed to settle as shown in Figure 7.
+
+
+The height of the precipitate was measured.
+test tube
+precipitate
+Figure 7
+
+
+(i)	 Give the name of the piece of apparatus the student should use to find the
+volume of the potassium carbonate solution.
+
+
+(ii)	 The student repeated the experiment.
+
+
+The results are shown in Figure 8.
+experiment
+height of precipitate
+in cm
+1
+2.4
+2
+2.7
+3
+2.4
+Figure 8
+
+
+Use the data in Figure 8 to calculate the mean height of the precipitate.
+mean height of precipitate = ..............................................................
+
+
+
+--- PAGE 15 ---
+
+
+(iii)	 Describe how a pure, dry sample of the precipitate could be obtained from
+the mixture in the test tube.
+
+
+(iv)	 The student investigated whether increasing the volume of
+calcium nitrate solution increased the height of the precipitate formed.
+
+
+They repeated the experiment using different volumes of calcium nitrate.
+
+
+State one variable that should be controlled in this investigation.
+
+
+
+--- PAGE 16 ---
+6 (a)	 Magnesium is a metal.
+
+
+(i)	 State one physical property of magnesium.
+
+
+(ii)	 Which element is in the same group of the periodic table as magnesium?
+Use the periodic table to help you answer this question.
+
+A carbon
+
+B chromium
+
+C sodium
+
+D strontium
+
+(b)	 (i)	 Magnesium atoms have 12 electrons.
+
+
+
+Complete the electronic configuration of a magnesium atom.
+2.8. ...............................
+
+
+(ii)	 The electronic configuration of a chlorine atom is 2.8.7
+
+
+Explain how the electronic configuration of chlorine is linked to its period in
+the periodic table.
+
+
+
+--- PAGE 17 ---
+
+(c)	 1.20 g of magnesium reacts completely with 3.55 g of chlorine to form
+magnesium chloride.
+
+Calculate the empirical formula of the magnesium chloride.
+
+(relative atomic masses: Mg = 24.0, C l = 35.5)
+
+You must show your working.
+empirical formula =
+
+
+
+--- PAGE 18 ---
+
+(d)	 Sodium reacts with chlorine to form sodium chloride, which contains ionic bonds.
+
+Hydrogen reacts with chlorine to form hydrogen chloride, which contains
+covalent bonds.
+
+Figure 9 shows dot and cross diagrams of these compounds.
+sodium chloride (ionic bonding)
+hydrogen chloride (covalent bonding)
++
+
+
+
+
+
+
+
+
+
+
+–
+
+
+
+
+
+
+
+
+
+
+
+
+sodium ion
+chloride ion
+Na
+C l
+H
+C l
+Figure 9
+
+
+Describe the differences between an ionic bond and a covalent bond.
+
+
+
+--- PAGE 19 ---
+7 (a)	 Figure 10 shows some information on a container of plant fertiliser.
+contains
+percentage by mass
+ammonium nitrate (NH 4 NO 3 )
+46 %
+phosphorus oxide (P 2 O 5 )
+0 %
+potassium nitrate (KNO 3 )
+54 %
+Figure 10
+
+
+(i)	 State which element, often present in fertilisers, is not present in this fertiliser.
+
+
+(ii)	 Ammonium nitrate, NH 4 NO 3 , is prepared for use in fertilisers by neutralising
+ammonia with an acid.
+
+
+
+Which acid reacts with ammonia to produce ammonium nitrate?
+
+A ethanoic acid
+
+B hydrochloric acid
+
+C nitric acid
+
+D sulfuric acid
+
+
+(iii)	 State why farmers spread fertilisers on their fields.
+
+(b)	 Ammonium sulfate is a fertiliser and is produced on a large scale in industry.
+
+In this process, ammonia reacts with sulfuric acid.
+
+
+(i)	 Write the word equation for the reaction between ammonia and sulfuric acid.
+
+
+
+--- PAGE 20 ---
+
+
+(ii)	 Ammonium sulfate can also be made in the laboratory by titrating
+ammonia solution with dilute sulfuric acid.
+
+
+Give one disadvantage of using this laboratory method to produce
+ammonium sulfate as a fertiliser compared with an industrial method.
+
+*(c)	 In the laboratory, ammonium sulfate crystals can be made using ammonia
+solution and dilute sulfuric acid.
+
+The volume of ammonia solution required to neutralise 25 cm 3 of
+dilute sulfuric acid is found by titration using an indicator.
+
+The results of the titration can be used to prepare a solution of
+ammonium sulfate.
+
+Pure, dry ammonium sulfate crystals can be made from this solution.
+
+Figure 11 shows some of the equipment that may be used in the experiment.
+indicator
+Figure 11
+
+Write a detailed method to make ammonium sulfate crystals starting with
+ammonia solution and dilute sulfuric acid.
+
+
+
+--- PAGE 21 ---
+
+
+
+--- PAGE 22 ---
+8 In an experiment, powdered calcium hydroxide was added to dilute hydrochloric acid
+and the pH was measured.
+
+The method used was
+
+step 1 measure 200 cm 3 dilute hydrochloric acid into a beaker
+
+step 2   add 0.1 g of powdered calcium hydroxide to the beaker
+
+step 3 find the pH of the mixture
+
+step 4 repeat steps 2 and 3 until the pH stops changing.
+
+(a)	 State what should be done after step 2 to make sure that any reaction
+is complete.
+
+(b)	 Complete the word equation for the reaction.
+calcium hydroxide   +   hydrochloric acid →
+
+(c)	 Which row of the table shows the state symbols for powdered calcium hydroxide
+and dilute hydrochloric acid in the balanced chemical equation?
+
+A
+
+B
+
+C
+
+D
+calcium hydroxide
+hydrochloric acid
+aq
+l
+l
+aq
+s
+aq
+s
+l
+
+
+
+--- PAGE 23 ---
+
+(d)	 The results of the experiment are shown in Figure 12.
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0
+14
+12
+10
+8
+6
+4
+2
+0
+mass of calcium hydroxide added in grams
+pH
+Figure 12
+
+
+(i)	 Using Figure 12, give the pH of the acid at the start of the experiment.
+pH =
+
+
+(ii)	 Using Figure 12, give the mass of calcium hydroxide required to make a
+neutral mixture.
+mass of calcium hydroxide =
+
+
+(iii)	 Explain why the pH starts at a low value and ends at a higher value.
+
+
+
+--- PAGE 24 ---
+
+(e)	 State what should be used to measure the pH of the mixture in this experiment.
+
+(f)	 The calcium hydroxide used is corrosive to the eyes and an irritant to skin.
+
+Using this information, state one safety precaution that should be taken during
+the experiment when using any corrosive substance.
+
+
+
+--- PAGE 25 ---
+BLANK PAGE
+
+
+
+--- PAGE 26 ---
+9 Figure 13 shows part of the reactivity series of metals.
+calcium
+magnesium
+aluminium
+zinc
+iron
+copper
+silver
+gold
+increasing reactivity
+Figure 13
+
+(a)	 Which metal reacts when added to cold water?
+
+A calcium
+
+B copper
+
+C gold
+
+D silver
+
+(b)	 A student investigates the reactivity of four different metals.
+
+The student adds an equal‑sized piece of each metal to separate test tubes
+containing dilute hydrochloric acid.
+
+The student’s observations for zinc and copper are recorded in Figure 14.
+metal
+observations
+magnesium
+zinc
+bubbles produced at a steady rate
+
+test tube feels slightly warm
+iron
+copper
+no reaction
+Figure 14
+
+
+
+--- PAGE 27 ---
+
+
+(i)	 Use the information in Figure 13 and in Figure 14 to predict the observations
+for the reactions of magnesium and of iron with dilute hydrochloric acid.
+
+
+magnesium
+
+
+iron
+
+
+(ii)	 When metals react with acids, hydrogen gas is produced.
+
+
+Describe the test to show that the gas is hydrogen.
+
+
+(iii)	 When magnesium reacts with hydrochloric acid, magnesium chloride and
+hydrogen are formed.
+
+
+Complete the balanced equation for the reaction.
+Mg   + .............................................. HC l → MgC l 2 + ...............................................
+
+
+
+--- PAGE 28 ---
+
+*(c)	 There are three common methods of obtaining metals from the Earth’s crust:
+•
+mine the pure metal
+•
+mine the metal ore and heat it with carbon
+•
+mine the metal ore and electrolyse the molten compound.
+
+The method used to obtain a metal is linked to its position in the reactivity series
+of metals.
+
+Aluminium, gold, iron, and silver are some commonly used metals.
+
+Use the reactivity series in Figure 13 to state and explain the method chosen to
+obtain each of these four metals.
+
+
+
+--- PAGE 29 ---
+
+
+
+--- PAGE 30 ---
+10 There are several stages to the production of sulfuric acid in industry.
+
+(a)	 Sulfur dioxide is required for the production of sulfuric acid.
+
+Sulfur dioxide can be obtained by heating copper sulfide, Cu 2 S, in excess air.
+Cu 2 S   +   O 2 → 2Cu   +   SO 2
+
+Calculate the atom economy for the production of sulfur dioxide, SO 2 , in
+this reaction.
+
+(relative atomic mass: Cu = 63.5
+relative formula masses: O 2 = 32.0, Cu 2 S = 159.0, SO 2 = 64.0)
+
+Give your answer to two significant figures.
+atom economy =
+
+(b)	 In one stage vanadium oxide, V 2 O 5 , is used.
+
+Based on the position of vanadium in the periodic table, which row shows the
+most likely melting point of vanadium and colour of vanadium oxide?
+
+A
+
+B
+
+C
+
+D
+melting point of vanadium in °C
+colour of vanadium oxide
+50
+white
+1910
+white
+50
+orange
+1910
+orange
+
+
+
+--- PAGE 31 ---
+
+(c)	 The equation shows a reaction forming sulfuric acid.
+SO 3 +   H 2 O → H 2 SO 4
+
+
+(i)	 Calculate the maximum mass of sulfuric acid that could be produced from
+400 tonnes of sulfur trioxide, SO 3 .
+
+
+
+(relative formula masses: SO 3 = 80, H 2 SO 4 = 98)
+maximum mass of sulfuric acid = ..............................................................
+
+
+(ii)	 Using a different amount of sulfur trioxide, it was calculated that 700 tonnes
+of sulfuric acid could be made.
+
+
+
+The actual mass produced was 672 tonnes.
+
+
+
+Calculate the percentage yield of sulfuric acid.
+percentage yield =
+
+
+(iii)	 State two reasons why the percentage yield is less than 100 %.
+1
+2
+TOTAL FOR PAPER = 100 MARKS
+
+
+
+--- PAGE 32 ---
+The periodic table of the elements
+* The elements with atomic numbers from 58 to 71 are omitted from this part of the periodic table.
+1
+2
+3
+4
+5
+6
+7
+0
+Key
+1
+H
+hydrogen
+1
+4
+He
+helium
+2
+7
+Li
+lithium
+3
+9
+Be
+beryllium
+4
+relative atomic mass
+atomic symbol
+name
+atomic (proton) number
+11
+B
+boron
+5
+12
+C
+carbon
+6
+14
+N
+nitrogen
+7
+16
+O
+oxygen
+8
+19
+F
+fluorine
+9
+20
+Ne
+neon
+10
+23
+Na
+sodium
+11
+24
+Mg
+magnesium
+12
+27
+Al
+aluminium
+13
+28
+Si
+silicon
+14
+31
+P
+phosphorus
+15
+32
+S
+sulfur
+16
+35.5
+Cl
+chlorine
+17
+40
+Ar
+argon
+18
+39
+K
+potassium
+19
+40
+Ca
+calcium
+20
+45
+Sc
+scandium
+21
+48
+Ti
+titanium
+22
+51
+V
+vanadium
+23
+52
+Cr
+chromium
+24
+55
+Mn
+manganese
+25
+56
+Fe
+iron
+26
+59
+Co
+cobalt
+27
+59
+Ni
+nickel
+28
+63.5
+Cu
+copper
+29
+65
+Zn
+zinc
+30
+70
+Ga
+gallium
+31
+73
+Ge
+germanium
+32
+75
+As
+arsenic
+33
+79
+Se
+selenium
+34
+80
+Br
+bromine
+35
+84
+Kr
+krypton
+36
+85
+Rb
+rubidium
+37
+88
+Sr
+strontium
+38
+89
+Y
+yttrium
+39
+91
+Zr
+zirconium
+40
+93
+Nb
+niobium
+41
+96
+Mo
+molybdenum
+42
+[98]
+Tc
+technetium
+43
+101
+Ru
+ruthenium
+44
+103
+Rh
+rhodium
+45
+106
+Pd
+palladium
+46
+108
+Ag
+silver
+47
+112
+Cd
+cadmium
+48
+115
+In
+indium
+49
+119
+Sn
+tin
+50
+122
+Sb
+antimony
+51
+128
+Te
+tellurium
+52
+127
+I
+iodine
+53
+131
+Xe
+xenon
+54
+133
+Cs
+caesium
+55
+137
+Ba
+barium
+56
+139
+La*
+lanthanum
+57
+178
+Hf
+hafnium
+72
+181
+Ta
+tantalum
+73
+184
+W
+tungsten
+74
+186
+Re
+rhenium
+75
+190
+Os
+osmium
+76
+192
+Ir
+iridium
+77
+195
+Pt
+platinum
+78
+197
+Au
+gold
+79
+201
+Hg
+mercury
+80
+204
+Tl
+thallium
+81
+207
+Pb
+lead
+82
+209
+Bi
+bismuth
+83
+[209]
+Po
+polonium
+84
+[210]
+At
+astatine
+85
+[222]
+Rn
+radon
+86
+The relative atomic masses of copper and chlorine have not been rounded to the nearest whole number.

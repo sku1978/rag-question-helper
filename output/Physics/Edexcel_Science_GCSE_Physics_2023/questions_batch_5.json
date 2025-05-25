@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "10(a)(i)",
+    "question_text": "Figure 19 shows two objects, E and D. E emits a sound. D detects the sound. E is moving in the direction shown by the arrow, but D is not moving. E emits a sound of wavelength 1.86 m. D measures the wavelength of this sound as 1.98 m. Calculate the difference between the wavelength that E emits and the wavelength that D detects. difference in wavelength = ..............................................................",
+    "page": 27,
+    "context_keywords": [
+      "wavelength",
+      "sound",
+      "motion",
+      "Doppler effect",
+      "physics"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "10(a)(ii)",
+    "question_text": "Figure 19 shows two objects, E and D. E emits a sound. D detects the sound. E is moving in the direction shown by the arrow, but D is not moving. E emits a sound of wavelength 1.86 m. D measures the wavelength of this sound as 1.98 m. The velocity of sound is 330 m / s. Calculate the velocity of E using the equation: velocity of E = velocity of sound \u00d7 (difference in wavelength / wavelength emitted by E). velocity of E = ..............................................................",
+    "page": 27,
+    "context_keywords": [
+      "velocity",
+      "sound",
+      "Doppler effect",
+      "calculation",
+      "physics"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "10(b)",
+    "question_text": "The wavelength of light emitted from distant galaxies is different when the light is detected on Earth. Explain how this difference in wavelength shows that the Universe is expanding.",
+    "page": 28,
+    "context_keywords": [
+      "wavelength",
+      "light",
+      "Universe",
+      "expansion",
+      "redshift"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "10(c)",
+    "question_text": "CMB radiation provides evidence that the Universe had a definite beginning. Use the table in Figure 20 to give a typical value for the wavelength of CMB radiation. type of radiation typical wavelength gamma rays 1.0 \u00d7 10 \u201312 m X-rays 3.0 \u00d7 10 \u201311 m ultraviolet 200 nm visible 600 nm infrared 4.0 \u03bc m microwaves 1.0 mm radio waves 50 m wavelength =",
+    "page": 28,
+    "context_keywords": [
+      "CMB radiation",
+      "wavelength",
+      "Universe",
+      "cosmic background",
+      "microwaves"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "10(d)(i)",
+    "question_text": "During the evolution of a star, the nebula collapses and becomes a main sequence star. State what causes the nebula to collapse.",
+    "page": 28,
+    "context_keywords": [
+      "nebula",
+      "collapse",
+      "star formation",
+      "gravity",
+      "astrophysics"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "10(d)(ii)",
+    "question_text": "During the evolution of a star, the nebula collapses and becomes a main sequence star. Explain why the nebula stops collapsing as it becomes a main sequence star.",
+    "page": 29,
+    "context_keywords": [
+      "nebula",
+      "main sequence star",
+      "star formation",
+      "hydrostatic equilibrium",
+      "astrophysics"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  }
+]

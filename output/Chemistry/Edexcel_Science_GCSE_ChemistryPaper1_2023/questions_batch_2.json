@@ -1,0 +1,150 @@
+[
+  {
+    "question_id": "4(c)",
+    "question_text": "Figure 6 shows the composition of one type of steel that has a low resistance to corrosion and another type of steel that has a high resistance to corrosion. (i) Using Figure 6, state which non-metal is in both types of steel.",
+    "page": 11,
+    "context_keywords": [
+      "steel",
+      "corrosion",
+      "composition",
+      "non-metal",
+      "Figure 6"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(c)(ii)",
+    "question_text": "Figure 6 shows the composition of one type of steel that has a low resistance to corrosion and another type of steel that has a high resistance to corrosion. (ii) Using Figure 6, state which metal is added to steel to increase its resistance to corrosion.",
+    "page": 11,
+    "context_keywords": [
+      "steel",
+      "corrosion",
+      "resistance",
+      "metal",
+      "Figure 6"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(c)(iii)",
+    "question_text": "Figure 6 shows the composition of one type of steel that has a low resistance to corrosion and another type of steel that has a high resistance to corrosion. (iii) Explain one other way that corrosion of steel can be prevented.",
+    "page": 11,
+    "context_keywords": [
+      "steel",
+      "corrosion",
+      "prevention",
+      "Figure 6"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(d)",
+    "question_text": "A student is given two nails of the same size but made of different types of steel. They are also given two boiling tubes and some distilled water. Devise an experiment to show which nail corrodes more quickly.",
+    "page": 12,
+    "context_keywords": [
+      "nails",
+      "steel",
+      "corrosion",
+      "experiment",
+      "distilled water"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(a)(i)",
+    "question_text": "When lead nitrate solution and potassium chloride solution are mixed, potassium nitrate and a precipitate of lead chloride are formed. (i) Complete the word equation for this reaction. lead nitrate + ..................................................................................... \u2192 .....................................................................................",
+    "page": 13,
+    "context_keywords": [
+      "lead nitrate",
+      "potassium chloride",
+      "reaction",
+      "word equation",
+      "precipitate"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(a)(ii)",
+    "question_text": "When lead nitrate solution and potassium chloride solution are mixed, potassium nitrate and a precipitate of lead chloride are formed. (ii) Lead nitrate is toxic. Which hazard symbol should be on a container of lead nitrate?",
+    "page": 13,
+    "context_keywords": [
+      "lead nitrate",
+      "toxic",
+      "hazard symbol",
+      "safety"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(b)(i)",
+    "question_text": "A student put 5 cm3 of potassium carbonate solution into a test tube and added 2 cm3 of calcium nitrate solution. A precipitate formed and was allowed to settle as shown in Figure 7. (i) Give the name of the piece of apparatus the student should use to find the volume of the potassium carbonate solution.",
+    "page": 14,
+    "context_keywords": [
+      "potassium carbonate",
+      "calcium nitrate",
+      "volume",
+      "apparatus",
+      "Figure 7"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(b)(ii)",
+    "question_text": "A student put 5 cm3 of potassium carbonate solution into a test tube and added 2 cm3 of calcium nitrate solution. The results are shown in Figure 8. (ii) Use the data in Figure 8 to calculate the mean height of the precipitate. mean height of precipitate = ..............................................................",
+    "page": 14,
+    "context_keywords": [
+      "potassium carbonate",
+      "calcium nitrate",
+      "data",
+      "mean height",
+      "Figure 8"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(b)(iii)",
+    "question_text": "A student put 5 cm3 of potassium carbonate solution into a test tube and added 2 cm3 of calcium nitrate solution. A precipitate formed and was allowed to settle as shown in Figure 7. (iii) Describe how a pure, dry sample of the precipitate could be obtained from the mixture in the test tube.",
+    "page": 15,
+    "context_keywords": [
+      "potassium carbonate",
+      "calcium nitrate",
+      "precipitate",
+      "pure sample",
+      "Figure 7"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(b)(iv)",
+    "question_text": "A student put 5 cm3 of potassium carbonate solution into a test tube and added 2 cm3 of calcium nitrate solution. The student investigated whether increasing the volume of calcium nitrate solution increased the height of the precipitate formed. (iv) State one variable that should be controlled in this investigation.",
+    "page": 15,
+    "context_keywords": [
+      "potassium carbonate",
+      "calcium nitrate",
+      "variable",
+      "investigation",
+      "controlled"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  }
+]

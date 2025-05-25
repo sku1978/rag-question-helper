@@ -1,0 +1,474 @@
+
+
+
+--- PAGE 1 ---
+Candidate surname
+Other names
+Centre Number
+Candidate Number
+Please check the examination details below before entering your candidate information
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name,
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided
+– there may be more space than you need .
+• Calculators may be used.
+• Any diagrams may NOT be accurately drawn, unless otherwise indicated.
+• You must show all your working out with your answer clearly identified at
+the end of your solution .
+Information
+• The total mark for this paper is 60.
+• The marks for each question are shown in brackets
+– use this as a guide as to how much time to spend on each question .
+• In questions marked with an asterisk ( * ), marks will be awarded for your ability
+to structure your answer logically showing how the points that you make are
+related or follow on from each other where appropriate.
+Advice
+• Read each question carefully before you start to answer it.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+Paper Reference 1SC0/1BH
+Afternoon (Time: 1 hour 10 minutes)
+You must have:
+Calculator, ruler
+Combined Science
+Paper 1: Biology 1
+Tuesday 14  May 2019
+Pearson Edexcel
+Level 1/Level 2 GCSE (9–1)
+
+
+
+--- PAGE 2 ---
+Answer ALL questions.  Write your answers in the spaces provided.
+Some questions must be answered with a cross in a box
+.
+If you change your mind about an answer, put a line through the box
+mark your new answer with a cross
+.
+1 (a)	 A scientist obtained a mass of 0.0062 nanograms of DNA from a diploid human cell.
+
+
+Calculate the mass of DNA the scientist should obtain from a haploid human cell.
+
+
+Give your answer in picograms.
+
+
+(1 nanogram = 1000 picograms)
+..............................................................
+
+(b)	 A student used the method shown in Figure 1 to compare the mass of DNA
+extracted from strawberry fruit cells and from kiwi fruit cells.
+crush the fruit cells in a buffer solution
+filter to separate the soluble DNA from the cell fragments
+add ethanol
+Figure 1
+
+
+(i)	 State why ethanol is used.
+
+
+
+--- PAGE 3 ---
+DO NOT WRITE IN THIS AREA
+DO NOT WRITE IN THIS AREA
+DO NOT WRITE IN THIS AREA
+
+
+(ii)	 State two variables the student needs to control when using this method to
+compare the mass of DNA from these two fruits.
+1
+2
+
+
+(iii)	The student repeated the experiment.
+
+
+
+Give one reason why.
+
+(c)	 Mitosis and meiosis are processes that produce new cells.
+
+
+Compare the outcomes of mitosis and meiosis.
+
+
+
+--- PAGE 4 ---
+2 (a) Clostridium tetani is a bacterium that can be found in soil.
+
+
+It causes the infection tetanus.
+
+
+Children are vaccinated against tetanus.
+
+
+Explain why these children do not get tetanus if the bacteria enter their body
+through a cut in the skin.
+
+(b)	 Colistin is an antibiotic used to treat infections in the bloodstream.
+
+
+Some bacteria are resistant to Colistin.
+
+
+Explain how these bacteria have become resistant to Colistin.
+
+
+
+--- PAGE 5 ---
+DO NOT WRITE IN THIS AREA
+DO NOT WRITE IN THIS AREA
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+
+
+
+--- PAGE 6 ---
+3 (a)	 Organisms can be classified by the five kingdom or three domain method.
+
+
+(i)	 What is the name of the domain that plants belong to?
+
+
+
+A Eukarya
+
+
+
+B Archaea
+
+
+
+C Monera
+
+
+
+D Protista
+
+
+(ii)	 Plant cells contain chloroplasts.
+
+
+
+What happens in a chloroplast?
+A
+oxygen produced
+sunlight absorbed by chlorophyll
+B
+carbon dioxide produced
+sunlight absorbed by mitochondria
+C
+oxygen produced
+sunlight absorbed by mitochondria
+D
+carbon dioxide produced
+sunlight absorbed by chlorophyll
+
+
+(iii)	Give a reason why the three domain method of classification has been
+suggested.
+
+
+
+--- PAGE 7 ---
+DO NOT WRITE IN THIS AREA
+DO NOT WRITE IN THIS AREA
+DO NOT WRITE IN THIS AREA
+
+(b)	 Figure 2 shows a cyanobacterium magnified 50 000 times.
+
+
+The line AB shows the diameter of the bacterial cell.
+A
+B
+(Source: © The Christian Science Monitor)
+Figure 2
+
+
+(i)	 Calculate the actual diameter of the cyanobacterium.
+
+
+
+Give your answer in micrometres ( µ m).
+
+
+(ii)	 Bacterial cells contain plasmids.
+
+
+
+Describe three other features of a bacterial cell.
+
+
+
+--- PAGE 8 ---
+
+(c)	 Figure 3 shows a plasmid containing the human insulin gene.
+human insulin gene
+Figure 3
+
+
+Explain how the human insulin gene can be inserted into a plasmid.
+
+
+
+--- PAGE 9 ---
+DO NOT WRITE IN THIS AREA
+DO NOT WRITE IN THIS AREA
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+
+
+
+--- PAGE 10 ---
+4 (a)	 Lactase is an enzyme that breaks down lactose into glucose and galactose.
+
+
+A student made some alginate beads containing lactase.
+
+
+The student added 10 beads to 20 cm 3 of a solution of lactose, as shown in Figure 4.
+
+
+The student timed how long it took for glucose to be produced.
+
+
+The experiment was repeated using 15, 20 and 25 beads.
+20 cm 3 solution
+of lactose
+beads containing lactase
+Figure 4
+
+
+The results are shown in Figure 5.
+number of beads
+containing lactase
+time taken to produce
+glucose in seconds
+10
+240
+15
+210
+20
+150
+25
+120
+Figure 5
+
+
+(i)	 What is the rate of reaction for 25 beads?
+
+
+
+A 0.008 s −1
+
+
+
+B 0.04 s −1
+
+
+
+C 0.21 s −1
+
+
+
+D 4.8 s −1
+
+
+
+--- PAGE 11 ---
+DO NOT WRITE IN THIS AREA
+DO NOT WRITE IN THIS AREA
+DO NOT WRITE IN THIS AREA
+
+
+(ii)	 Explain the conclusion that can be made from these results.
+
+
+(iii)	Explain why the same volume of lactose solution was used for each test.
+
+(b)	 Devise a method to find the optimum temperature for the enzyme lactase.
+
+
+
+--- PAGE 12 ---
+5 (a)	 LDL cholesterol is a type of cholesterol which increases the risk of heart disease.
+
+
+Statins are drugs used to reduce LDL cholesterol levels.
+
+
+Figure 6 shows the cholesterol levels in the blood of a man.
+
+
+He started taking statins at the beginning of February and stopped taking them
+four months later.
+
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+month
+LDL cholesterol
+level in the blood
+(mmol per dm 3 )
+Figure 6
+
+
+(i)	 Describe the effect of statins on LDL cholesterol levels in the blood.
+
+
+
+Use data from the graph to support your answer.
+
+
+
+--- PAGE 13 ---
+DO NOT WRITE IN THIS AREA
+DO NOT WRITE IN THIS AREA
+DO NOT WRITE IN THIS AREA
+
+
+(ii)	 Use evidence from the graph to explain why statins are usually prescribed as
+life-long medication.
+
+(b)	 Which data can be used to calculate the man’s BMI?
+
+
+A waist circumference and height
+
+
+B waist circumference and hip circumference
+
+
+C mass and height
+
+
+D mass and hip circumference
+
+
+
+--- PAGE 14 ---
+
+*(c)	 Gonorrhoea is a sexually transmitted bacterial infection.
+
+
+Figure 7 shows the number of people diagnosed with gonorrhoea in the UK.
+male
+female
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+year
+30 000
+25 000
+20 000
+15 000
+10 000
+5 000
+0
+number of people
+diagnosed with
+gonorrhoea
+Figure 7
+
+
+Explain how gonorrhoea is transmitted and how the number of people infected
+can be reduced.
+
+
+Use data from the graph to justify why it is necessary to reduce the number of
+people infected.
+
+
+
+--- PAGE 15 ---
+DO NOT WRITE IN THIS AREA
+DO NOT WRITE IN THIS AREA
+DO NOT WRITE IN THIS AREA
+
+
+
+--- PAGE 16 ---
+6 (a)	 Figure 8 shows the number of neurones in the brain of different animals.
+animal
+number of neurones
+in the brain
+lobster
+1.0 × 10 5
+frog
+1.6 × 10 7
+rat
+2.0 × 10 8
+human
+8.6 × 10 10
+Figure 8
+
+
+(i)	 Calculate the difference between the number of neurones in the brain of the
+rat and the brain of the frog.
+
+
+
+Give your answer in standard form.
+..............................................................
+
+
+(ii)	 Most neurones in the brain are unmyelinated whereas motor neurones
+are myelinated.
+
+
+
+Explain why myelination is needed on motor neurones but not on neurones in
+the brain.
+
+
+
+--- PAGE 17 ---
+DO NOT WRITE IN THIS AREA
+DO NOT WRITE IN THIS AREA
+DO NOT WRITE IN THIS AREA
+
+(b)	 Figure 9 shows a sensory neurone.
+direction of impulse
+Figure 9
+
+
+(i)	 Label the axon on Figure 9.
+
+
+(ii)	 Describe the role of sensory neurones.
+
+
+
+--- PAGE 18 ---
+
+(c)	 Explain how impulses are transmitted at synapses.
+TOTAL FOR PAPER = 60 MARKS
+
+
+
+--- PAGE 19 ---
+DO NOT WRITE IN THIS AREA
+DO NOT WRITE IN THIS AREA
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+
+
+
+--- PAGE 20 ---
+BLANK PAGE

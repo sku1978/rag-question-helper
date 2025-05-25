@@ -1,0 +1,117 @@
+[
+  {
+    "question_id": "4(a)(i)",
+    "question_text": "Lactase is an enzyme that breaks down lactose into glucose and galactose. A student made some alginate beads containing lactase. The student added 10 beads to 20 cm3 of a solution of lactose, as shown in Figure 4. The student timed how long it took for glucose to be produced. The experiment was repeated using 15, 20 and 25 beads. The results are shown in Figure 5. What is the rate of reaction for 25 beads? A 0.008 s\u22121 B 0.04 s\u22121 C 0.21 s\u22121 D 4.8 s\u22121",
+    "page": 10,
+    "context_keywords": [
+      "lactase",
+      "enzyme",
+      "glucose",
+      "reaction rate",
+      "alginate beads"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "4(a)(ii)",
+    "question_text": "Lactase is an enzyme that breaks down lactose into glucose and galactose. A student made some alginate beads containing lactase. The student added 10 beads to 20 cm3 of a solution of lactose, as shown in Figure 4. The student timed how long it took for glucose to be produced. The experiment was repeated using 15, 20 and 25 beads. The results are shown in Figure 5. Explain the conclusion that can be made from these results.",
+    "page": 11,
+    "context_keywords": [
+      "lactase",
+      "enzyme",
+      "glucose",
+      "experiment",
+      "alginate beads"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "4(a)(iii)",
+    "question_text": "Lactase is an enzyme that breaks down lactose into glucose and galactose. A student made some alginate beads containing lactase. The student added 10 beads to 20 cm3 of a solution of lactose, as shown in Figure 4. The student timed how long it took for glucose to be produced. The experiment was repeated using 15, 20 and 25 beads. The results are shown in Figure 5. Explain why the same volume of lactose solution was used for each test.",
+    "page": 11,
+    "context_keywords": [
+      "lactase",
+      "enzyme",
+      "glucose",
+      "volume control",
+      "experiment"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "4(b)",
+    "question_text": "Devise a method to find the optimum temperature for the enzyme lactase.",
+    "page": 11,
+    "context_keywords": [
+      "lactase",
+      "enzyme",
+      "optimum temperature",
+      "methodology"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "5(a)(i)",
+    "question_text": "LDL cholesterol is a type of cholesterol which increases the risk of heart disease. Statins are drugs used to reduce LDL cholesterol levels. Figure 6 shows the cholesterol levels in the blood of a man. He started taking statins at the beginning of February and stopped taking them four months later. Describe the effect of statins on LDL cholesterol levels in the blood. Use data from the graph to support your answer.",
+    "page": 12,
+    "context_keywords": [
+      "LDL cholesterol",
+      "statins",
+      "heart disease",
+      "cholesterol levels"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "5(a)(ii)",
+    "question_text": "LDL cholesterol is a type of cholesterol which increases the risk of heart disease. Statins are drugs used to reduce LDL cholesterol levels. Figure 6 shows the cholesterol levels in the blood of a man. He started taking statins at the beginning of February and stopped taking them four months later. Use evidence from the graph to explain why statins are usually prescribed as life-long medication.",
+    "page": 13,
+    "context_keywords": [
+      "LDL cholesterol",
+      "statins",
+      "long-term medication",
+      "cholesterol levels"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "5(b)",
+    "question_text": "Which data can be used to calculate the man\u2019s BMI? A waist circumference and height B waist circumference and hip circumference C mass and height D mass and hip circumference",
+    "page": 13,
+    "context_keywords": [
+      "BMI",
+      "body mass index",
+      "data",
+      "calculation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "5(c)",
+    "question_text": "Gonorrhoea is a sexually transmitted bacterial infection. Figure 7 shows the number of people diagnosed with gonorrhoea in the UK. Explain how gonorrhoea is transmitted and how the number of people infected can be reduced. Use data from the graph to justify why it is necessary to reduce the number of people infected.",
+    "page": 14,
+    "context_keywords": [
+      "gonorrhoea",
+      "transmission",
+      "prevention",
+      "sexual health"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  }
+]

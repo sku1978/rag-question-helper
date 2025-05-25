@@ -1,0 +1,381 @@
+[
+  {
+    "question_id": "1(a)",
+    "question_text": "A scientist obtained a mass of 0.0062 nanograms of DNA from a diploid human cell. Calculate the mass of DNA the scientist should obtain from a haploid human cell. Give your answer in picograms. (1 nanogram = 1000 picograms)",
+    "page": 2,
+    "context_keywords": [
+      "DNA",
+      "diploid",
+      "haploid",
+      "nanogram",
+      "picogram",
+      "calculate"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)(i)",
+    "question_text": "A student used the method shown in Figure 1 to compare the mass of DNA extracted from strawberry fruit cells and from kiwi fruit cells. The method includes: crush the fruit cells in a buffer solution, filter to separate the soluble DNA from the cell fragments, add ethanol. State why ethanol is used.",
+    "page": 2,
+    "context_keywords": [
+      "DNA extraction",
+      "strawberry",
+      "kiwi",
+      "ethanol",
+      "method"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)(ii)",
+    "question_text": "A student used the method shown in Figure 1 to compare the mass of DNA extracted from strawberry fruit cells and from kiwi fruit cells. The method includes: crush the fruit cells in a buffer solution, filter to separate the soluble DNA from the cell fragments, add ethanol. State two variables the student needs to control when using this method to compare the mass of DNA from these two fruits.",
+    "page": 3,
+    "context_keywords": [
+      "DNA extraction",
+      "variables",
+      "control",
+      "method",
+      "comparison"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)(iii)",
+    "question_text": "A student used the method shown in Figure 1 to compare the mass of DNA extracted from strawberry fruit cells and from kiwi fruit cells. The method includes: crush the fruit cells in a buffer solution, filter to separate the soluble DNA from the cell fragments, add ethanol. The student repeated the experiment. Give one reason why.",
+    "page": 3,
+    "context_keywords": [
+      "DNA extraction",
+      "experiment",
+      "repetition",
+      "method",
+      "reason"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "1(c)",
+    "question_text": "Mitosis and meiosis are processes that produce new cells. Compare the outcomes of mitosis and meiosis.",
+    "page": 3,
+    "context_keywords": [
+      "mitosis",
+      "meiosis",
+      "cell division",
+      "outcomes",
+      "compare"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "2(a)",
+    "question_text": "Clostridium tetani is a bacterium that can be found in soil. It causes the infection tetanus. Children are vaccinated against tetanus. Explain why these children do not get tetanus if the bacteria enter their body through a cut in the skin.",
+    "page": 4,
+    "context_keywords": [
+      "Clostridium tetani",
+      "tetanus",
+      "vaccination",
+      "infection",
+      "bacteria"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "2(b)",
+    "question_text": "Colistin is an antibiotic used to treat infections in the bloodstream. Some bacteria are resistant to Colistin. Explain how these bacteria have become resistant to Colistin.",
+    "page": 4,
+    "context_keywords": [
+      "Colistin",
+      "antibiotic resistance",
+      "bacteria",
+      "infections",
+      "bloodstream"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "3(a)(i)",
+    "question_text": "Organisms can be classified by the five kingdom or three domain method. What is the name of the domain that plants belong to? A Eukarya B Archaea C Monera D Protista",
+    "page": 6,
+    "context_keywords": [
+      "classification",
+      "domains",
+      "plants",
+      "Eukarya",
+      "taxonomy"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "3(a)(ii)",
+    "question_text": "Organisms can be classified by the five kingdom or three domain method. Plant cells contain chloroplasts. What happens in a chloroplast? A oxygen produced sunlight absorbed by chlorophyll B carbon dioxide produced sunlight absorbed by mitochondria C oxygen produced sunlight absorbed by mitochondria D carbon dioxide produced sunlight absorbed by chlorophyll",
+    "page": 6,
+    "context_keywords": [
+      "chloroplasts",
+      "photosynthesis",
+      "plant cells",
+      "sunlight",
+      "oxygen"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "3(a)(iii)",
+    "question_text": "Organisms can be classified by the five kingdom or three domain method. Give a reason why the three domain method of classification has been suggested.",
+    "page": 6,
+    "context_keywords": [
+      "classification",
+      "three domain method",
+      "taxonomy",
+      "biology"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "3(b)(i)",
+    "question_text": "Figure 2 shows a cyanobacterium magnified 50,000 times. The line AB shows the diameter of the bacterial cell. Calculate the actual diameter of the cyanobacterium. Give your answer in micrometres (\u00b5m).",
+    "page": 7,
+    "context_keywords": [
+      "cyanobacterium",
+      "microscopy",
+      "cell measurement",
+      "micrometres"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "3(b)(ii)",
+    "question_text": "Figure 2 shows a cyanobacterium magnified 50,000 times. Bacterial cells contain plasmids. Describe three other features of a bacterial cell.",
+    "page": 7,
+    "context_keywords": [
+      "bacterial cells",
+      "plasmids",
+      "cell features",
+      "biology"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "3(c)",
+    "question_text": "Figure 3 shows a plasmid containing the human insulin gene. Explain how the human insulin gene can be inserted into a plasmid.",
+    "page": 8,
+    "context_keywords": [
+      "plasmid",
+      "human insulin gene",
+      "genetic engineering",
+      "biotechnology"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "4(a)(i)",
+    "question_text": "Lactase is an enzyme that breaks down lactose into glucose and galactose. A student made some alginate beads containing lactase. The student added 10 beads to 20 cm3 of a solution of lactose, as shown in Figure 4. The student timed how long it took for glucose to be produced. The experiment was repeated using 15, 20 and 25 beads. The results are shown in Figure 5. What is the rate of reaction for 25 beads? A 0.008 s\u22121 B 0.04 s\u22121 C 0.21 s\u22121 D 4.8 s\u22121",
+    "page": 10,
+    "context_keywords": [
+      "enzyme kinetics",
+      "lactase",
+      "rate of reaction",
+      "glucose production",
+      "biochemistry"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "4(a)(ii)",
+    "question_text": "Lactase is an enzyme that breaks down lactose into glucose and galactose. A student made some alginate beads containing lactase. The student added 10 beads to 20 cm3 of a solution of lactose, as shown in Figure 4. The student timed how long it took for glucose to be produced. The experiment was repeated using 15, 20 and 25 beads. The results are shown in Figure 5. Explain the conclusion that can be made from these results.",
+    "page": 11,
+    "context_keywords": [
+      "lactase",
+      "enzyme",
+      "glucose",
+      "experiment",
+      "alginate beads"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "4(a)(iii)",
+    "question_text": "Lactase is an enzyme that breaks down lactose into glucose and galactose. A student made some alginate beads containing lactase. The student added 10 beads to 20 cm3 of a solution of lactose, as shown in Figure 4. The student timed how long it took for glucose to be produced. The experiment was repeated using 15, 20 and 25 beads. The results are shown in Figure 5. Explain why the same volume of lactose solution was used for each test.",
+    "page": 11,
+    "context_keywords": [
+      "lactase",
+      "enzyme",
+      "glucose",
+      "volume control",
+      "experiment"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "4(b)",
+    "question_text": "Devise a method to find the optimum temperature for the enzyme lactase.",
+    "page": 11,
+    "context_keywords": [
+      "lactase",
+      "enzyme",
+      "optimum temperature",
+      "methodology"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "5(a)(i)",
+    "question_text": "LDL cholesterol is a type of cholesterol which increases the risk of heart disease. Statins are drugs used to reduce LDL cholesterol levels. Figure 6 shows the cholesterol levels in the blood of a man. He started taking statins at the beginning of February and stopped taking them four months later. Describe the effect of statins on LDL cholesterol levels in the blood. Use data from the graph to support your answer.",
+    "page": 12,
+    "context_keywords": [
+      "LDL cholesterol",
+      "statins",
+      "heart disease",
+      "cholesterol levels"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "5(a)(ii)",
+    "question_text": "LDL cholesterol is a type of cholesterol which increases the risk of heart disease. Statins are drugs used to reduce LDL cholesterol levels. Figure 6 shows the cholesterol levels in the blood of a man. He started taking statins at the beginning of February and stopped taking them four months later. Use evidence from the graph to explain why statins are usually prescribed as life-long medication.",
+    "page": 13,
+    "context_keywords": [
+      "LDL cholesterol",
+      "statins",
+      "long-term medication",
+      "cholesterol levels"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "5(b)",
+    "question_text": "Which data can be used to calculate the man\u2019s BMI? A waist circumference and height B waist circumference and hip circumference C mass and height D mass and hip circumference",
+    "page": 13,
+    "context_keywords": [
+      "BMI",
+      "body mass index",
+      "data",
+      "calculation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "5(c)",
+    "question_text": "Gonorrhoea is a sexually transmitted bacterial infection. Figure 7 shows the number of people diagnosed with gonorrhoea in the UK. Explain how gonorrhoea is transmitted and how the number of people infected can be reduced. Use data from the graph to justify why it is necessary to reduce the number of people infected.",
+    "page": 14,
+    "context_keywords": [
+      "gonorrhoea",
+      "transmission",
+      "prevention",
+      "sexual health"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "6(a)(i)",
+    "question_text": "Figure 8 shows the number of neurones in the brain of different animals. Calculate the difference between the number of neurones in the brain of the rat and the brain of the frog. Give your answer in standard form.",
+    "page": 16,
+    "context_keywords": [
+      "neurones",
+      "brain",
+      "standard form",
+      "calculate",
+      "difference"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "6(a)(ii)",
+    "question_text": "Figure 8 shows the number of neurones in the brain of different animals. Most neurones in the brain are unmyelinated whereas motor neurones are myelinated. Explain why myelination is needed on motor neurones but not on neurones in the brain.",
+    "page": 16,
+    "context_keywords": [
+      "neurones",
+      "brain",
+      "myelination",
+      "motor neurones",
+      "explain"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)(i)",
+    "question_text": "Figure 9 shows a sensory neurone. Label the axon on Figure 9.",
+    "page": 17,
+    "context_keywords": [
+      "sensory neurone",
+      "axon",
+      "label",
+      "Figure 9"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)(ii)",
+    "question_text": "Figure 9 shows a sensory neurone. Describe the role of sensory neurones.",
+    "page": 17,
+    "context_keywords": [
+      "sensory neurone",
+      "role",
+      "describe",
+      "Figure 9"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "6(c)",
+    "question_text": "Explain how impulses are transmitted at synapses.",
+    "page": 18,
+    "context_keywords": [
+      "impulses",
+      "synapses",
+      "transmitted",
+      "explain"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  }
+]

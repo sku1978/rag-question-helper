@@ -1,0 +1,148 @@
+[
+  {
+    "question_id": "2(a)",
+    "question_text": "Most of the gold used in jewellery is not pure gold but alloys of gold. The purity of gold is measured in carats. Figure 3 shows how the percentage of gold is related to the purity of gold measured in carats. State the relationship between the percentage of gold and the number of carats.",
+    "page": 6,
+    "context_keywords": [
+      "gold",
+      "jewellery",
+      "alloys",
+      "carats",
+      "purity"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "2(b)",
+    "question_text": "Figure 4 shows the arrangement of atoms in pure gold and in an alloy of gold. Using Figure 4, explain why alloys of gold are stronger than pure gold.",
+    "page": 7,
+    "context_keywords": [
+      "gold",
+      "alloy",
+      "atoms",
+      "strength",
+      "Figure 4"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "2(c)",
+    "question_text": "Explain one property of alloys of gold, other than their strength, that makes them suitable for use in jewellery.",
+    "page": 7,
+    "context_keywords": [
+      "gold",
+      "alloys",
+      "jewellery",
+      "properties"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "3(a)",
+    "question_text": "This question is about electrolysis. Which statement describes what happens during electrolysis? A atoms are decomposed B ionic compounds are decomposed C mixtures are separated D molecules are separated",
+    "page": 8,
+    "context_keywords": [
+      "electrolysis",
+      "decomposition",
+      "ionic compounds",
+      "mixtures"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "3(b)(i)",
+    "question_text": "Figure 5 shows the electrolysis of copper chloride solution. Use the words from the box to complete the labelling of the diagram in Figure 5. anode cathode electrolyte",
+    "page": 8,
+    "context_keywords": [
+      "electrolysis",
+      "copper chloride",
+      "diagram",
+      "labelling",
+      "Figure 5"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "3(b)(ii)",
+    "question_text": "The products of the electrolysis shown in Figure 5 are solid X and gas Y. Draw one straight line from each product to its name. solid X gas Y product carbon chlorine copper hydrogen name",
+    "page": 9,
+    "context_keywords": [
+      "electrolysis",
+      "products",
+      "solid X",
+      "gas Y",
+      "Figure 5"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "3(b)(iii)",
+    "question_text": "The experiment is repeated using powdered solid copper chloride instead of copper chloride solution. Nothing happens and no products are formed. Explain why nothing happens and no products are formed.",
+    "page": 9,
+    "context_keywords": [
+      "electrolysis",
+      "copper chloride",
+      "experiment",
+      "no reaction"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(a)(i)",
+    "question_text": "Steel is an alloy containing iron. When exposed to damp air, some steels will corrode to form rust. Which gas in the air is needed for corrosion to occur? A argon B carbon dioxide C nitrogen D oxygen",
+    "page": 10,
+    "context_keywords": [
+      "steel",
+      "corrosion",
+      "rust",
+      "gas",
+      "air"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(a)(ii)",
+    "question_text": "What type of reaction happens when the iron in steel corrodes? A the iron has been displaced B the iron has been neutralised C the iron has been oxidised D the iron has been reduced",
+    "page": 10,
+    "context_keywords": [
+      "steel",
+      "iron",
+      "corrosion",
+      "reaction type"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(b)",
+    "question_text": "Rust can be removed from steel by treating it with dilute hydrochloric acid. One product formed in this reaction is iron chloride, FeCl3. Calculate the relative formula mass of this iron chloride. (relative atomic masses: Fe = 56.0, Cl = 35.5) relative formula mass =",
+    "page": 10,
+    "context_keywords": [
+      "rust",
+      "steel",
+      "hydrochloric acid",
+      "iron chloride",
+      "relative formula mass"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  }
+]

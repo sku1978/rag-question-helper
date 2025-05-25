@@ -1,0 +1,739 @@
+[
+  {
+    "question_id": "1(a)(i)",
+    "question_text": "This question is about waves in the electromagnetic (e-m) spectrum. Draw one straight line from each type of e-m radiation to its use. One line has been drawn for you. Figure 1 shows some types of radiation that form part of the e-m spectrum and some uses of e-m radiation.",
+    "page": 2,
+    "context_keywords": [
+      "electromagnetic spectrum",
+      "radiation",
+      "uses",
+      "Figure 1",
+      "drawing"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "1(a)(ii)",
+    "question_text": "This question is about waves in the electromagnetic (e-m) spectrum. Which of these waves has the highest frequency? A infrared B microwaves C ultraviolet D visible light",
+    "page": 2,
+    "context_keywords": [
+      "electromagnetic spectrum",
+      "frequency",
+      "waves",
+      "multiple choice"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)(i)",
+    "question_text": "X-rays are also part of the e-m spectrum. Figure 2 shows an airport security scanner using X-rays to scan passengers\u2019 bags. Explain why X-rays are used to scan passengers\u2019 bags.",
+    "page": 3,
+    "context_keywords": [
+      "X-rays",
+      "airport security",
+      "scanning",
+      "Figure 2",
+      "explanation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)(ii)",
+    "question_text": "X-rays are also part of the e-m spectrum. Figure 2 shows an airport security scanner using X-rays to scan passengers\u2019 bags. Explain why passengers are not scanned with X-rays.",
+    "page": 3,
+    "context_keywords": [
+      "X-rays",
+      "airport security",
+      "safety",
+      "Figure 2",
+      "explanation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "2(a)",
+    "question_text": "Figure 3 shows a ray of light striking a mirror. The angle of incidence is 30\u02da and the ray of light is reflected. The angle of reflection is the angle between A the mirror and the incident ray B the mirror and the normal C the reflected ray and the incident ray D the reflected ray and the normal",
+    "page": 4,
+    "context_keywords": [
+      "light",
+      "reflection",
+      "mirror",
+      "angle",
+      "multiple choice"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "2(b)(i)",
+    "question_text": "Figure 4 shows two lenses, P and Q, arranged to form a simple telescope. State one use for a telescope.",
+    "page": 4,
+    "context_keywords": [
+      "telescope",
+      "lenses",
+      "uses",
+      "Figure 4"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "2(b)(ii)",
+    "question_text": "Figure 4 shows two lenses, P and Q, arranged to form a simple telescope. Which of these describes the lenses? A P is converging, Q is diverging B P is diverging, Q is converging C P and Q are both converging D P and Q are both diverging",
+    "page": 4,
+    "context_keywords": [
+      "telescope",
+      "lenses",
+      "types",
+      "multiple choice",
+      "Figure 4"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "2(b)(iii)",
+    "question_text": "Figure 4 shows two lenses, P and Q, arranged to form a simple telescope. The focal length of lens Q is 0.14 m. Calculate the power of the lens. Use the equation power = 1 / focal length in m",
+    "page": 4,
+    "context_keywords": [
+      "telescope",
+      "lens power",
+      "calculation",
+      "focal length",
+      "Figure 4"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "2(c)",
+    "question_text": "A student is in a laboratory that has windows. The student is given a converging lens, and a sheet of paper. Describe how the student can produce an image of the window frame on the sheet of paper.",
+    "page": 5,
+    "context_keywords": [
+      "converging lens",
+      "image formation",
+      "laboratory",
+      "experiment",
+      "description"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "3(a)(i)",
+    "question_text": "The graph in Figure 5 shows how the velocity of a car changes with time. The car starts from rest and travels along a level, straight road for 50 s. Which part of the graph shows when the car has constant velocity? A PQ B QR C RS D ST",
+    "page": 6,
+    "context_keywords": [
+      "velocity",
+      "time",
+      "constant velocity",
+      "graph",
+      "car"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "3(a)(ii)",
+    "question_text": "The graph in Figure 5 shows how the velocity of a car changes with time. The car starts from rest and travels along a level, straight road for 50 s. Which part of the graph shows when the car has the greatest acceleration? A PQ B QR C RS D ST",
+    "page": 6,
+    "context_keywords": [
+      "acceleration",
+      "velocity",
+      "graph",
+      "car",
+      "time"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "3(a)(iii)",
+    "question_text": "The graph in Figure 5 shows how the velocity of a car changes with time. Calculate the acceleration of the car in the first 10 s shown on the graph. Use the equation acceleration = change in velocity / time acceleration = ..............................................................",
+    "page": 7,
+    "context_keywords": [
+      "acceleration",
+      "velocity",
+      "graph",
+      "car",
+      "time"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "3(a)(iv)",
+    "question_text": "The graph in Figure 5 shows how the velocity of a car changes with time. Calculate the distance the car travels in part QR shown on the velocity/time graph in Figure 5. distance = ..............................................................",
+    "page": 7,
+    "context_keywords": [
+      "distance",
+      "velocity",
+      "graph",
+      "car",
+      "time"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "3(b)",
+    "question_text": "A different car has a mass of 1200 kg. Calculate the force needed to give this car an acceleration of 2.4 m/s^2. Use the equation F = m \u00d7 a force =",
+    "page": 7,
+    "context_keywords": [
+      "force",
+      "mass",
+      "acceleration",
+      "car",
+      "equation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "4(a)(i)",
+    "question_text": "An atom has a central nucleus containing neutrons and protons. Electrons orbit the nucleus. Which row of the table gives the relative mass and charge of a proton? A B C D relative mass charge 0 +1 0 \u20131 1 +1 1 \u20131",
+    "page": 8,
+    "context_keywords": [
+      "atom",
+      "nucleus",
+      "protons",
+      "electrons",
+      "charge"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "4(a)(ii)",
+    "question_text": "An atom has a central nucleus containing neutrons and protons. Electrons orbit the nucleus. An atom has a radius of 1.0 \u00d7 10^\u201310 m. A nucleus has a radius of 1.0 \u00d7 10^\u201315 m. Calculate the ratio of the radius of the atom to the radius of the nucleus. ratio of radius of atom to radius of nucleus =",
+    "page": 8,
+    "context_keywords": [
+      "atom",
+      "nucleus",
+      "radius",
+      "ratio",
+      "measurement"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "4(a)(iii)",
+    "question_text": "An atom has a central nucleus containing neutrons and protons. Electrons orbit the nucleus. Explain why an atom has no charge overall.",
+    "page": 8,
+    "context_keywords": [
+      "atom",
+      "charge",
+      "nucleus",
+      "electrons",
+      "neutrons"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "4(b)(i)",
+    "question_text": "One isotope of carbon is carbon-14. State the number of protons in one atom of carbon-14. number of protons =",
+    "page": 9,
+    "context_keywords": [
+      "carbon-14",
+      "protons",
+      "isotope",
+      "atom"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "4(b)(ii)",
+    "question_text": "One isotope of carbon is carbon-14. State the number of neutrons in one atom of carbon-14. number of neutrons =",
+    "page": 9,
+    "context_keywords": [
+      "carbon-14",
+      "neutrons",
+      "isotope",
+      "atom"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "4(b)(iii)",
+    "question_text": "One isotope of carbon is carbon-14. Figure 6 shows a graph for the decay of the radioactive isotope carbon-14. Use the graph to estimate the half-life of carbon-14. half-life = ..............................................................",
+    "page": 9,
+    "context_keywords": [
+      "carbon-14",
+      "half-life",
+      "radioactive decay",
+      "graph",
+      "isotope"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "5(a)(i)",
+    "question_text": "Figure 7 shows a wave on the surface of water. Which of the arrowed lines shows the amplitude of the wave? A B C D",
+    "page": 11,
+    "context_keywords": [
+      "wave",
+      "amplitude",
+      "surface water",
+      "transverse wave"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "5(a)(ii)",
+    "question_text": "Figure 7 shows a wave on the surface of water. Explain why the wave shown in Figure 7 is a transverse wave.",
+    "page": 11,
+    "context_keywords": [
+      "wave",
+      "transverse wave",
+      "surface water",
+      "wave direction"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "5(b)(i)",
+    "question_text": "Figure 8 shows a ripple tank. A screen is placed below the ripple tank. The wave pattern produced by the ripples can be seen on the screen. Describe how the student could measure the frequency of the ripples.",
+    "page": 12,
+    "context_keywords": [
+      "ripple tank",
+      "frequency",
+      "ripples",
+      "wave pattern"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "5(b)(ii)",
+    "question_text": "Figure 8 shows a ripple tank. A screen is placed below the ripple tank. The wave pattern produced by the ripples can be seen on the screen. Describe how the student could measure the wavelength of the ripples.",
+    "page": 12,
+    "context_keywords": [
+      "ripple tank",
+      "wavelength",
+      "ripples",
+      "wave pattern"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "5(c)",
+    "question_text": "In a swimming pool, a wave is produced with a wavelength of 4.0 m and a velocity of 0.8 m/s. Calculate the frequency of the wave. State the unit of frequency. Use the equation v = f \u00d7 \u03bb frequency of wave .............................................................. unit",
+    "page": 13,
+    "context_keywords": [
+      "swimming pool",
+      "wave",
+      "wavelength",
+      "velocity",
+      "frequency"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "6(a)(i)",
+    "question_text": "Figure 9 shows a metal cube filled with hot water. Four sides of the cube have different surfaces, as shown in Figure 9. The thermal energy radiated by each side of the box is measured using a thermal energy detector connected to a millivoltmeter. The detector is moved to get a reading of the thermal energy emitted from each side of the box. Suggest a possible millivoltmeter reading for the shiny black surface.",
+    "page": 14,
+    "context_keywords": [
+      "thermal energy",
+      "metal cube",
+      "millivoltmeter",
+      "radiation",
+      "shiny black surface"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "6(a)(ii)",
+    "question_text": "Figure 9 shows a metal cube filled with hot water. Four sides of the cube have different surfaces, as shown in Figure 9. The thermal energy radiated by each side of the box is measured using a thermal energy detector connected to a millivoltmeter. The detector is moved to get a reading of the thermal energy emitted from each side of the box. State what must be kept the same to take the measurement for each surface.",
+    "page": 15,
+    "context_keywords": [
+      "thermal energy",
+      "metal cube",
+      "millivoltmeter",
+      "measurement",
+      "control variables"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "6(a)(iii)",
+    "question_text": "Figure 9 shows a metal cube filled with hot water. Four sides of the cube have different surfaces, as shown in Figure 9. The thermal energy radiated by each side of the box is measured using a thermal energy detector connected to a millivoltmeter. The detector is moved to get a reading of the thermal energy emitted from each side of the box. Suggest why the cube is placed on a block of wood.",
+    "page": 15,
+    "context_keywords": [
+      "thermal energy",
+      "metal cube",
+      "wooden block",
+      "insulation",
+      "heat transfer"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)",
+    "question_text": "A hot surface emits radiation of different wavelengths. The graph in Figure 11 shows how the intensity of the radiation emitted changes with the wavelength. Describe how intensity changes with wavelength in Figure 11.",
+    "page": 15,
+    "context_keywords": [
+      "radiation",
+      "intensity",
+      "wavelength",
+      "emission",
+      "graph analysis"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "6(c)",
+    "question_text": "Figure 12 shows two cans, a radiant heater and some other apparatus. The cans absorb thermal radiation from the heater. One can has a matt black surface and the other can has a shiny silver surface. Both cans contain water at the same temperature. Describe how a student could use the apparatus in Figure 12 to determine which can is the better absorber of thermal radiation.",
+    "page": 16,
+    "context_keywords": [
+      "thermal radiation",
+      "radiant heater",
+      "matt black surface",
+      "shiny silver surface",
+      "absorption"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "7(a)",
+    "question_text": "Which of these radiations does not have a charge? A alpha B beta minus C beta plus D gamma",
+    "page": 17,
+    "context_keywords": [
+      "radiation",
+      "charge",
+      "alpha",
+      "beta",
+      "gamma"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "7(b)",
+    "question_text": "Which of these radiations is used in smoke detectors? A alpha B beta minus C beta plus D gamma",
+    "page": 17,
+    "context_keywords": [
+      "radiation",
+      "smoke detectors",
+      "alpha",
+      "beta",
+      "gamma"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "7(c)(i)",
+    "question_text": "The diagram in Figure 13 shows a radioactive source used to check the thickness of paper. Name the type of radiation used to check the thickness of the paper.",
+    "page": 17,
+    "context_keywords": [
+      "radioactive source",
+      "paper thickness",
+      "radiation type",
+      "Figure 13"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "7(c)(ii)",
+    "question_text": "The diagram in Figure 13 shows a radioactive source used to check the thickness of paper. Give the name of one device which could detect this type of radiation.",
+    "page": 17,
+    "context_keywords": [
+      "radioactive source",
+      "paper thickness",
+      "radiation detection",
+      "Figure 13"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "7(c)(iii)",
+    "question_text": "When the paper is the correct thickness, the count rate is 4000 counts per minute. The count rate increases when the paper gets thinner. Give one reason for this increase.",
+    "page": 18,
+    "context_keywords": [
+      "count rate",
+      "paper thickness",
+      "radiation",
+      "measurement"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "7(c)(iv)",
+    "question_text": "When the paper is the correct thickness, the count rate is 4000 counts per minute. The rollers need to be adjusted if the count rate increases by 5%. Calculate the maximum count rate that would be allowed before the rollers need to be adjusted. maximum count rate =",
+    "page": 18,
+    "context_keywords": [
+      "count rate",
+      "paper thickness",
+      "adjustment",
+      "calculation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "7(d)",
+    "question_text": "Radioactivity from radioactive sources can be used in the diagnosis and treatment of cancer. Describe one way radioactivity can be used in the diagnosis of cancer and one way radioactivity can be used in the treatment of cancer.",
+    "page": 19,
+    "context_keywords": [
+      "radioactivity",
+      "cancer diagnosis",
+      "cancer treatment",
+      "radioactive sources"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "8(a)",
+    "question_text": "Which of these is a scalar quantity? A acceleration B distance C force D weight",
+    "page": 20,
+    "context_keywords": [
+      "scalar quantity",
+      "acceleration",
+      "distance",
+      "force",
+      "weight"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "8(b)",
+    "question_text": "A student has some cupcake cases. One cupcake case is shown in Figure 14. The student drops a stack of cupcake cases with the base facing downwards, as shown in Figure 15. The speed of the falling stack of cupcake cases depends on the number of cupcake cases in the stack.",
+    "page": 20,
+    "context_keywords": [
+      "cupcake cases",
+      "falling speed",
+      "stack",
+      "Figure 14",
+      "Figure 15"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "8(c)",
+    "question_text": "A car travels along a straight road. The car accelerates at 3 m/s^2 for a time of 7 s. Calculate the change in velocity of the car. Use the equation change in velocity = acceleration \u00d7 time taken change in velocity = ..............................................................",
+    "page": 22,
+    "context_keywords": [
+      "acceleration",
+      "velocity",
+      "car",
+      "physics",
+      "motion"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "9(a)(i)",
+    "question_text": "Figure 17 shows a football kicked against a wall. The football has a mass of 0.42 kg. The football gains 11 J of gravitational potential energy as it moves from the ground to the wall. Calculate the height at which the ball hits the wall. Gravitational field strength = 10 N/kg Use the equation \u2206 GPE = m \u00d7 g \u00d7 \u2206 h height = ..............................................................",
+    "page": 23,
+    "context_keywords": [
+      "gravitational potential energy",
+      "football",
+      "height",
+      "mass",
+      "energy"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "9(a)(ii)",
+    "question_text": "Figure 17 shows a football kicked against a wall. The football has a mass of 0.42 kg. Calculate the kinetic energy of the football when it is moving at a velocity of 12 m/s. Use the equation KE = 1/2 \u00d7 m \u00d7 v^2 kinetic energy =",
+    "page": 23,
+    "context_keywords": [
+      "kinetic energy",
+      "football",
+      "velocity",
+      "mass",
+      "energy"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "9(a)(iii)",
+    "question_text": "Figure 17 shows a football kicked against a wall. Describe the energy transfers that happen when the ball hits the wall.",
+    "page": 24,
+    "context_keywords": [
+      "energy transfer",
+      "football",
+      "collision",
+      "wall",
+      "physics"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "9(b)",
+    "question_text": "In the UK, electricity is generated using non-renewable and renewable energy resources. The graph in Figure 18 shows how the amount of electricity generated by these resources changed from 2012 to 2020. Explain how and why the amount of electricity generated by renewable and non-renewable energy resources has changed from 2012 to 2020. Your answer should include the trends shown in Figure 18, the change in the amount of electricity generated by at least one renewable resource, and the change in the amount of electricity generated by at least one non-renewable resource.",
+    "page": 25,
+    "context_keywords": [
+      "electricity generation",
+      "renewable resources",
+      "non-renewable resources",
+      "energy trends",
+      "UK"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "10(a)(i)",
+    "question_text": "Figure 19 shows two objects, E and D. E emits a sound. D detects the sound. E is moving in the direction shown by the arrow, but D is not moving. E emits a sound of wavelength 1.86 m. D measures the wavelength of this sound as 1.98 m. Calculate the difference between the wavelength that E emits and the wavelength that D detects. difference in wavelength = ..............................................................",
+    "page": 27,
+    "context_keywords": [
+      "wavelength",
+      "sound",
+      "motion",
+      "Doppler effect",
+      "physics"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "10(a)(ii)",
+    "question_text": "Figure 19 shows two objects, E and D. E emits a sound. D detects the sound. E is moving in the direction shown by the arrow, but D is not moving. E emits a sound of wavelength 1.86 m. D measures the wavelength of this sound as 1.98 m. The velocity of sound is 330 m / s. Calculate the velocity of E using the equation: velocity of E = velocity of sound \u00d7 (difference in wavelength / wavelength emitted by E). velocity of E = ..............................................................",
+    "page": 27,
+    "context_keywords": [
+      "velocity",
+      "sound",
+      "Doppler effect",
+      "calculation",
+      "physics"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "10(b)",
+    "question_text": "The wavelength of light emitted from distant galaxies is different when the light is detected on Earth. Explain how this difference in wavelength shows that the Universe is expanding.",
+    "page": 28,
+    "context_keywords": [
+      "wavelength",
+      "light",
+      "Universe",
+      "expansion",
+      "redshift"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "10(c)",
+    "question_text": "CMB radiation provides evidence that the Universe had a definite beginning. Use the table in Figure 20 to give a typical value for the wavelength of CMB radiation. type of radiation typical wavelength gamma rays 1.0 \u00d7 10 \u201312 m X-rays 3.0 \u00d7 10 \u201311 m ultraviolet 200 nm visible 600 nm infrared 4.0 \u03bc m microwaves 1.0 mm radio waves 50 m wavelength =",
+    "page": 28,
+    "context_keywords": [
+      "CMB radiation",
+      "wavelength",
+      "Universe",
+      "cosmic background",
+      "microwaves"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "10(d)(i)",
+    "question_text": "During the evolution of a star, the nebula collapses and becomes a main sequence star. State what causes the nebula to collapse.",
+    "page": 28,
+    "context_keywords": [
+      "nebula",
+      "collapse",
+      "star formation",
+      "gravity",
+      "astrophysics"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  },
+  {
+    "question_id": "10(d)(ii)",
+    "question_text": "During the evolution of a star, the nebula collapses and becomes a main sequence star. Explain why the nebula stops collapsing as it becomes a main sequence star.",
+    "page": 29,
+    "context_keywords": [
+      "nebula",
+      "main sequence star",
+      "star formation",
+      "hydrostatic equilibrium",
+      "astrophysics"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Physics_2023.pdf",
+    "subject": "Physics",
+    "year": 2023
+  }
+]

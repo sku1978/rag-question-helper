@@ -1,0 +1,113 @@
+[
+  {
+    "question_id": "9(a)",
+    "question_text": "Figure 13 shows part of the reactivity series of metals. Which metal reacts when added to cold water? A calcium B copper C gold D silver",
+    "page": 26,
+    "context_keywords": [
+      "reactivity series",
+      "metals",
+      "cold water",
+      "calcium",
+      "copper",
+      "gold",
+      "silver"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(b)(i)",
+    "question_text": "A student investigates the reactivity of four different metals. The student adds an equal-sized piece of each metal to separate test tubes containing dilute hydrochloric acid. The student\u2019s observations for zinc and copper are recorded in Figure 14. Use the information in Figure 13 and in Figure 14 to predict the observations for the reactions of magnesium and of iron with dilute hydrochloric acid. magnesium iron",
+    "page": 26,
+    "context_keywords": [
+      "reactivity",
+      "metals",
+      "hydrochloric acid",
+      "magnesium",
+      "iron",
+      "zinc",
+      "copper"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(b)(ii)",
+    "question_text": "When metals react with acids, hydrogen gas is produced. Describe the test to show that the gas is hydrogen.",
+    "page": 26,
+    "context_keywords": [
+      "metals",
+      "acids",
+      "hydrogen gas",
+      "chemical test"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(b)(iii)",
+    "question_text": "When magnesium reacts with hydrochloric acid, magnesium chloride and hydrogen are formed. Complete the balanced equation for the reaction. Mg + .............................................. HCl \u2192 MgCl2 + ...............................................",
+    "page": 26,
+    "context_keywords": [
+      "magnesium",
+      "hydrochloric acid",
+      "reaction",
+      "balanced equation",
+      "magnesium chloride",
+      "hydrogen"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(c)",
+    "question_text": "There are three common methods of obtaining metals from the Earth\u2019s crust: mine the pure metal, mine the metal ore and heat it with carbon, mine the metal ore and electrolyse the molten compound. The method used to obtain a metal is linked to its position in the reactivity series of metals. Aluminium, gold, iron, and silver are some commonly used metals. Use the reactivity series in Figure 13 to state and explain the method chosen to obtain each of these four metals.",
+    "page": 28,
+    "context_keywords": [
+      "metals",
+      "Earth's crust",
+      "reactivity series",
+      "extraction methods",
+      "aluminium",
+      "gold",
+      "iron",
+      "silver"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "10(a)",
+    "question_text": "There are several stages to the production of sulfuric acid in industry. Sulfur dioxide is required for the production of sulfuric acid. Sulfur dioxide can be obtained by heating copper sulfide, Cu2S, in excess air. Cu2S + O2 \u2192 2Cu + SO2 Calculate the atom economy for the production of sulfur dioxide, SO2, in this reaction. (relative atomic mass: Cu = 63.5 relative formula masses: O2 = 32.0, Cu2S = 159.0, SO2 = 64.0) Give your answer to two significant figures. atom economy =",
+    "page": 30,
+    "context_keywords": [
+      "sulfuric acid",
+      "sulfur dioxide",
+      "copper sulfide",
+      "atom economy",
+      "chemical reaction"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "10(b)",
+    "question_text": "In one stage vanadium oxide, V2O5, is used. Based on the position of vanadium in the periodic table, which row shows the most likely melting point of vanadium and colour of vanadium oxide? A B C D melting point of vanadium in \u00b0C colour of vanadium oxide 50 white 1910 white 50 orange 1910 orange",
+    "page": 30,
+    "context_keywords": [
+      "vanadium oxide",
+      "periodic table",
+      "melting point",
+      "chemical properties"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  }
+]

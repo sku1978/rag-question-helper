@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": "6(a)(i)",
+    "question_text": "Figure 8 shows the number of neurones in the brain of different animals. Calculate the difference between the number of neurones in the brain of the rat and the brain of the frog. Give your answer in standard form.",
+    "page": 16,
+    "context_keywords": [
+      "neurones",
+      "brain",
+      "standard form",
+      "calculate",
+      "difference"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "6(a)(ii)",
+    "question_text": "Figure 8 shows the number of neurones in the brain of different animals. Most neurones in the brain are unmyelinated whereas motor neurones are myelinated. Explain why myelination is needed on motor neurones but not on neurones in the brain.",
+    "page": 16,
+    "context_keywords": [
+      "neurones",
+      "brain",
+      "myelination",
+      "motor neurones",
+      "explain"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)(i)",
+    "question_text": "Figure 9 shows a sensory neurone. Label the axon on Figure 9.",
+    "page": 17,
+    "context_keywords": [
+      "sensory neurone",
+      "axon",
+      "label",
+      "Figure 9"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)(ii)",
+    "question_text": "Figure 9 shows a sensory neurone. Describe the role of sensory neurones.",
+    "page": 17,
+    "context_keywords": [
+      "sensory neurone",
+      "role",
+      "describe",
+      "Figure 9"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "6(c)",
+    "question_text": "Explain how impulses are transmitted at synapses.",
+    "page": 18,
+    "context_keywords": [
+      "impulses",
+      "synapses",
+      "transmitted",
+      "explain"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  }
+]

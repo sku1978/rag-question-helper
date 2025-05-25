@@ -1,0 +1,114 @@
+[
+  {
+    "question_id": "8(a)",
+    "question_text": "In an experiment, powdered calcium hydroxide was added to dilute hydrochloric acid and the pH was measured. The method used was step 1 measure 200 cm3 dilute hydrochloric acid into a beaker, step 2 add 0.1 g of powdered calcium hydroxide to the beaker, step 3 find the pH of the mixture, step 4 repeat steps 2 and 3 until the pH stops changing. State what should be done after step 2 to make sure that any reaction is complete.",
+    "page": 22,
+    "context_keywords": [
+      "calcium hydroxide",
+      "hydrochloric acid",
+      "pH",
+      "reaction",
+      "experiment"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(b)",
+    "question_text": "In an experiment, powdered calcium hydroxide was added to dilute hydrochloric acid and the pH was measured. Complete the word equation for the reaction. calcium hydroxide + hydrochloric acid \u2192",
+    "page": 22,
+    "context_keywords": [
+      "calcium hydroxide",
+      "hydrochloric acid",
+      "word equation",
+      "chemical reaction"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(c)",
+    "question_text": "In an experiment, powdered calcium hydroxide was added to dilute hydrochloric acid and the pH was measured. Which row of the table shows the state symbols for powdered calcium hydroxide and dilute hydrochloric acid in the balanced chemical equation? A B C D calcium hydroxide hydrochloric acid aq l l aq s aq s l",
+    "page": 22,
+    "context_keywords": [
+      "calcium hydroxide",
+      "hydrochloric acid",
+      "state symbols",
+      "chemical equation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(d)(i)",
+    "question_text": "The results of the experiment are shown in Figure 12. Using Figure 12, give the pH of the acid at the start of the experiment. pH =",
+    "page": 23,
+    "context_keywords": [
+      "Figure 12",
+      "pH",
+      "calcium hydroxide",
+      "experiment"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(d)(ii)",
+    "question_text": "The results of the experiment are shown in Figure 12. Using Figure 12, give the mass of calcium hydroxide required to make a neutral mixture. mass of calcium hydroxide =",
+    "page": 23,
+    "context_keywords": [
+      "Figure 12",
+      "calcium hydroxide",
+      "neutral mixture",
+      "experiment"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(d)(iii)",
+    "question_text": "The results of the experiment are shown in Figure 12. Explain why the pH starts at a low value and ends at a higher value.",
+    "page": 23,
+    "context_keywords": [
+      "Figure 12",
+      "pH",
+      "calcium hydroxide",
+      "acid-base reaction"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(e)",
+    "question_text": "State what should be used to measure the pH of the mixture in this experiment.",
+    "page": 24,
+    "context_keywords": [
+      "pH measurement",
+      "experiment",
+      "mixture"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(f)",
+    "question_text": "The calcium hydroxide used is corrosive to the eyes and an irritant to skin. Using this information, state one safety precaution that should be taken during the experiment when using any corrosive substance.",
+    "page": 24,
+    "context_keywords": [
+      "calcium hydroxide",
+      "safety",
+      "corrosive",
+      "experiment"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  }
+]

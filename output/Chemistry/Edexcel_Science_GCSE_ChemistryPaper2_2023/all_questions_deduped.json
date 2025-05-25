@@ -1,0 +1,843 @@
+[
+  {
+    "question_id": "1(a)",
+    "question_text": "Figure 1 shows the structure of a molecule of each of four compounds, A, B, C, and D. The formula of a molecule of compound A is H2O. Give the formula of a molecule of compound D.",
+    "page": 2,
+    "context_keywords": [
+      "compound",
+      "molecule",
+      "formula",
+      "structure",
+      "H2O"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)",
+    "question_text": "Figure 1 shows the structure of a molecule of each of four compounds, A, B, C, and D. The names of two of the compounds in Figure 1 are shown below. Draw one straight line from each name to the structure of a molecule of that compound.",
+    "page": 2,
+    "context_keywords": [
+      "compound",
+      "molecule",
+      "structure",
+      "carbon dioxide",
+      "methane"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "1(c)",
+    "question_text": "Figure 2 shows information about the number of electrons in the outer shell of each of the different atoms in a molecule of compound C. Use the information in Figure 2 to complete the dot and cross diagram for a molecule of compound C.",
+    "page": 3,
+    "context_keywords": [
+      "electrons",
+      "outer shell",
+      "compound C",
+      "dot and cross diagram"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "1(d)",
+    "question_text": "The atomic number of phosphorus, P, is 15. One atom of phosphorus has a relative atomic mass of 31. Give the number of protons, neutrons, and electrons in this atom of phosphorus.",
+    "page": 3,
+    "context_keywords": [
+      "phosphorus",
+      "atomic number",
+      "relative atomic mass",
+      "protons",
+      "neutrons",
+      "electrons"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "2(a)",
+    "question_text": "A student investigated the temperature change that took place when different salts were dissolved in water. The student used the following method: steps 1 to 5. Figure 3 shows the apparatus used. For steps 2 and 3, the student obtained the mass measurements shown in Figure 4 for the first salt. Use the mass measurements in Figure 4 to calculate the mass of salt, in grams, added to the water.",
+    "page": 4,
+    "context_keywords": [
+      "temperature change",
+      "salts",
+      "dissolved",
+      "water",
+      "mass measurements"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "2(b)(i)",
+    "question_text": "The student repeated the method for three different salts, A, B, and C. The same mass of each salt was used. Figure 5 shows the temperature readings obtained for the three different salts. Calculate the temperature change for salt C. Include a sign to show if the temperature change is an increase or a decrease.",
+    "page": 5,
+    "context_keywords": [
+      "temperature change",
+      "salts",
+      "method",
+      "temperature readings"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "2(b)(ii)",
+    "question_text": "The student repeated the method for three different salts, A, B, and C. The same mass of each salt was used. Figure 5 shows the temperature readings obtained for the three different salts. Explain which salt produces the biggest exothermic change.",
+    "page": 5,
+    "context_keywords": [
+      "exothermic change",
+      "salts",
+      "temperature readings",
+      "method"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "2(c)",
+    "question_text": "A student investigated the temperature change that took place when different salts were dissolved in water. The student used the following method: steps 1 to 5. Figure 3 shows the apparatus used. Explain why a polystyrene cup is a better container to use for this investigation than a glass beaker.",
+    "page": 5,
+    "context_keywords": [
+      "polystyrene cup",
+      "glass beaker",
+      "temperature change",
+      "salts",
+      "dissolved"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "3(a)(i)",
+    "question_text": "Complete step 2 of how to carry out a flame test. step 1 dip a flame test wire in dilute hydrochloric acid and then hold the wire in a roaring Bunsen flame until the flame is colourless step 2 step 3 hold the wire with the substance in a roaring Bunsen burner flame.",
+    "page": 6,
+    "context_keywords": [
+      "flame test",
+      "metal ions",
+      "Bunsen burner",
+      "hydrochloric acid",
+      "wire"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "3(a)(ii)",
+    "question_text": "Many metal ions produce a coloured flame in a flame test. Draw one straight line from each metal ion to its flame colour in a flame test. copper ion potassium ion sodium ion orange-red red yellow blue-green lilac metal ion flame colour",
+    "page": 6,
+    "context_keywords": [
+      "flame test",
+      "metal ions",
+      "flame colour",
+      "copper",
+      "potassium",
+      "sodium"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "3(b)",
+    "question_text": "Some metal ions can be identified using sodium hydroxide solution. Drops of sodium hydroxide solution were added to a solution containing iron(III) ions, Fe 3+. What would be seen? A blue solution B green liquid C red-brown precipitate D yellow gas",
+    "page": 7,
+    "context_keywords": [
+      "sodium hydroxide",
+      "metal ions",
+      "iron(III) ions",
+      "precipitate"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "3(c)(i)",
+    "question_text": "In the test for carbonate ions, dilute hydrochloric acid is added to the solid carbonate in a test tube. A gas is given off. Give the name of this gas.",
+    "page": 7,
+    "context_keywords": [
+      "carbonate ions",
+      "hydrochloric acid",
+      "gas",
+      "test tube"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "3(c)(ii)",
+    "question_text": "Figure 6 shows the apparatus that a student set up to test for this gas. limewater Figure 6 This apparatus will not work. State what change is needed so that bubbles of the gas can pass through the limewater.",
+    "page": 7,
+    "context_keywords": [
+      "apparatus",
+      "limewater",
+      "gas test",
+      "carbonate test"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "3(d)",
+    "question_text": "A compound that contained ammonium ions was dissolved in water. A solution was formed. Sodium hydroxide solution was added, and the mixture was heated. A gas was given off. This gas was tested with a piece of damp red litmus paper. The litmus paper turned blue. Name the gas that was given off.",
+    "page": 8,
+    "context_keywords": [
+      "ammonium ions",
+      "sodium hydroxide",
+      "litmus paper",
+      "gas"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(a)",
+    "question_text": "Complete the bar chart showing the composition of the Earth\u2019s atmosphere 3 billion years ago by adding a bar to show the percentage of carbon dioxide. carbon dioxide water vapour all other gases 100 90 80 70 60 50 40 30 20 10 0 percentage of gas in Earth\u2019s early atmosphere",
+    "page": 10,
+    "context_keywords": [
+      "Earth's atmosphere",
+      "carbon dioxide",
+      "bar chart",
+      "historical data"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(b)(i)",
+    "question_text": "Use words from the box to complete the following sentence. Over the past 3 billion years the average surface temperature of the Earth ............................................................................................................................",
+    "page": 11,
+    "context_keywords": [
+      "Earth",
+      "surface temperature",
+      "3 billion years",
+      "change"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(b)(ii)",
+    "question_text": "The Earth\u2019s atmosphere 3 billion years ago contained much more water vapour than today\u2019s atmosphere. Explain what happened to the water vapour.",
+    "page": 11,
+    "context_keywords": [
+      "Earth's atmosphere",
+      "water vapour",
+      "3 billion years",
+      "change"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(c)(i)",
+    "question_text": "Carbon dioxide was used in the growth of primitive plants and produced oxygen. Give the name of the process in plants that takes in carbon dioxide and produces oxygen.",
+    "page": 11,
+    "context_keywords": [
+      "carbon dioxide",
+      "oxygen",
+      "primitive plants",
+      "photosynthesis"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(c)(ii)",
+    "question_text": "Which of the following tests would show that a gas is oxygen? A put a lighted splint into the gas and it burns with a pop B put a glowing splint into the gas and it relights C put a lighted splint into the gas and it relights D put a glowing splint into the gas and it burns with a pop",
+    "page": 11,
+    "context_keywords": [
+      "oxygen",
+      "gas test",
+      "lighted splint",
+      "glowing splint"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(d)(i)",
+    "question_text": "The amount of carbon dioxide in the atmosphere is measured in parts per million (ppm). Figure 8 shows the amount of carbon dioxide in the atmosphere in June 2001 and in June 2021. Calculate the increase in the amount of carbon dioxide, in ppm, from June 2001 to June 2021. Give your answer to the nearest whole number. increase in amount of carbon dioxide =",
+    "page": 12,
+    "context_keywords": [
+      "carbon dioxide",
+      "atmosphere",
+      "increase",
+      "ppm",
+      "2021",
+      "2001"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(d)(ii)",
+    "question_text": "State one possible effect that could be caused by the increasing amount of carbon dioxide in the atmosphere.",
+    "page": 12,
+    "context_keywords": [
+      "carbon dioxide",
+      "atmosphere",
+      "effects",
+      "climate change"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(a)",
+    "question_text": "Ethanol can be made by fermentation of a solution of glucose, a carbohydrate. A student used the apparatus shown in Figure 9 for the fermentation reaction. Complete the missing label on Figure 9.",
+    "page": 14,
+    "context_keywords": [
+      "ethanol",
+      "fermentation",
+      "glucose",
+      "apparatus",
+      "label"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(b)",
+    "question_text": "The student dissolved 45 g of glucose in water to make 150 cm3 of glucose solution. Calculate the concentration of this solution in g dm\u20133. concentration of glucose solution =",
+    "page": 14,
+    "context_keywords": [
+      "glucose",
+      "solution",
+      "concentration",
+      "calculation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(c)",
+    "question_text": "State what should be added to the glucose solution to cause the fermentation reaction.",
+    "page": 14,
+    "context_keywords": [
+      "glucose solution",
+      "fermentation",
+      "additive"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(d)",
+    "question_text": "After a few days, a dilute solution of ethanol is formed. Which piece of apparatus should be used to produce a concentrated solution of ethanol from the dilute solution of ethanol by fractional distillation?",
+    "page": 15,
+    "context_keywords": [
+      "ethanol",
+      "fractional distillation",
+      "apparatus",
+      "concentration"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(e)",
+    "question_text": "The complete fermentation of 180 g of glucose produces 92 g of ethanol. Calculate the maximum mass of ethanol, in g, produced from the complete fermentation of 45 g of glucose. maximum mass of ethanol =",
+    "page": 15,
+    "context_keywords": [
+      "fermentation",
+      "glucose",
+      "ethanol",
+      "yield",
+      "calculation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(f)",
+    "question_text": "The structure of a molecule of ethanol is shown in Figure 10. Ethanol is an example of an alcohol. What is the functional group of an alcohol?",
+    "page": 16,
+    "context_keywords": [
+      "ethanol",
+      "molecule structure",
+      "functional group",
+      "alcohol",
+      "chemistry"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(g)",
+    "question_text": "Ethanol can be oxidised to form ethanoic acid. State what is seen when a piece of universal indicator paper is placed in some dilute ethanoic acid.",
+    "page": 16,
+    "context_keywords": [
+      "ethanol",
+      "oxidation",
+      "ethanoic acid",
+      "universal indicator",
+      "acidity"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(a)",
+    "question_text": "Chlorine is an element in group 7 of the periodic table. What name is given to group 7 of the periodic table?",
+    "page": 17,
+    "context_keywords": [
+      "chlorine",
+      "periodic table",
+      "group 7",
+      "element"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)(i)",
+    "question_text": "Chlorine reacts with sodium to form sodium chloride. Write the word equation for this reaction.",
+    "page": 17,
+    "context_keywords": [
+      "chlorine",
+      "sodium",
+      "sodium chloride",
+      "reaction",
+      "word equation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)(ii)",
+    "question_text": "Chlorine, Cl2, is made of simple molecules. Describe what is meant by the term molecule.",
+    "page": 17,
+    "context_keywords": [
+      "chlorine",
+      "molecule",
+      "simple molecules",
+      "chemical structure"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)(iii)",
+    "question_text": "Sodium, like all metals, conducts electricity. Explain how sodium conducts electricity.",
+    "page": 17,
+    "context_keywords": [
+      "sodium",
+      "metals",
+      "electricity",
+      "conductivity"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)(iv)",
+    "question_text": "Sodium chloride contains sodium ions, Na+, and chloride ions, Cl\u2013. Use this information to state the formula of sodium chloride.",
+    "page": 17,
+    "context_keywords": [
+      "sodium chloride",
+      "ions",
+      "chemical formula",
+      "sodium",
+      "chloride"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)(v)",
+    "question_text": "Sodium chloride is made of a giant structure of ions. Which diagram shows the arrangement of particles in sodium chloride?",
+    "page": 18,
+    "context_keywords": [
+      "sodium chloride",
+      "ionic structure",
+      "particles",
+      "diagram"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)(vi)",
+    "question_text": "Sodium chloride solution conducts electricity. State what can be put into the circuit in Figure 11 to show that a current is flowing.",
+    "page": 18,
+    "context_keywords": [
+      "sodium chloride",
+      "electricity",
+      "conductivity",
+      "circuit",
+      "current"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(c)(i)",
+    "question_text": "Figure 12 shows a flow diagram of how hydrochloric acid can be made. Balance the equation for the reaction between hydrogen and chlorine to form hydrogen chloride.",
+    "page": 19,
+    "context_keywords": [
+      "hydrochloric acid",
+      "hydrogen",
+      "chlorine",
+      "reaction",
+      "balancing equations"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(c)(ii)",
+    "question_text": "State how hydrogen chloride can be converted into hydrochloric acid.",
+    "page": 19,
+    "context_keywords": [
+      "hydrogen chloride",
+      "hydrochloric acid",
+      "conversion",
+      "chemical process"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "7(a)(i)",
+    "question_text": "In the complete combustion of alkanes, the alkane reacts with oxygen to produce carbon dioxide and water only. Pentane, C5H12, is an alkane. The equation for the complete combustion of pentane, C5H12, can be shown as C5H12 + 8O2 \u2192 wCO2 + 6H2O. What is the value of w needed to balance the equation for the reaction?",
+    "page": 20,
+    "context_keywords": [
+      "alkanes",
+      "combustion",
+      "pentane",
+      "chemical equation",
+      "balancing"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "7(a)(ii)",
+    "question_text": "What happens to pentane in this reaction?",
+    "page": 20,
+    "context_keywords": [
+      "pentane",
+      "reaction",
+      "combustion",
+      "chemical change"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "7(b)(i)",
+    "question_text": "Complete Figure 13 to show the structure of one molecule of propane and the formula of butane. alkanes: propane (C3H8), butane (C4H10), pentane (C5H12), hexane (C6H14).",
+    "page": 21,
+    "context_keywords": [
+      "alkanes",
+      "molecular structure",
+      "chemical formula",
+      "propane",
+      "butane"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "7(b)(ii)",
+    "question_text": "Using the information in Figure 13, give the empirical formula of hexane. alkanes: propane (C3H8), butane (C4H10), pentane (C5H12), hexane (C6H14).",
+    "page": 21,
+    "context_keywords": [
+      "alkanes",
+      "empirical formula",
+      "hexane",
+      "chemical formula"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "7(b)(iii)",
+    "question_text": "A student is asked to compare the amount of energy released during the combustion of two alkanes, hexane and octane. Using the apparatus shown in Figure 14, devise a plan for the student to compare the masses of hexane and octane required to raise the temperature of water by 30\u00b0C, describing how any variables in the experiment can be controlled to make a fair comparison.",
+    "page": 22,
+    "context_keywords": [
+      "combustion",
+      "alkanes",
+      "hexane",
+      "octane",
+      "energy release",
+      "experimental design"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(a)",
+    "question_text": "On the grid, plot the results shown in Figure 16. Draw a curve of best fit. Data: time in minutes (0 to 6) and volume of gas in cm3 (0, 52, 78, 91, 97, 100, 100).",
+    "page": 24,
+    "context_keywords": [
+      "data plotting",
+      "curve of best fit",
+      "gas volume",
+      "time",
+      "reaction rate"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(b)(i)",
+    "question_text": "Calculate the rate of reaction for the time interval 2 to 3 minutes. rate of reaction = volume of gas produced in 1 minute / 1 minute.",
+    "page": 25,
+    "context_keywords": [
+      "rate of reaction",
+      "calculation",
+      "time interval",
+      "gas volume"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(b)(ii)",
+    "question_text": "State and explain what happens to the rate of reaction as the acid reacts with the marble chips in this experiment.",
+    "page": 25,
+    "context_keywords": [
+      "rate of reaction",
+      "acid reaction",
+      "marble chips",
+      "chemical kinetics"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(c)",
+    "question_text": "The student repeated the experiment using the same volume of acid and the same mass of marble chips but used smaller marble chips. All other conditions remained the same. The student found that the reaction with the smaller marble chips was faster to start with but produced the same volume of gas. Using this information, draw a line on the grid to show the results for the reaction with the smaller marble chips. Label this line 'C'.",
+    "page": 25,
+    "context_keywords": [
+      "experimental results",
+      "reaction rate",
+      "surface area effect",
+      "marble chips",
+      "acid reaction"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(d)",
+    "question_text": "Which of the following changes would make the reaction faster?\nA use a larger boiling tube\nB use a larger volume of the dilute acid\nC use a more concentrated acid\nD use a smaller boiling tube",
+    "page": 26,
+    "context_keywords": [
+      "reaction rate",
+      "boiling tube",
+      "acid concentration",
+      "volume of acid"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(e)",
+    "question_text": "State what could be used to measure time in the investigation.",
+    "page": 26,
+    "context_keywords": [
+      "time measurement",
+      "investigation",
+      "experimental tools"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(a)",
+    "question_text": "Explain, in terms of their electronic configurations, why these metals are placed in group 1 of the periodic table.",
+    "page": 27,
+    "context_keywords": [
+      "group 1 metals",
+      "electronic configuration",
+      "periodic table"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(b)",
+    "question_text": "Which row shows two correct properties of group 1 metals?\nA\nB\nC\nD",
+    "page": 27,
+    "context_keywords": [
+      "group 1 metals",
+      "properties",
+      "chemical properties"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(c)",
+    "question_text": "The word equation for the reaction of potassium with bromine is\npotassium + bromine \u2192 potassium bromide\nAdd the missing state symbol and balance the equation for this reaction.\n............... K( ............... ) + Br 2 (g) \u2192 ............... KBr(s)",
+    "page": 28,
+    "context_keywords": [
+      "chemical reaction",
+      "potassium",
+      "bromine",
+      "equation balancing"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(d)",
+    "question_text": "A sample of potassium contains three isotopes, potassium-39, potassium-40 and potassium-41.\nExplain the meaning of the term isotopes.",
+    "page": 28,
+    "context_keywords": [
+      "isotopes",
+      "potassium",
+      "atomic structure"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(e)",
+    "question_text": "The reactivity of the group 1 metals increases from lithium to caesium.\nOften, teachers demonstrate the reactions of lithium, sodium and potassium with water.\nThese reactions can be used to predict the behaviour and reactions of rubidium and caesium with water.\nDescribe the reactions of each of the group 1 metals with water including the predicted behaviour and reactions of rubidium and caesium.\nYou may use word equations in your answer.",
+    "page": 28,
+    "context_keywords": [
+      "group 1 metals",
+      "reactivity",
+      "water reaction",
+      "lithium",
+      "sodium",
+      "potassium",
+      "rubidium",
+      "caesium"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "10(a)",
+    "question_text": "Atoms, molecules, nanoparticles and protons are types of particle.\nList these four types of particle in order of size from smallest to largest.\nsmallest\nlargest",
+    "page": 30,
+    "context_keywords": [
+      "particles",
+      "atoms",
+      "molecules",
+      "nanoparticles",
+      "protons",
+      "size order"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "10(b)(i)",
+    "question_text": "Nanoparticles have a large surface area to volume ratio.\nFigure 19 shows a cube-shaped nanoparticle with sides of 90\u2009nm.\nWhat is 90\u2009nm in metres?\nA 9.0 \u00d7 10 \u20135\nB 9.0 \u00d7 10 \u20136\nC 9.0 \u00d7 10 \u20138\nD 9.0 \u00d7 10 \u201311",
+    "page": 30,
+    "context_keywords": [
+      "nanoparticles",
+      "measurement",
+      "conversion",
+      "nanometres",
+      "metres"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "10(b)(ii)",
+    "question_text": "Calculate the simplest surface area to volume ratio for the nanoparticle in Figure 19.\nShow your working.\nsurface area to volume ratio = 1 :",
+    "page": 30,
+    "context_keywords": [
+      "surface area",
+      "volume ratio",
+      "nanoparticle",
+      "calculation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "10(c)(i)",
+    "question_text": "Figure 20 shows the structure of a molecule of tetrafluoroethene. Tetrafluoroethene can form the polymer poly(tetrafluoroethene). Draw a diagram to show the structure of the repeating unit of this polymer.",
+    "page": 31,
+    "context_keywords": [
+      "tetrafluoroethene",
+      "polymer",
+      "repeating unit",
+      "structure",
+      "diagram"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "10(c)(ii)",
+    "question_text": "Poly(tetrafluoroethene) is also known as Teflon TM. State one use of poly(tetrafluoroethene) and explain how one of its properties makes it suitable for that use.",
+    "page": 31,
+    "context_keywords": [
+      "Teflon",
+      "poly(tetrafluoroethene)",
+      "use",
+      "properties",
+      "suitability"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "question_id": "1(a)(i)",
+    "question_text": "In an experiment, paper chromatography was used to separate the coloured dyes in four different inks, W, X, Y, and Z. Figure 1 shows the chromatogram at the end of the experiment. The chromatogram shows that only one of the inks contains a single dye. Which ink contains a single dye? A W B X C Y D Z",
+    "page": 3,
+    "context_keywords": [
+      "chromatography",
+      "dyes",
+      "inks",
+      "experiment",
+      "solvent"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "1(a)(ii)",
+    "question_text": "In an experiment, paper chromatography was used to separate the coloured dyes in four different inks, W, X, Y, and Z. Figure 1 shows the chromatogram at the end of the experiment. Which ink contains the greatest number of dyes? A W B X C Y D Z",
+    "page": 3,
+    "context_keywords": [
+      "chromatography",
+      "dyes",
+      "inks",
+      "experiment",
+      "solvent"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "1(a)(iii)",
+    "question_text": "In an experiment, paper chromatography was used to separate the coloured dyes in four different inks, W, X, Y, and Z. Figure 1 shows the chromatogram at the end of the experiment. The Rf value of a dye can be calculated using the equation Rf = distance moved by the dye / distance moved by solvent front. At the end of the chromatography one dye had moved 3.60 cm and the solvent front had moved 9.20 cm. Calculate the Rf value for this dye. Give your answer to 2 decimal places. Rf =",
+    "page": 4,
+    "context_keywords": [
+      "chromatography",
+      "Rf value",
+      "dyes",
+      "solvent front",
+      "calculation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)(i)",
+    "question_text": "The substance used as the solvent in the chromatography was heated for 8 minutes. Figure 2 shows how the temperature of the substance changed with time. From A to B the substance was a liquid. From C to D the substance was a gas. Give the name of the change when a liquid becomes a gas.",
+    "page": 5,
+    "context_keywords": [
+      "phase change",
+      "liquid",
+      "gas",
+      "temperature",
+      "solvent"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)(ii)",
+    "question_text": "The substance used as the solvent in the chromatography was heated for 8 minutes. Figure 2 shows how the temperature of the substance changed with time. Use Figure 2 to give the temperature of the substance at 4 minutes.",
+    "page": 5,
+    "context_keywords": [
+      "temperature",
+      "time",
+      "solvent",
+      "heating",
+      "experiment"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)(iii)",
+    "question_text": "The substance used as the solvent in the chromatography was heated for 8 minutes. Figure 2 shows how the temperature of the substance changed with time. Use Figure 2 to give the time when the substance has completely changed into a gas.",
+    "page": 5,
+    "context_keywords": [
+      "gas",
+      "temperature",
+      "time",
+      "phase change",
+      "solvent"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)(iv)",
+    "question_text": "The substance used as the solvent in the chromatography was heated for 8 minutes. Figure 2 shows how the temperature of the substance changed with time. The temperature of the substance at A was 25 \u00b0C. Calculate the temperature rise of the substance from A to D.",
+    "page": 5,
+    "context_keywords": [
+      "temperature rise",
+      "calculation",
+      "heating",
+      "solvent",
+      "experiment"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  }
+]

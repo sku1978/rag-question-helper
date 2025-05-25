@@ -1,0 +1,108 @@
+[
+  {
+    "question_id": "1(a)",
+    "question_text": "A scientist obtained a mass of 0.0062 nanograms of DNA from a diploid human cell. Calculate the mass of DNA the scientist should obtain from a haploid human cell. Give your answer in picograms. (1 nanogram = 1000 picograms)",
+    "page": 2,
+    "context_keywords": [
+      "DNA",
+      "diploid",
+      "haploid",
+      "nanogram",
+      "picogram",
+      "calculate"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)(i)",
+    "question_text": "A student used the method shown in Figure 1 to compare the mass of DNA extracted from strawberry fruit cells and from kiwi fruit cells. The method includes: crush the fruit cells in a buffer solution, filter to separate the soluble DNA from the cell fragments, add ethanol. State why ethanol is used.",
+    "page": 2,
+    "context_keywords": [
+      "DNA extraction",
+      "strawberry",
+      "kiwi",
+      "ethanol",
+      "method"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)(ii)",
+    "question_text": "A student used the method shown in Figure 1 to compare the mass of DNA extracted from strawberry fruit cells and from kiwi fruit cells. The method includes: crush the fruit cells in a buffer solution, filter to separate the soluble DNA from the cell fragments, add ethanol. State two variables the student needs to control when using this method to compare the mass of DNA from these two fruits.",
+    "page": 3,
+    "context_keywords": [
+      "DNA extraction",
+      "variables",
+      "control",
+      "method",
+      "comparison"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)(iii)",
+    "question_text": "A student used the method shown in Figure 1 to compare the mass of DNA extracted from strawberry fruit cells and from kiwi fruit cells. The method includes: crush the fruit cells in a buffer solution, filter to separate the soluble DNA from the cell fragments, add ethanol. The student repeated the experiment. Give one reason why.",
+    "page": 3,
+    "context_keywords": [
+      "DNA extraction",
+      "experiment",
+      "repetition",
+      "method",
+      "reason"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "1(c)",
+    "question_text": "Mitosis and meiosis are processes that produce new cells. Compare the outcomes of mitosis and meiosis.",
+    "page": 3,
+    "context_keywords": [
+      "mitosis",
+      "meiosis",
+      "cell division",
+      "outcomes",
+      "compare"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "2(a)",
+    "question_text": "Clostridium tetani is a bacterium that can be found in soil. It causes the infection tetanus. Children are vaccinated against tetanus. Explain why these children do not get tetanus if the bacteria enter their body through a cut in the skin.",
+    "page": 4,
+    "context_keywords": [
+      "Clostridium tetani",
+      "tetanus",
+      "vaccination",
+      "infection",
+      "bacteria"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  },
+  {
+    "question_id": "2(b)",
+    "question_text": "Colistin is an antibiotic used to treat infections in the bloodstream. Some bacteria are resistant to Colistin. Explain how these bacteria have become resistant to Colistin.",
+    "page": 4,
+    "context_keywords": [
+      "Colistin",
+      "antibiotic resistance",
+      "bacteria",
+      "infections",
+      "bloodstream"
+    ],
+    "document_name": "Edexcel_Science_GCSE_Biology_2019.pdf",
+    "subject": "Biology",
+    "year": 2023
+  }
+]

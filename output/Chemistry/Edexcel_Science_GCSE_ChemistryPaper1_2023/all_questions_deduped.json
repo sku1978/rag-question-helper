@@ -1,0 +1,832 @@
+[
+  {
+    "question_id": "1(a)(i)",
+    "question_text": "In an experiment, paper chromatography was used to separate the coloured dyes in four different inks, W, X, Y, and Z. Figure 1 shows the chromatogram at the end of the experiment. The chromatogram shows that only one of the inks contains a single dye. Which ink contains a single dye? A W B X C Y D Z",
+    "page": 3,
+    "context_keywords": [
+      "chromatography",
+      "dyes",
+      "inks",
+      "experiment",
+      "solvent"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "1(a)(ii)",
+    "question_text": "In an experiment, paper chromatography was used to separate the coloured dyes in four different inks, W, X, Y, and Z. Figure 1 shows the chromatogram at the end of the experiment. Which ink contains the greatest number of dyes? A W B X C Y D Z",
+    "page": 3,
+    "context_keywords": [
+      "chromatography",
+      "dyes",
+      "inks",
+      "experiment",
+      "solvent"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "1(a)(iii)",
+    "question_text": "In an experiment, paper chromatography was used to separate the coloured dyes in four different inks, W, X, Y, and Z. Figure 1 shows the chromatogram at the end of the experiment. The Rf value of a dye can be calculated using the equation Rf = distance moved by the dye / distance moved by solvent front. At the end of the chromatography one dye had moved 3.60 cm and the solvent front had moved 9.20 cm. Calculate the Rf value for this dye. Give your answer to 2 decimal places. Rf =",
+    "page": 4,
+    "context_keywords": [
+      "chromatography",
+      "Rf value",
+      "dyes",
+      "solvent front",
+      "calculation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)(i)",
+    "question_text": "The substance used as the solvent in the chromatography was heated for 8 minutes. Figure 2 shows how the temperature of the substance changed with time. From A to B the substance was a liquid. From C to D the substance was a gas. Give the name of the change when a liquid becomes a gas.",
+    "page": 5,
+    "context_keywords": [
+      "phase change",
+      "liquid",
+      "gas",
+      "temperature",
+      "solvent"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)(ii)",
+    "question_text": "The substance used as the solvent in the chromatography was heated for 8 minutes. Figure 2 shows how the temperature of the substance changed with time. Use Figure 2 to give the temperature of the substance at 4 minutes.",
+    "page": 5,
+    "context_keywords": [
+      "temperature",
+      "time",
+      "solvent",
+      "heating",
+      "experiment"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)(iii)",
+    "question_text": "The substance used as the solvent in the chromatography was heated for 8 minutes. Figure 2 shows how the temperature of the substance changed with time. Use Figure 2 to give the time when the substance has completely changed into a gas.",
+    "page": 5,
+    "context_keywords": [
+      "gas",
+      "temperature",
+      "time",
+      "phase change",
+      "solvent"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "1(b)(iv)",
+    "question_text": "The substance used as the solvent in the chromatography was heated for 8 minutes. Figure 2 shows how the temperature of the substance changed with time. The temperature of the substance at A was 25 \u00b0C. Calculate the temperature rise of the substance from A to D.",
+    "page": 5,
+    "context_keywords": [
+      "temperature rise",
+      "calculation",
+      "heating",
+      "solvent",
+      "experiment"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "2(a)",
+    "question_text": "Most of the gold used in jewellery is not pure gold but alloys of gold. The purity of gold is measured in carats. Figure 3 shows how the percentage of gold is related to the purity of gold measured in carats. State the relationship between the percentage of gold and the number of carats.",
+    "page": 6,
+    "context_keywords": [
+      "gold",
+      "jewellery",
+      "alloys",
+      "carats",
+      "purity"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "2(b)",
+    "question_text": "Figure 4 shows the arrangement of atoms in pure gold and in an alloy of gold. Using Figure 4, explain why alloys of gold are stronger than pure gold.",
+    "page": 7,
+    "context_keywords": [
+      "gold",
+      "alloy",
+      "atoms",
+      "strength",
+      "Figure 4"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "2(c)",
+    "question_text": "Explain one property of alloys of gold, other than their strength, that makes them suitable for use in jewellery.",
+    "page": 7,
+    "context_keywords": [
+      "gold",
+      "alloys",
+      "jewellery",
+      "properties"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "3(a)",
+    "question_text": "This question is about electrolysis. Which statement describes what happens during electrolysis? A atoms are decomposed B ionic compounds are decomposed C mixtures are separated D molecules are separated",
+    "page": 8,
+    "context_keywords": [
+      "electrolysis",
+      "decomposition",
+      "ionic compounds",
+      "mixtures"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "3(b)(i)",
+    "question_text": "Figure 5 shows the electrolysis of copper chloride solution. Use the words from the box to complete the labelling of the diagram in Figure 5. anode cathode electrolyte",
+    "page": 8,
+    "context_keywords": [
+      "electrolysis",
+      "copper chloride",
+      "diagram",
+      "labelling",
+      "Figure 5"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "3(b)(ii)",
+    "question_text": "The products of the electrolysis shown in Figure 5 are solid X and gas Y. Draw one straight line from each product to its name. solid X gas Y product carbon chlorine copper hydrogen name",
+    "page": 9,
+    "context_keywords": [
+      "electrolysis",
+      "products",
+      "solid X",
+      "gas Y",
+      "Figure 5"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "3(b)(iii)",
+    "question_text": "The experiment is repeated using powdered solid copper chloride instead of copper chloride solution. Nothing happens and no products are formed. Explain why nothing happens and no products are formed.",
+    "page": 9,
+    "context_keywords": [
+      "electrolysis",
+      "copper chloride",
+      "experiment",
+      "no reaction"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(a)(i)",
+    "question_text": "Steel is an alloy containing iron. When exposed to damp air, some steels will corrode to form rust. Which gas in the air is needed for corrosion to occur? A argon B carbon dioxide C nitrogen D oxygen",
+    "page": 10,
+    "context_keywords": [
+      "steel",
+      "corrosion",
+      "rust",
+      "gas",
+      "air"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(a)(ii)",
+    "question_text": "What type of reaction happens when the iron in steel corrodes? A the iron has been displaced B the iron has been neutralised C the iron has been oxidised D the iron has been reduced",
+    "page": 10,
+    "context_keywords": [
+      "steel",
+      "iron",
+      "corrosion",
+      "reaction type"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(b)",
+    "question_text": "Rust can be removed from steel by treating it with dilute hydrochloric acid. One product formed in this reaction is iron chloride, FeCl3. Calculate the relative formula mass of this iron chloride. (relative atomic masses: Fe = 56.0, Cl = 35.5) relative formula mass =",
+    "page": 10,
+    "context_keywords": [
+      "rust",
+      "steel",
+      "hydrochloric acid",
+      "iron chloride",
+      "relative formula mass"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(c)",
+    "question_text": "Figure 6 shows the composition of one type of steel that has a low resistance to corrosion and another type of steel that has a high resistance to corrosion. (i) Using Figure 6, state which non-metal is in both types of steel.",
+    "page": 11,
+    "context_keywords": [
+      "steel",
+      "corrosion",
+      "composition",
+      "non-metal",
+      "Figure 6"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(c)(ii)",
+    "question_text": "Figure 6 shows the composition of one type of steel that has a low resistance to corrosion and another type of steel that has a high resistance to corrosion. (ii) Using Figure 6, state which metal is added to steel to increase its resistance to corrosion.",
+    "page": 11,
+    "context_keywords": [
+      "steel",
+      "corrosion",
+      "resistance",
+      "metal",
+      "Figure 6"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(c)(iii)",
+    "question_text": "Figure 6 shows the composition of one type of steel that has a low resistance to corrosion and another type of steel that has a high resistance to corrosion. (iii) Explain one other way that corrosion of steel can be prevented.",
+    "page": 11,
+    "context_keywords": [
+      "steel",
+      "corrosion",
+      "prevention",
+      "Figure 6"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "4(d)",
+    "question_text": "A student is given two nails of the same size but made of different types of steel. They are also given two boiling tubes and some distilled water. Devise an experiment to show which nail corrodes more quickly.",
+    "page": 12,
+    "context_keywords": [
+      "nails",
+      "steel",
+      "corrosion",
+      "experiment",
+      "distilled water"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(a)(i)",
+    "question_text": "When lead nitrate solution and potassium chloride solution are mixed, potassium nitrate and a precipitate of lead chloride are formed. (i) Complete the word equation for this reaction. lead nitrate + ..................................................................................... \u2192 .....................................................................................",
+    "page": 13,
+    "context_keywords": [
+      "lead nitrate",
+      "potassium chloride",
+      "reaction",
+      "word equation",
+      "precipitate"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(a)(ii)",
+    "question_text": "When lead nitrate solution and potassium chloride solution are mixed, potassium nitrate and a precipitate of lead chloride are formed. (ii) Lead nitrate is toxic. Which hazard symbol should be on a container of lead nitrate?",
+    "page": 13,
+    "context_keywords": [
+      "lead nitrate",
+      "toxic",
+      "hazard symbol",
+      "safety"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(b)(i)",
+    "question_text": "A student put 5 cm3 of potassium carbonate solution into a test tube and added 2 cm3 of calcium nitrate solution. A precipitate formed and was allowed to settle as shown in Figure 7. (i) Give the name of the piece of apparatus the student should use to find the volume of the potassium carbonate solution.",
+    "page": 14,
+    "context_keywords": [
+      "potassium carbonate",
+      "calcium nitrate",
+      "volume",
+      "apparatus",
+      "Figure 7"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(b)(ii)",
+    "question_text": "A student put 5 cm3 of potassium carbonate solution into a test tube and added 2 cm3 of calcium nitrate solution. The results are shown in Figure 8. (ii) Use the data in Figure 8 to calculate the mean height of the precipitate. mean height of precipitate = ..............................................................",
+    "page": 14,
+    "context_keywords": [
+      "potassium carbonate",
+      "calcium nitrate",
+      "data",
+      "mean height",
+      "Figure 8"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(b)(iii)",
+    "question_text": "A student put 5 cm3 of potassium carbonate solution into a test tube and added 2 cm3 of calcium nitrate solution. A precipitate formed and was allowed to settle as shown in Figure 7. (iii) Describe how a pure, dry sample of the precipitate could be obtained from the mixture in the test tube.",
+    "page": 15,
+    "context_keywords": [
+      "potassium carbonate",
+      "calcium nitrate",
+      "precipitate",
+      "pure sample",
+      "Figure 7"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "5(b)(iv)",
+    "question_text": "A student put 5 cm3 of potassium carbonate solution into a test tube and added 2 cm3 of calcium nitrate solution. The student investigated whether increasing the volume of calcium nitrate solution increased the height of the precipitate formed. (iv) State one variable that should be controlled in this investigation.",
+    "page": 15,
+    "context_keywords": [
+      "potassium carbonate",
+      "calcium nitrate",
+      "variable",
+      "investigation",
+      "controlled"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(a)(i)",
+    "question_text": "Magnesium is a metal. State one physical property of magnesium.",
+    "page": 16,
+    "context_keywords": [
+      "magnesium",
+      "physical property",
+      "metal"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(a)(ii)",
+    "question_text": "Magnesium is a metal. Which element is in the same group of the periodic table as magnesium? Use the periodic table to help you answer this question. A carbon B chromium C sodium D strontium",
+    "page": 16,
+    "context_keywords": [
+      "magnesium",
+      "periodic table",
+      "element group"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)(i)",
+    "question_text": "Magnesium atoms have 12 electrons. Complete the electronic configuration of a magnesium atom. 2.8. ...............................",
+    "page": 16,
+    "context_keywords": [
+      "magnesium",
+      "electrons",
+      "electronic configuration"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(b)(ii)",
+    "question_text": "The electronic configuration of a chlorine atom is 2.8.7. Explain how the electronic configuration of chlorine is linked to its period in the periodic table.",
+    "page": 16,
+    "context_keywords": [
+      "chlorine",
+      "electronic configuration",
+      "periodic table"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(c)",
+    "question_text": "1.20 g of magnesium reacts completely with 3.55 g of chlorine to form magnesium chloride. Calculate the empirical formula of the magnesium chloride. (relative atomic masses: Mg = 24.0, Cl = 35.5) You must show your working. empirical formula =",
+    "page": 17,
+    "context_keywords": [
+      "magnesium chloride",
+      "empirical formula",
+      "reaction",
+      "magnesium",
+      "chlorine"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "6(d)",
+    "question_text": "Sodium reacts with chlorine to form sodium chloride, which contains ionic bonds. Hydrogen reacts with chlorine to form hydrogen chloride, which contains covalent bonds. Describe the differences between an ionic bond and a covalent bond.",
+    "page": 18,
+    "context_keywords": [
+      "ionic bond",
+      "covalent bond",
+      "sodium chloride",
+      "hydrogen chloride"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "7(a)(i)",
+    "question_text": "Figure 10 shows some information on a container of plant fertiliser. State which element, often present in fertilisers, is not present in this fertiliser.",
+    "page": 19,
+    "context_keywords": [
+      "fertiliser",
+      "elements",
+      "plant nutrition"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "7(a)(ii)",
+    "question_text": "Ammonium nitrate, NH4NO3, is prepared for use in fertilisers by neutralising ammonia with an acid. Which acid reacts with ammonia to produce ammonium nitrate? A ethanoic acid B hydrochloric acid C nitric acid D sulfuric acid",
+    "page": 19,
+    "context_keywords": [
+      "ammonium nitrate",
+      "ammonia",
+      "acid reaction",
+      "fertiliser"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "7(a)(iii)",
+    "question_text": "State why farmers spread fertilisers on their fields.",
+    "page": 19,
+    "context_keywords": [
+      "fertilisers",
+      "agriculture",
+      "soil nutrients"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "7(b)(i)",
+    "question_text": "Ammonium sulfate is a fertiliser and is produced on a large scale in industry. In this process, ammonia reacts with sulfuric acid. Write the word equation for the reaction between ammonia and sulfuric acid.",
+    "page": 19,
+    "context_keywords": [
+      "ammonium sulfate",
+      "ammonia",
+      "sulfuric acid",
+      "chemical reaction"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "7(b)(ii)",
+    "question_text": "Ammonium sulfate can also be made in the laboratory by titrating ammonia solution with dilute sulfuric acid. Give one disadvantage of using this laboratory method to produce ammonium sulfate as a fertiliser compared with an industrial method.",
+    "page": 20,
+    "context_keywords": [
+      "ammonium sulfate",
+      "laboratory method",
+      "industrial method",
+      "disadvantage"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "7(c)",
+    "question_text": "In the laboratory, ammonium sulfate crystals can be made using ammonia solution and dilute sulfuric acid. The volume of ammonia solution required to neutralise 25 cm3 of dilute sulfuric acid is found by titration using an indicator. The results of the titration can be used to prepare a solution of ammonium sulfate. Pure, dry ammonium sulfate crystals can be made from this solution. Write a detailed method to make ammonium sulfate crystals starting with ammonia solution and dilute sulfuric acid.",
+    "page": 20,
+    "context_keywords": [
+      "ammonium sulfate",
+      "crystal preparation",
+      "titration",
+      "laboratory method"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(a)",
+    "question_text": "In an experiment, powdered calcium hydroxide was added to dilute hydrochloric acid and the pH was measured. The method used was step 1 measure 200 cm3 dilute hydrochloric acid into a beaker, step 2 add 0.1 g of powdered calcium hydroxide to the beaker, step 3 find the pH of the mixture, step 4 repeat steps 2 and 3 until the pH stops changing. State what should be done after step 2 to make sure that any reaction is complete.",
+    "page": 22,
+    "context_keywords": [
+      "calcium hydroxide",
+      "hydrochloric acid",
+      "pH",
+      "reaction",
+      "experiment"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(b)",
+    "question_text": "In an experiment, powdered calcium hydroxide was added to dilute hydrochloric acid and the pH was measured. Complete the word equation for the reaction. calcium hydroxide + hydrochloric acid \u2192",
+    "page": 22,
+    "context_keywords": [
+      "calcium hydroxide",
+      "hydrochloric acid",
+      "word equation",
+      "chemical reaction"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(c)",
+    "question_text": "In an experiment, powdered calcium hydroxide was added to dilute hydrochloric acid and the pH was measured. Which row of the table shows the state symbols for powdered calcium hydroxide and dilute hydrochloric acid in the balanced chemical equation? A B C D calcium hydroxide hydrochloric acid aq l l aq s aq s l",
+    "page": 22,
+    "context_keywords": [
+      "calcium hydroxide",
+      "hydrochloric acid",
+      "state symbols",
+      "chemical equation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(d)(i)",
+    "question_text": "The results of the experiment are shown in Figure 12. Using Figure 12, give the pH of the acid at the start of the experiment. pH =",
+    "page": 23,
+    "context_keywords": [
+      "Figure 12",
+      "pH",
+      "calcium hydroxide",
+      "experiment"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(d)(ii)",
+    "question_text": "The results of the experiment are shown in Figure 12. Using Figure 12, give the mass of calcium hydroxide required to make a neutral mixture. mass of calcium hydroxide =",
+    "page": 23,
+    "context_keywords": [
+      "Figure 12",
+      "calcium hydroxide",
+      "neutral mixture",
+      "experiment"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(d)(iii)",
+    "question_text": "The results of the experiment are shown in Figure 12. Explain why the pH starts at a low value and ends at a higher value.",
+    "page": 23,
+    "context_keywords": [
+      "Figure 12",
+      "pH",
+      "calcium hydroxide",
+      "acid-base reaction"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(e)",
+    "question_text": "State what should be used to measure the pH of the mixture in this experiment.",
+    "page": 24,
+    "context_keywords": [
+      "pH measurement",
+      "experiment",
+      "mixture"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "8(f)",
+    "question_text": "The calcium hydroxide used is corrosive to the eyes and an irritant to skin. Using this information, state one safety precaution that should be taken during the experiment when using any corrosive substance.",
+    "page": 24,
+    "context_keywords": [
+      "calcium hydroxide",
+      "safety",
+      "corrosive",
+      "experiment"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(a)",
+    "question_text": "Figure 13 shows part of the reactivity series of metals. Which metal reacts when added to cold water? A calcium B copper C gold D silver",
+    "page": 26,
+    "context_keywords": [
+      "reactivity series",
+      "metals",
+      "cold water",
+      "calcium",
+      "copper",
+      "gold",
+      "silver"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(b)(i)",
+    "question_text": "A student investigates the reactivity of four different metals. The student adds an equal-sized piece of each metal to separate test tubes containing dilute hydrochloric acid. The student\u2019s observations for zinc and copper are recorded in Figure 14. Use the information in Figure 13 and in Figure 14 to predict the observations for the reactions of magnesium and of iron with dilute hydrochloric acid. magnesium iron",
+    "page": 26,
+    "context_keywords": [
+      "reactivity",
+      "metals",
+      "hydrochloric acid",
+      "magnesium",
+      "iron",
+      "zinc",
+      "copper"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(b)(ii)",
+    "question_text": "When metals react with acids, hydrogen gas is produced. Describe the test to show that the gas is hydrogen.",
+    "page": 26,
+    "context_keywords": [
+      "metals",
+      "acids",
+      "hydrogen gas",
+      "chemical test"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(b)(iii)",
+    "question_text": "When magnesium reacts with hydrochloric acid, magnesium chloride and hydrogen are formed. Complete the balanced equation for the reaction. Mg + .............................................. HCl \u2192 MgCl2 + ...............................................",
+    "page": 26,
+    "context_keywords": [
+      "magnesium",
+      "hydrochloric acid",
+      "reaction",
+      "balanced equation",
+      "magnesium chloride",
+      "hydrogen"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "9(c)",
+    "question_text": "There are three common methods of obtaining metals from the Earth\u2019s crust: mine the pure metal, mine the metal ore and heat it with carbon, mine the metal ore and electrolyse the molten compound. The method used to obtain a metal is linked to its position in the reactivity series of metals. Aluminium, gold, iron, and silver are some commonly used metals. Use the reactivity series in Figure 13 to state and explain the method chosen to obtain each of these four metals.",
+    "page": 28,
+    "context_keywords": [
+      "metals",
+      "Earth's crust",
+      "reactivity series",
+      "extraction methods",
+      "aluminium",
+      "gold",
+      "iron",
+      "silver"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "10(a)",
+    "question_text": "There are several stages to the production of sulfuric acid in industry. Sulfur dioxide is required for the production of sulfuric acid. Sulfur dioxide can be obtained by heating copper sulfide, Cu2S, in excess air. Cu2S + O2 \u2192 2Cu + SO2 Calculate the atom economy for the production of sulfur dioxide, SO2, in this reaction. (relative atomic mass: Cu = 63.5 relative formula masses: O2 = 32.0, Cu2S = 159.0, SO2 = 64.0) Give your answer to two significant figures. atom economy =",
+    "page": 30,
+    "context_keywords": [
+      "sulfuric acid",
+      "sulfur dioxide",
+      "copper sulfide",
+      "atom economy",
+      "chemical reaction"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "10(b)",
+    "question_text": "In one stage vanadium oxide, V2O5, is used. Based on the position of vanadium in the periodic table, which row shows the most likely melting point of vanadium and colour of vanadium oxide? A B C D melting point of vanadium in \u00b0C colour of vanadium oxide 50 white 1910 white 50 orange 1910 orange",
+    "page": 30,
+    "context_keywords": [
+      "vanadium oxide",
+      "periodic table",
+      "melting point",
+      "chemical properties"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "10(c)(i)",
+    "question_text": "The equation shows a reaction forming sulfuric acid. SO3 + H2O \u2192 H2SO4. Calculate the maximum mass of sulfuric acid that could be produced from 400 tonnes of sulfur trioxide, SO3. (relative formula masses: SO3 = 80, H2SO4 = 98) maximum mass of sulfuric acid =",
+    "page": 31,
+    "context_keywords": [
+      "sulfuric acid",
+      "sulfur trioxide",
+      "reaction",
+      "mass calculation",
+      "chemical equation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "10(c)(ii)",
+    "question_text": "The equation shows a reaction forming sulfuric acid. SO3 + H2O \u2192 H2SO4. Using a different amount of sulfur trioxide, it was calculated that 700 tonnes of sulfuric acid could be made. The actual mass produced was 672 tonnes. Calculate the percentage yield of sulfuric acid. percentage yield =",
+    "page": 31,
+    "context_keywords": [
+      "sulfuric acid",
+      "sulfur trioxide",
+      "percentage yield",
+      "reaction",
+      "chemical equation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "10(c)(iii)",
+    "question_text": "The equation shows a reaction forming sulfuric acid. SO3 + H2O \u2192 H2SO4. State two reasons why the percentage yield is less than 100%.",
+    "page": 31,
+    "context_keywords": [
+      "sulfuric acid",
+      "sulfur trioxide",
+      "percentage yield",
+      "reaction",
+      "chemical equation"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper1_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  }
+]
