@@ -1,0 +1,44 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: ankane/pgvector
+    container_name: shared-postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: ${PGUSER}
+      POSTGRES_PASSWORD: ${PGPASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - ragnet
+
+  dev:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: rag-question-helper-dev
+    ports:
+      - "8000:8000"   # 🌐 Exposes FastAPI on localhost:8000
+    volumes:
+      - .:/workspaces/rag-question-helper
+    working_dir: /workspaces/rag-question-helper
+    command: uvicorn api.main:app --host 0.0.0.0 --port 8000 --reload
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      PGUSER: ${PGUSER}
+      PGPASSWORD: ${PGPASSWORD}
+      PGHOST: postgres
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+    networks:
+      - ragnet
+    depends_on:
+      - postgres
+
+volumes:
+  postgres_data:
+
+networks:
+  ragnet:

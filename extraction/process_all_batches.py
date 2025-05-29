@@ -10,9 +10,9 @@ client = OpenAI()
 
 # === CONFIG ===
 SUBJECT = "Physics"
-DOCUMENT_NAME = "Edexcel_Science_GCSE_Physics_2023.pdf"
-YEAR = 2023
-OUTPUT_DIR = f"../output/{SUBJECT}/{DOCUMENT_NAME.replace('.pdf', '')}"
+DOCUMENT_NAME = "Edexcel_Science_GCSE_PhysicsUniversal_2017.pdf"
+YEAR = 2017
+OUTPUT_DIR = f"output/{SUBJECT}/{DOCUMENT_NAME.replace('.pdf', '')}"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 def build_prompt(subject, document_name, year, batch_text, last_question_id=None, main_pages=None):
@@ -63,7 +63,7 @@ def stitch_batch_text(batch, pages_dict):
         texts.append(f"[Page {p}]\n{content}")
     return "\n\n".join(texts)
 
-def call_openai(messages, retries=3, delay=30):
+def call_openai(messages, retries=1, delay=30):
     for attempt in range(retries):
         try:
             response = client.chat.completions.create(
@@ -176,7 +176,7 @@ def load_extracted_pages(path):
 
         return pages
     
-def run_batch_with_retries(messages, batch_index, retries=3, delay=30):
+def run_batch_with_retries(messages, batch_index, retries=1, delay=30):
     for attempt in range(retries):
         try:
             print(f"🚀 Batch {batch_index}: Attempt {attempt + 1}")

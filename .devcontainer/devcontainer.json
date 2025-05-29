@@ -1,17 +1,33 @@
 {
   "name": "rag-question-helper",
-  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "dev",
+  "workspaceFolder": "/workspaces/rag-question-helper",
+
   "features": {
     "ghcr.io/devcontainers/features/docker-in-docker:2": {}
   },
-  "runArgs": [ "--network=devnet" ],
-  "postCreateCommand": "pip install -r requirements.txt",
-  "mounts": [
-    "source=${localWorkspaceFolder}/sample_papers,target=/workspace/sample_papers,type=bind"
-  ],
+
   "customizations": {
     "vscode": {
-      "extensions": ["ms-python.python"]
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.autopep8"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python"
+      }
     }
+  },
+
+  "postCreateCommand": "pip install -r requirements.txt",
+
+  "remoteEnv": {
+    "POSTGRES_DB": "${localEnv:POSTGRES_DB}",
+    "PGUSER": "${localEnv:PGUSER}",
+    "PGPASSWORD": "${localEnv:PGPASSWORD}",
+    "PGHOST": "${localEnv:PGHOST}",
+    "OPENAI_API_KEY": "${localEnv:OPENAI_API_KEY}"
   }
 }

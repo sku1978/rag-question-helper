@@ -1,5 +1,9 @@
 pymupdf
-pdfminer.six
 python-dotenv
 openai
 requests
+psycopg2-binary
+fastapi
+uvicorn
+psycopg2
+jinja2

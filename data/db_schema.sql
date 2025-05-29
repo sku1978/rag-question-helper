@@ -1,6 +1,8 @@
-CREATE DATABASE IF NOT EXISTS question_vector_db;
+--CREATE DATABASE question_vector_db;
 
 CREATE EXTENSION IF NOT EXISTS vector;
+
+--DROP TABLE IF EXISTS questions;
 
 CREATE TABLE IF NOT EXISTS questions (
     id SERIAL PRIMARY KEY,
@@ -11,5 +13,7 @@ CREATE TABLE IF NOT EXISTS questions (
     document_name TEXT,
     subject TEXT,
     year INTEGER,
-    embedding VECTOR(1536)  -- for OpenAI 'text-embedding-ada-002'
+    source_file TEXT,  
+    embedding VECTOR(1536),         -- OpenAI ada-002
+    load_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
