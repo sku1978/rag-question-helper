@@ -19,6 +19,8 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+    env_file:
+      - .env
     container_name: rag-question-helper-dev
     ports:
       - "8000:8000"   # 🌐 Exposes FastAPI on localhost:8000

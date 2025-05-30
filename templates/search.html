@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GCSE Question Search</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 2rem;
+        }
+        input[type="text"], select {
+            width: auto;
+            padding: 0.5rem;
+            font-size: 1rem;
+        }
+        button {
+            padding: 0.5rem 1rem;
+            font-size: 1rem;
+        }
+        table {
+            width: 100%;
+            margin-top: 2rem;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 0.75rem;
+            border: 1px solid #ccc;
+            text-align: left;
+        }
+        th {
+            background-color: #f3f3f3;
+        }
+    </style>
+</head>
+<body>
+    <h1>🔍 GCSE Question Search</h1>
+
+    <input type="text" id="query" placeholder="Enter a topic or phrase...">
+
+    <!-- 👇 Dropdown for result limit -->
+    <select id="limit">
+        <option value="5" selected>Top 5</option>
+        <option value="10">Top 10</option>
+        <option value="25">Top 25</option>
+        <option value="50">Top 50</option>
+        <option value="100">Top 100</option>
+    </select>
+
+    <button onclick="search()">Search</button>
+
+    <table id="results" style="display:none;">
+        <thead>
+            <tr>
+                <th>Similarity</th>
+                <th>Question</th>
+                <th>Document</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script>
+        async function search() {
+            const query = document.getElementById("query").value;
+            const limit = document.getElementById("limit").value;
+
+            if (!query.trim()) return;
+
+            const response = await fetch(`/api/search?query=${encodeURIComponent(query)}&limit=${limit}`);
+            const data = await response.json();
+
+            const table = document.getElementById("results");
+            const tbody = table.querySelector("tbody");
+            tbody.innerHTML = "";
+
+            if (data.results.length > 0) {
+                table.style.display = "";
+                data.results.forEach(result => {
+                    const row = document.createElement("tr");
+
+                    const similarity = document.createElement("td");
+                    similarity.textContent = result.similarity.toFixed(4);
+                    row.appendChild(similarity);
+
+                    const question = document.createElement("td");
+                    question.textContent = result.question_text.slice(0, 200) + (result.question_text.length > 200 ? "..." : "");
+                    row.appendChild(question);
+
+                    const doc = document.createElement("td");
+                    doc.textContent = result.document_name;
+                    row.appendChild(doc);
+
+                    const action = document.createElement("td");
+                    const link = document.createElement("a");
+                    const fileOnly = result.document_name.split("/").pop();
+                    link.href = `/pdfs/Physics/${fileOnly}#page=${result.page}`;
+                    link.target = "_blank";
+                    link.textContent = "📄 Open PDF";
+                    action.appendChild(link);
+                    row.appendChild(action);
+
+                    tbody.appendChild(row);
+                });
+            } else {
+                table.style.display = "none";
+                alert("No results found.");
+            }
+        }
+    </script>
+</body>
+</html>
