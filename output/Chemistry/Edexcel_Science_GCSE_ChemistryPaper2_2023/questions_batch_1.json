@@ -1,14 +1,57 @@
 [
   {
+    "question_id": "2(b)(i)",
+    "question_text": "The student repeated the method for three different salts, A, B, and C. The same mass of each salt was used. Figure 5 shows the temperature readings obtained for the three different salts. Calculate the temperature change for salt C. Include a sign to show if the temperature change is an increase or a decrease. temperature change = ..............................................................",
+    "page": 5,
+    "context_keywords": [
+      "temperature change",
+      "salt C",
+      "exothermic",
+      "endothermic",
+      "thermometer"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "2(b)(ii)",
+    "question_text": "The student repeated the method for three different salts, A, B, and C. The same mass of each salt was used. Figure 5 shows the temperature readings obtained for the three different salts. Explain which salt produces the biggest exothermic change.",
+    "page": 5,
+    "context_keywords": [
+      "temperature change",
+      "salt A",
+      "salt B",
+      "salt C",
+      "exothermic"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
+    "question_id": "2(c)",
+    "question_text": "Explain why a polystyrene cup is a better container to use for this investigation than a glass beaker.",
+    "page": 5,
+    "context_keywords": [
+      "polystyrene cup",
+      "glass beaker",
+      "thermal insulation",
+      "experiment setup"
+    ],
+    "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
+    "subject": "Chemistry",
+    "year": 2023
+  },
+  {
     "question_id": "3(a)(i)",
-    "question_text": "Complete step 2 of how to carry out a flame test. step 1 dip a flame test wire in dilute hydrochloric acid and then hold the wire in a roaring Bunsen flame until the flame is colourless step 2 step 3 hold the wire with the substance in a roaring Bunsen burner flame.",
+    "question_text": "Chemical tests are used to identify unknown substances. A flame test can be used to identify metal ions in a substance. Complete step 2 of how to carry out a flame test. step 1 dip a flame test wire in dilute hydrochloric acid and then hold the wire in a roaring Bunsen flame until the flame is colourless step 2",
     "page": 6,
     "context_keywords": [
       "flame test",
       "metal ions",
-      "Bunsen burner",
-      "hydrochloric acid",
-      "wire"
+      "step 2",
+      "Bunsen burner"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -16,12 +59,12 @@
   },
   {
     "question_id": "3(a)(ii)",
-    "question_text": "Many metal ions produce a coloured flame in a flame test. Draw one straight line from each metal ion to its flame colour in a flame test. copper ion potassium ion sodium ion orange-red red yellow blue-green lilac metal ion flame colour",
+    "question_text": "Chemical tests are used to identify unknown substances. Many metal ions produce a coloured flame in a flame test. Draw one straight line from each metal ion to its flame colour in a flame test. copper ion potassium ion sodium ion orange-red red yellow blue-green lilac metal ion flame colour",
     "page": 6,
     "context_keywords": [
       "flame test",
       "metal ions",
-      "flame colour",
+      "flame colours",
       "copper",
       "potassium",
       "sodium"
@@ -32,13 +75,13 @@
   },
   {
     "question_id": "3(b)",
-    "question_text": "Some metal ions can be identified using sodium hydroxide solution. Drops of sodium hydroxide solution were added to a solution containing iron(III) ions, Fe 3+. What would be seen? A blue solution B green liquid C red-brown precipitate D yellow gas",
+    "question_text": "Some metal ions can be identified using sodium hydroxide solution. Drops of sodium hydroxide solution were added to a solution containing iron(III) ions, Fe3+. What would be seen? A blue solution B green liquid C red-brown precipitate D yellow gas",
     "page": 7,
     "context_keywords": [
       "sodium hydroxide",
-      "metal ions",
       "iron(III) ions",
-      "precipitate"
+      "precipitate",
+      "chemical test"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -49,10 +92,9 @@
     "question_text": "In the test for carbonate ions, dilute hydrochloric acid is added to the solid carbonate in a test tube. A gas is given off. Give the name of this gas.",
     "page": 7,
     "context_keywords": [
-      "carbonate ions",
+      "carbonate test",
       "hydrochloric acid",
-      "gas",
-      "test tube"
+      "gas evolution"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -60,13 +102,13 @@
   },
   {
     "question_id": "3(c)(ii)",
-    "question_text": "Figure 6 shows the apparatus that a student set up to test for this gas. limewater Figure 6 This apparatus will not work. State what change is needed so that bubbles of the gas can pass through the limewater.",
+    "question_text": "In the test for carbonate ions, dilute hydrochloric acid is added to the solid carbonate in a test tube. A gas is given off. Figure 6 shows the apparatus that a student set up to test for this gas. This apparatus will not work. State what change is needed so that bubbles of the gas can pass through the limewater.",
     "page": 7,
     "context_keywords": [
-      "apparatus",
+      "carbonate test",
+      "apparatus setup",
       "limewater",
-      "gas test",
-      "carbonate test"
+      "gas testing"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -79,8 +121,8 @@
     "context_keywords": [
       "ammonium ions",
       "sodium hydroxide",
-      "litmus paper",
-      "gas"
+      "gas test",
+      "litmus paper"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -88,13 +130,13 @@
   },
   {
     "question_id": "4(a)",
-    "question_text": "Complete the bar chart showing the composition of the Earth\u2019s atmosphere 3 billion years ago by adding a bar to show the percentage of carbon dioxide. carbon dioxide water vapour all other gases 100 90 80 70 60 50 40 30 20 10 0 percentage of gas in Earth\u2019s early atmosphere",
+    "question_text": "A scientist produced the information in Figure 7 about the Earth\u2019s atmosphere and the Earth\u2019s average surface temperature. Complete the bar chart showing the composition of the Earth\u2019s atmosphere 3 billion years ago by adding a bar to show the percentage of carbon dioxide. carbon dioxide water vapour all other gases",
     "page": 10,
     "context_keywords": [
       "Earth's atmosphere",
       "carbon dioxide",
-      "bar chart",
-      "historical data"
+      "historical data",
+      "bar chart"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",

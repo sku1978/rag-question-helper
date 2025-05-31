@@ -1,27 +1,21 @@
 import os
 import psycopg2
 import psycopg2.extras
-from openai import OpenAI
+from ai.openai_client import get_openai_client
 from dotenv import load_dotenv
 import argparse
 
 load_dotenv()
-client = OpenAI()
+client = get_openai_client()
 
 # ---- Argument parser ----
 parser = argparse.ArgumentParser(description="Search GCSE questions via vector similarity")
 parser.add_argument("--top", type=int, default=5, help="Number of top results to return (default: 5)")
 args = parser.parse_args()
 
-print(f"PGHOST: {os.getenv('PGHOST', 'localhost')}")
-# ---- Postgres connection ----
-conn = psycopg2.connect(
-    dbname=os.getenv("POSTGRES_DB"),
-    user=os.getenv("PGUSER"),
-    password=os.getenv("PGPASSWORD"),
-    host=os.getenv("PGHOST", "localhost"),
-    port=5432,
-)
+# ---- Database connection ----
+from db.db_connection import get_db_connection
+conn = get_db_connection()
 cur = conn.cursor()
 
 # ---- User input query ----

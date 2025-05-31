@@ -5,9 +5,9 @@
     "page": 16,
     "context_keywords": [
       "ethanol",
-      "molecule structure",
-      "functional group",
+      "molecule",
       "alcohol",
+      "functional group",
       "chemistry"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
@@ -66,7 +66,7 @@
       "chlorine",
       "molecule",
       "simple molecules",
-      "chemical structure"
+      "definition"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -79,8 +79,8 @@
     "context_keywords": [
       "sodium",
       "metals",
-      "electricity",
-      "conductivity"
+      "conductivity",
+      "electricity"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -93,7 +93,7 @@
     "context_keywords": [
       "sodium chloride",
       "ions",
-      "chemical formula",
+      "formula",
       "sodium",
       "chloride"
     ],
@@ -107,9 +107,10 @@
     "page": 18,
     "context_keywords": [
       "sodium chloride",
-      "ionic structure",
-      "particles",
-      "diagram"
+      "ions",
+      "structure",
+      "diagram",
+      "particles"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -121,10 +122,10 @@
     "page": 18,
     "context_keywords": [
       "sodium chloride",
+      "solution",
       "electricity",
-      "conductivity",
-      "circuit",
-      "current"
+      "current",
+      "circuit"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -139,7 +140,7 @@
       "hydrogen",
       "chlorine",
       "reaction",
-      "balancing equations"
+      "balance equation"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -153,7 +154,7 @@
       "hydrogen chloride",
       "hydrochloric acid",
       "conversion",
-      "chemical process"
+      "chemistry"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -164,11 +165,12 @@
     "question_text": "In the complete combustion of alkanes, the alkane reacts with oxygen to produce carbon dioxide and water only. Pentane, C5H12, is an alkane. The equation for the complete combustion of pentane, C5H12, can be shown as C5H12 + 8O2 \u2192 wCO2 + 6H2O. What is the value of w needed to balance the equation for the reaction?",
     "page": 20,
     "context_keywords": [
-      "alkanes",
       "combustion",
+      "alkanes",
       "pentane",
-      "chemical equation",
-      "balancing"
+      "oxygen",
+      "carbon dioxide",
+      "water"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",

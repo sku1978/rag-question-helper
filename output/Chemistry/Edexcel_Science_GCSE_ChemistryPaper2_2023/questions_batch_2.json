@@ -1,13 +1,12 @@
 [
   {
     "question_id": "4(b)(i)",
-    "question_text": "Use words from the box to complete the following sentence. Over the past 3 billion years the average surface temperature of the Earth ............................................................................................................................",
+    "question_text": "Use words from the box to complete the following sentence. Over the past 3 billion years the average surface temperature of the Earth .........................................................................................................................",
     "page": 11,
     "context_keywords": [
-      "Earth",
-      "surface temperature",
-      "3 billion years",
-      "change"
+      "Earth's surface temperature",
+      "historical climate change",
+      "temperature variation"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -20,8 +19,7 @@
     "context_keywords": [
       "Earth's atmosphere",
       "water vapour",
-      "3 billion years",
-      "change"
+      "atmospheric changes"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -33,8 +31,7 @@
     "page": 11,
     "context_keywords": [
       "carbon dioxide",
-      "oxygen",
-      "primitive plants",
+      "oxygen production",
       "photosynthesis"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
@@ -46,10 +43,9 @@
     "question_text": "Which of the following tests would show that a gas is oxygen? A put a lighted splint into the gas and it burns with a pop B put a glowing splint into the gas and it relights C put a lighted splint into the gas and it relights D put a glowing splint into the gas and it burns with a pop",
     "page": 11,
     "context_keywords": [
-      "oxygen",
-      "gas test",
-      "lighted splint",
-      "glowing splint"
+      "oxygen test",
+      "gas identification",
+      "chemical properties"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -57,15 +53,12 @@
   },
   {
     "question_id": "4(d)(i)",
-    "question_text": "The amount of carbon dioxide in the atmosphere is measured in parts per million (ppm). Figure 8 shows the amount of carbon dioxide in the atmosphere in June 2001 and in June 2021. Calculate the increase in the amount of carbon dioxide, in ppm, from June 2001 to June 2021. Give your answer to the nearest whole number. increase in amount of carbon dioxide =",
+    "question_text": "The amount of carbon dioxide in the atmosphere is measured in parts per million (ppm). Figure 8 shows the amount of carbon dioxide in the atmosphere in June 2001 and in June 2021. Calculate the increase in the amount of carbon dioxide, in ppm, from June 2001 to June 2021. Give your answer to the nearest whole number.",
     "page": 12,
     "context_keywords": [
       "carbon dioxide",
-      "atmosphere",
-      "increase",
-      "ppm",
-      "2021",
-      "2001"
+      "atmospheric measurements",
+      "climate change"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -77,9 +70,8 @@
     "page": 12,
     "context_keywords": [
       "carbon dioxide",
-      "atmosphere",
-      "effects",
-      "climate change"
+      "environmental impact",
+      "global warming"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -92,9 +84,7 @@
     "context_keywords": [
       "ethanol",
       "fermentation",
-      "glucose",
-      "apparatus",
-      "label"
+      "glucose"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -102,13 +92,12 @@
   },
   {
     "question_id": "5(b)",
-    "question_text": "The student dissolved 45 g of glucose in water to make 150 cm3 of glucose solution. Calculate the concentration of this solution in g dm\u20133. concentration of glucose solution =",
+    "question_text": "The student dissolved 45 g of glucose in water to make 150 cm3 of glucose solution. Calculate the concentration of this solution in g dm\u20133.",
     "page": 14,
     "context_keywords": [
+      "solution concentration",
       "glucose",
-      "solution",
-      "concentration",
-      "calculation"
+      "molarity"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -119,9 +108,9 @@
     "question_text": "State what should be added to the glucose solution to cause the fermentation reaction.",
     "page": 14,
     "context_keywords": [
-      "glucose solution",
       "fermentation",
-      "additive"
+      "glucose solution",
+      "reactants"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -132,10 +121,9 @@
     "question_text": "After a few days, a dilute solution of ethanol is formed. Which piece of apparatus should be used to produce a concentrated solution of ethanol from the dilute solution of ethanol by fractional distillation?",
     "page": 15,
     "context_keywords": [
-      "ethanol",
       "fractional distillation",
-      "apparatus",
-      "concentration"
+      "ethanol concentration",
+      "apparatus"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",
@@ -143,14 +131,12 @@
   },
   {
     "question_id": "5(e)",
-    "question_text": "The complete fermentation of 180 g of glucose produces 92 g of ethanol. Calculate the maximum mass of ethanol, in g, produced from the complete fermentation of 45 g of glucose. maximum mass of ethanol =",
+    "question_text": "The complete fermentation of 180 g of glucose produces 92 g of ethanol. Calculate the maximum mass of ethanol, in g, produced from the complete fermentation of 45 g of glucose.",
     "page": 15,
     "context_keywords": [
       "fermentation",
-      "glucose",
-      "ethanol",
-      "yield",
-      "calculation"
+      "ethanol yield",
+      "glucose conversion"
     ],
     "document_name": "Edexcel_Science_GCSE_ChemistryPaper2_2023.pdf",
     "subject": "Chemistry",

@@ -3,11 +3,11 @@
 import os
 import psycopg2
 import psycopg2.extras
-from openai import OpenAI
 from dotenv import load_dotenv
+from ai.openai_client import get_openai_client
 
 load_dotenv()
-client = OpenAI()
+client = get_openai_client()
 
 def search_questions(query: str, limit: int = 5):
     # Generate embedding using OpenAI
