@@ -179,3 +179,7 @@ cython_debug/
 
 sample_papers/**
 output/**
+
+
+# Excalidraw files
+*.excalidraw

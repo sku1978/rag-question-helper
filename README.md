@@ -38,6 +38,9 @@ A fully end-to-end system for parsing GCSE question papers from PDF into structu
                │  Front-End Web UI (HTML + JS)       │
                └────────────────────────────────────┘
 
+
+![Architecture Diagram](docs/architecture.svg)
+
 ---
 
 ## 🔎 End-to-End ETL Flow
