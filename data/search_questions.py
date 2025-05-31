@@ -13,6 +13,7 @@ parser = argparse.ArgumentParser(description="Search GCSE questions via vector s
 parser.add_argument("--top", type=int, default=5, help="Number of top results to return (default: 5)")
 args = parser.parse_args()
 
+print(f"PGHOST: {os.getenv('PGHOST', 'localhost')}")
 # ---- Postgres connection ----
 conn = psycopg2.connect(
     dbname=os.getenv("POSTGRES_DB"),

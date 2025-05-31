@@ -1,8 +1,8 @@
 {
   "name": "rag-question-helper",
-  "dockerComposeFile": "../docker-compose.yml",
   "service": "dev",
   "workspaceFolder": "/workspaces/rag-question-helper",
+  "dockerComposeFile": "../docker-compose.yml",
 
   "features": {
     "ghcr.io/devcontainers/features/docker-in-docker:2": {}
