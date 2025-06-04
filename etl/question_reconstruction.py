@@ -129,7 +129,9 @@ def safe_parse_json(text: str) -> List[Dict[str, Any]]:
             if isinstance(data, list):
                 return data
         except Exception:
-            raise ValueError("Response could not be parsed as a list of questions")
+            pass
+    # If we reach here, parsing failed
+    raise ValueError("Response could not be parsed as a list of questions")
 
 def run_batch_with_retries(messages, batch_index, retries=3, delay=30):
     for attempt in range(retries):
